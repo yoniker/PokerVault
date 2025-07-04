@@ -1,0 +1,15 @@
+# Device‑specific UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+
+# Cache files
+.obsidian/cache
+.obsidian/graph.json
+
+# Plugin‑generated transient files (optional)
+.obsidian/plugins/*/data.json
+
+# System files
+.DS_Store
+Thumbs.db
