@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "8dc003f95c85ab3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c225bcbc9abf5c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e156c1534281e596",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48e75eb71b1fc42e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "35ed7b495d09c62a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "1bbab5219ee3e28c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a71b9c22e3787c7c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "bf32fab9d78185c5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cecab45677536e72",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0f58e31fca73f3dd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "a9ad3ed060ad4534",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "a84bdb1bdb0a8e9f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e156c1534281e596",
+  "lastOpenFiles": [
+    "Board 8 - As Qh Qd as BU vs BB.md",
+    "Board 5 - Ks Ts Th as BU vs BB.md",
+    "Board 5 - Ks Ts Th as BB vs BU.md",
+    "Board 4 - As Qs 9h as BB vs BU.md",
+    "Board 8 - As Qh Qd as BB vs BU.md",
+    "Board 4 - As Qs 9h as BU vs BB.md",
+    "Board 13 - As Ah Ks as BB vs BU.md",
+    "Board 24 - Jh Ts 6s as BU vs BB.md",
+    "Board 6 - Js,5h,4d as BU vs BB.md",
+    "Board 11 – 10s8h3s as BB vs BU.md",
+    "Board 10 - 8s 6h 2d as BB vs BU.md",
+    "Board 11 – 10s8h3s as BU vs BB.md",
+    "Board 6 - Js,5h,4d as BB vs BU.md",
+    "Board 23 - Qs 7h 5d as BU vs BB.md",
+    "Board 21 - 9s 7h 4d as BU vs BB.md",
+    "Board 12 - As 6s 5s as BU vs BB.md",
+    "Board 25 - Js 4h 3s as BB vs BU.md",
+    "Board 19 - Js 9h 6s as BU vs BB.md",
+    "Board 16 - Ks 9h 3d as BU vs BB.md",
+    "Board 7- 9s,6s,2s as BU vs BB.md",
+    "Board 15 QhJs8s as BB vs BU SRP.md",
+    "Board 18 - Ah 5s 4s as BB vs BU.md",
+    "Board 13 - As Ah Ks as BU vs BB.md",
+    "Board 15 QhJs8s as BU vs BB SRP.md",
+    "Saulo costa - exploiting fish.md",
+    "Board 7- 9s,6s,2s as BB vs BU.md"
+  ]
+}
