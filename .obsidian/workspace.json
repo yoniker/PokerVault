@@ -1,0 +1,369 @@
+{
+  "main": {
+    "id": "74f300e096839231",
+    "type": "split",
+    "children": [
+      {
+        "id": "27a408e526989beb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "013489056ccc10d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Board 6 - Js,5h,4d as BU vs BB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Board 6 - Js,5h,4d as BU vs BB"
+            }
+          },
+          {
+            "id": "29116401b8cc22ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Board 6 - Js,5h,4d as BB vs BU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Board 6 - Js,5h,4d as BB vs BU"
+            }
+          },
+          {
+            "id": "e08d4c801afae754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Board 7- 9s,6s,2s as BU vs BB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Board 7- 9s,6s,2s as BU vs BB"
+            }
+          },
+          {
+            "id": "0f73729046b40bbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Board 7- 9s,6s,2s as BB vs BU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Board 7- 9s,6s,2s as BB vs BU"
+            }
+          },
+          {
+            "id": "26355f596d293498",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Template"
+            }
+          },
+          {
+            "id": "a656b8dd2a39dec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Board 2- Kh8s7s as BU vs BB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Board 2- Kh8s7s as BU vs BB"
+            }
+          },
+          {
+            "id": "998c20a5cf436119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Board 3 - 9s8s5h as BU vs BB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Board 3 - 9s8s5h as BU vs BB"
+            }
+          },
+          {
+            "id": "f1c7079e9ca56b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Board 3 - 9s8s5h as BB vs BU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Board 3 - 9s8s5h as BB vs BU"
+            }
+          },
+          {
+            "id": "4cb486f878da2534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Board 3 - 9s8s5h as BB vs BU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Board 3 - 9s8s5h as BB vs BU"
+            }
+          },
+          {
+            "id": "328d5b7d35012865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Board 15 QhJs8s as BB vs BU SRP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Board 15 QhJs8s as BB vs BU SRP"
+            }
+          },
+          {
+            "id": "68c6c424226d5442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Board 4 - As Qs 9h as BU vs BB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Board 4 - As Qs 9h as BU vs BB"
+            }
+          },
+          {
+            "id": "c167be4ffb42d925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Board 6 - Js,5h,4d as BU vs BB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Board 6 - Js,5h,4d as BU vs BB"
+            }
+          },
+          {
+            "id": "c1f46c692c1f8f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Board 11 – T83 two tone (BU vs BB SRP as BB).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Board 11 – T83 two tone (BU vs BB SRP as BB)"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af096637e3e3aa4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cf9db7ec8510866",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "388d17fdb81e8a51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "953b54c60ed1f52c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cdb17156f474b723",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f7599c2eaf7e37e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c7a965cbe2c8867",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f74c2d27bce1f337",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kh Kd Ts - BTN vs BB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kh Kd Ts - BTN vs BB"
+            }
+          },
+          {
+            "id": "d955677d0a8162bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kh Kd Ts - BTN vs BB.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kh Kd Ts - BTN vs BB"
+            }
+          },
+          {
+            "id": "c93e7c96f2f173f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4d900279a7ba77f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kh Kd Ts - BTN vs BB.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kh Kd Ts - BTN vs BB"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "68c6c424226d5442",
+  "lastOpenFiles": [
+    "Board 4 - As Qs 9h as BB vs BU.md",
+    "Board 3 - 9s8s5h as BU vs BB.md",
+    "Board 11 – 10s8h3s as BU vs BB.md",
+    "Board 11 – 10s8h3s as BB vs BU.md",
+    "Board 3 - 9s8s5h as BB vs BU.md",
+    "Board 22 - 8h 4s 3s as BU vs BB.md",
+    "Board 22 - 8h 4s 3s as BB vs BU.md",
+    "Board 7- 9s,6s,2s as BU vs BB.md",
+    "Board 9 - 6s 4h 2d as BU vs BB.md",
+    "Board 10 - 8s 6h 2d as BU vs BB.md",
+    "Board 14 - 7s 5h 2s as BB vs BU.md",
+    "Board 14 - 7s 5h 2s as BU vs BB.md",
+    "Board 9 - 6s 4h 2d as BB vs BU.md",
+    "Board 5 - Ks Ts Th as BB vs BU.md",
+    "Saulo Costa low stakes secrets masterclass.md",
+    "Board 5 - Ks Ts Th as BU vs BB.md",
+    "Board 4 - As Qs 9h as BU vs BB.md",
+    "Board 2 - Kh 8s 7s as BU vs BB.md",
+    "Welcome.md",
+    "Template.md",
+    "Board 2- Kh8s7s as BU vs BB.md",
+    "Board 2 - Kh 8s 7s as BB vs BU.md",
+    "Board 7- 9s,6s,2s as BB vs BU.md",
+    "Board 25 - Js 4h 3s as BU vs BB.md",
+    "Board 25 - Js 4h 3s as BB vs BU.md",
+    "Board 24 - Jh Ts 6s as BU vs BB.md"
+  ]
+}
