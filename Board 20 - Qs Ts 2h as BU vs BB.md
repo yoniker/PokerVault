@@ -5,7 +5,6 @@ This spot was not studied yet
 Global bet frequency is 50%, 
 hands that pure check - A8/A7 no spade no hearts (only Aheart bets), ATC can bet, only hands that bet pure are sets, small pps with a spade bet infrequently
 
-Try board 20
 ## Turn
 
 
