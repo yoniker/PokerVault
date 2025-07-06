@@ -12,7 +12,7 @@
 
 ### UTG / LJ
 - 🎯 Target RFI: ~17.4%
-- 📊 Current RFI: ~19.65%
+- 📊 Current RFI: ~19.54%
 - 📝 Notes:
   - 
 
@@ -20,7 +20,7 @@
 
 ### HJ
 - 🎯 Target RFI: ~21.6%
-- 📊 Current RFI: ~18.71%
+- 📊 Current RFI: ~21.3%
 - 📝 Notes:
   
 
@@ -28,7 +28,7 @@
 
 ### CO
 - 🎯 Target RFI: ~28.4%
-- 📊 Current RFI: ~17.67%
+- 📊 Current RFI: ~23.24%
 - 📝 Notes:
   
 
@@ -36,7 +36,7 @@
 
 ### BU
 - 🎯 Target RFI: ~41.9%
-- 📊 Current RFI: ~18.5%
+- 📊 Current RFI: ~32.44%
 - 📝 Notes:
   
 
@@ -44,7 +44,7 @@
 
 ### SB
 - 🎯 Target RFI: ~47.5%
-- 📊 Current RFI: ~X%
+- 📊 Current RFI: ~46.09%
 - 📝 Notes:
 
 ---
