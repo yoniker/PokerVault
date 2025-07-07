@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Board 11 – 10s8h3s as BU vs BB.md",
+                "file": "Board 1 - Kh Kd Ts as BB vs BU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Board 11 – 10s8h3s as BU vs BB"
+              "title": "Board 1 - Kh Kd Ts as BB vs BU"
             }
           },
           {
@@ -396,8 +396,9 @@
   },
   "active": "7691477f322632f1",
   "lastOpenFiles": [
-    "Board 11 – 10s8h3s as BB vs BU.md",
     "Board 1 - Kh Kd Ts as BU vs BB.md",
+    "Board 11 – 10s8h3s as BU vs BB.md",
+    "Board 11 – 10s8h3s as BB vs BU.md",
     "Board 13 - As Ah Ks as BB vs BU.md",
     "Board 13 - As Ah Ks as BU vs BB.md",
     "Hands.md",
@@ -420,7 +421,6 @@
     "Board 3 - 9s8s5h as BB vs BU.md",
     "Board 3 - 9s8s5h as BU vs BB.md",
     "Board 4 - As Qs 9h as BB vs BU.md",
-    "Board 4 - As Qs 9h as BU vs BB.md",
-    "Board 5 - Ks Ts Th as BB vs BU.md"
+    "Board 4 - As Qs 9h as BU vs BB.md"
   ]
 }
