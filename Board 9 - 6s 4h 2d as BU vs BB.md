@@ -11,7 +11,7 @@ When BB bets small, all of BU's range continues except its worst broadway cards.
 
 After flop goes B30-C and then overbet a 3s turn, BU continues with his 5x of course, but also flush draws, all pocket pairs no exception, and with any pair pure, unless the kicker is an Ace and then it only continues sometimes 
 
-After action goes B30-C X turn, BU's nut flushes with lower kickers tend to bet way more (sometimes pure) than their bigger kickers counterparts (A9+)
+After action goes B30-C X turn, BU's nut flush draws with lower kickers tend to bet way more (sometimes pure) than their bigger kickers counterparts (A9+)
 
 ## River
 
