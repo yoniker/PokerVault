@@ -8,6 +8,8 @@ Jx and Qx region is the region which x/r the flop (with or without a gutshot) th
 
 ## Turn
 
+Flop goes X/B30/C, Turn is Ks X/B100 (BU can do this with stuff like Jh4h) - BB calls with AJ/AQ/pps/Tx/Kx, BB never raises here.
+
 ## River
 
 Flop goes X/B30/C turn 8h X/X River Jd X/B50 - BB calls PURE any 8x and up (so any pair on the board)
