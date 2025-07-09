@@ -207,56 +207,10 @@
             "id": "7691477f322632f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 1 - Kh Kd Ts as BB vs BU.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Board 1 - Kh Kd Ts as BB vs BU"
-            }
-          },
-          {
-            "id": "6e0e31f67a082830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 25 - Js 4h 3s as BB vs BU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 25 - Js 4h 3s as BB vs BU"
-            }
-          },
-          {
-            "id": "b7f3daa67c82f51b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General advice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General advice"
-            }
-          },
-          {
-            "id": "b7b6ed228052aa4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General advice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General advice"
+              "title": "New tab"
             }
           },
           {
@@ -288,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -436,33 +390,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7b6ed228052aa4d",
+  "active": "7691477f322632f1",
   "lastOpenFiles": [
-    "Carrot Corner-10NL coaching poker is hard (Youtube).md",
-    "Carrot Corner Grade3 Lecture1.md",
+    "Courses/CarrotCorner/Carrot Corner Grade3 Lecture1.md",
+    "Courses/CarrotCorner",
+    "Misc/Hands.md",
+    "Misc/General advice.md",
+    "Misc",
+    "misc/Hands.md",
+    "misc/General advice.md",
+    "misc",
+    "Mental/Nachos - how to study like a beast.md",
+    "Mental/Benabadbeat - How I overcame the WORST DOWNSWING of my career.md",
+    "Mental",
+    "mental/Benabadbeat - How I overcame the WORST DOWNSWING of my career.md",
+    "etc/Hands.md",
+    "MyLeaks/RFI.md",
+    "MyLeaks",
     "General advice.md",
-    "Board 25 - Js 4h 3s as BB vs BU.md",
-    "Board 25 - Js 4h 3s as BU vs BB.md",
-    "Board 8 - As Qh Qd as BU vs BB.md",
-    "Board 8 - As Qh Qd as BB vs BU.md",
-    "Board 4 - As Qs 9h as BB vs BU.md",
-    "Board 9 - 6s 4h 2d as BB vs BU.md",
-    "Board 9 - 6s 4h 2d as BU vs BB.md",
-    "Board 10 - 8s 6h 2d as BB vs BU.md",
-    "Board 20 - Qs Ts 2h as BU vs BB.md",
-    "Board 3 - 9s8s5h as BB vs BU.md",
-    "Board 3 - 9s8s5h as BU vs BB.md",
-    "Board 22 - 8h 4s 3s as BU vs BB.md",
-    "Board 22 - 8h 4s 3s as BB vs BU.md",
-    "Board 14 - 7s 5h 2s as BU vs BB.md",
-    "Board 7- 9s,6s,2s as BU vs BB.md",
-    "Board 6 - Js,5h,4d as BU vs BB.md",
-    "Board 6 - Js,5h,4d as BB vs BU.md",
-    "Board 19 - Js 9h 6s as BU vs BB.md",
-    "Board 2 - Kh 8s 7s as BU vs BB.md",
-    "Board 2 - Kh 8s 7s as BB vs BU.md",
-    "Board 1 - Kh Kd Ts as BU vs BB.md",
-    "Board 1 - Kh Kd Ts as BB vs BU.md",
-    "Board 15 QhJs8s as BU vs BB SRP.md"
+    "etc/General advice.md",
+    "etc",
+    "Courses/low_stakes_blueprint/Saulo costa - low stakes course-module 1 leaks.md",
+    "Courses/low_stakes_blueprint",
+    "Courses",
+    "CarrotCorner/Carrot Corner Grade3 Lecture1.md",
+    "CarrotCorner",
+    "YouTube/Carrot Corner-10NL coaching poker is hard (Youtube).md",
+    "YouTube/Saulo costa - exploiting fish.md",
+    "YouTube",
+    "mental/Nachos - how to study like a beast.md",
+    "GTO/Board 9 - 6s 4h 2d as BU vs BB.md",
+    "GTO/Board 9 - 6s 4h 2d as BB vs BU.md",
+    "GTO/Board 8 - As Qh Qd as BU vs BB.md",
+    "GTO/Board 8 - As Qh Qd as BB vs BU.md",
+    "GTO/Board 7- 9s,6s,2s as BU vs BB.md",
+    "GTO/Board 7- 9s,6s,2s as BB vs BU.md",
+    "GTO/Board 6 - Js,5h,4d as BU vs BB.md",
+    "GTO/Board 6 - Js,5h,4d as BB vs BU.md",
+    "GTO/Board 5 - Ks Ts Th as BU vs BB.md"
   ]
 }
