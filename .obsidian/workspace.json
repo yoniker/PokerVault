@@ -232,6 +232,34 @@
             }
           },
           {
+            "id": "b7f3daa67c82f51b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General advice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General advice"
+            }
+          },
+          {
+            "id": "b7b6ed228052aa4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General advice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General advice"
+            }
+          },
+          {
             "id": "c167be4ffb42d925",
             "type": "leaf",
             "state": {
@@ -260,7 +288,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -408,10 +436,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e0e31f67a082830",
+  "active": "b7b6ed228052aa4d",
   "lastOpenFiles": [
-    "Board 25 - Js 4h 3s as BU vs BB.md",
+    "Carrot Corner-10NL coaching poker is hard (Youtube).md",
+    "Carrot Corner Grade3 Lecture1.md",
+    "General advice.md",
     "Board 25 - Js 4h 3s as BB vs BU.md",
+    "Board 25 - Js 4h 3s as BU vs BB.md",
     "Board 8 - As Qh Qd as BU vs BB.md",
     "Board 8 - As Qh Qd as BB vs BU.md",
     "Board 4 - As Qs 9h as BB vs BU.md",
@@ -432,9 +463,6 @@
     "Board 2 - Kh 8s 7s as BB vs BU.md",
     "Board 1 - Kh Kd Ts as BU vs BB.md",
     "Board 1 - Kh Kd Ts as BB vs BU.md",
-    "Board 15 QhJs8s as BU vs BB SRP.md",
-    "Board 15 QhJs8s as BB vs BU SRP.md",
-    "Benabadbeat - How I overcame the WORST DOWNSWING of my career.md",
-    "Board 11 – 10s8h3s as BU vs BB.md"
+    "Board 15 QhJs8s as BU vs BB SRP.md"
   ]
 }
