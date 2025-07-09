@@ -1,6 +1,6 @@
 
 Study date begin: 9-July
-Study date end:
+Study date end: ongoing
 
-Test note
+
 
