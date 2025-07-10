@@ -8,7 +8,7 @@ Every hand can bet at some frequency except AT-AQ no spade, hands with a spade n
 
 After flop went X/X, if on a 3 turn, and BB bets small, a overcard+gutshot no spade type of hand can raise. As with a gutshot like A5,A4 raises close to pure, whereas a hand like A7o with As is more passive
 
-On a 4 turn, BU mostly bluff with 5x,3x and spades, and infrequently random double broadway no spade hands. The stronger the broadway spade the more im likely to bet it.
+On a 4 turn after flop went X/X, BU mostly bluff with 5x,3x and spades, and infrequently random double broadway no spade hands. The stronger the broadway spade the more im likely to bet it.
 
 AQo with As bets infrequently (some turns like Kx or a board pairing turn it's checking back pure)
 
