@@ -24,7 +24,7 @@ Anaswers:
 
 1. I need about 29% in EV to continue... Indifference point is 66 when it comes to robust hands
 
-2. While all the flushes continue, vs a slightly bigger bet they don't - so this is sensitive.
+2. While all the flushes continue vs this sizing, vs a slightly bigger bet they don't - so this is sensitive.
 
 3. pps without a diamond call much less: Their outs aren't as clean (one of them will complete a draw), and they block the CO's outs in case he has a flush draw.
 
@@ -35,4 +35,5 @@ Rank the following hands from highest to lowest in EV when calling:
 KdQd is an excellent flush draw as well as two overpair draw - best EV.
 Ks7s has 5 outs to improve to two pair plus in case it's behind - second best
 8s8h - above 66 in ev just thx to its rank
+AQo - as good as the 66 when it's bluff catching, but it has 6 outs when behind vs 2 outs...
 6h6d
