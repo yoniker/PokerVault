@@ -22,9 +22,10 @@ Guided questions(for hand 1 as BB):
 
 Anaswers:
 
-1. I need about 29% in EV to continue. I think that Jx that don't block CO's bluff range (98/T9) can continue, so QJ+ is probably pure call, weak Jx like J5hh can call somtimes, as well as hands like A7/A5/A3 as well as pps with a diamond like 66/55/44/99/88
+1. I need about 29% in EV to continue... Indifference point is 66 when it comes to robust hands
 
-2. The worst flush draw have reverse implied odds so I think that those are indifferent (nut flush draws continue at some form or another) so QT/Q9 can fold frequently
+2. While all the flushes continue, vs a slightly bigger bet they don't - so this is sensitive.
+
 3. pps without a diamond call much less: Their outs aren't as clean (one of them will complete a draw), and they block the CO's outs in case he has a flush draw.
 
 
