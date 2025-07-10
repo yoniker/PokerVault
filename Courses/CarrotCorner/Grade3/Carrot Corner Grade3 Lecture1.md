@@ -2,7 +2,7 @@
 Study date begin: 9-July
 Study date end: ongoing
 
-Current video time:13:32
+Current video time:20:54
 
 Mixing is only ok when i expect to get roughly the save EV from the 2/3 actions i'm mixing between, and necessary only in a game with a high visibility (people can take notes on me or observe my tendencies in a live setting).
 
@@ -74,6 +74,8 @@ High equity low SDV hands:
  the fds no SDV do it a lot,especially strong combo draws like 54dd,64dd
 #### How big of a mistake it is to raise Ah7h?
 Not a big mistake, but if solver raised hands like this too often, solver wouldn't be indifferent with hands like top pair because this weakens the raise range of BB.
+
+#### Hybrid raises
 
 
 
