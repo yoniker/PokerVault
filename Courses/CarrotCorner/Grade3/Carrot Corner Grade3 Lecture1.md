@@ -14,7 +14,10 @@ In this lecture we're going to look at facing a bet and mixing between fold/call
 Let's start with an example:
 
 Hand 1: CO vs BB SRP, flop Jd,3h,2c flop x/B30/C
-Turn 7d X/B75 and now it's on us as BB when facing this. When we face a turn barrel in equilibrium (not against the maniac who overbluffs or the nit who underbluffs but against a competent player), we have a large cluster of hands that are 0EV (indifferent between calling and folding - some are raising but we will ignore this option for now and look only at calling/folding).
+Turn 7d X/B75 and now it's on us as BB when facing this. 
+https://app.gtowizard.com/solutions?solution_type=gwiz&gmfs_solution_tab=ai_sols&gametype=Cash6m50zSimple25Open3betV2_SimpleOOP&depth=100&gmfft_sort_key=0&gmfft_sort_order=desc&preflop_actions=F-F-R2.5-F-F-C&flop_actions=X-R1.8-C&turn_actions=X-R5.3&history_spot=10&board=Jd3h2c7d
+
+When we face a turn barrel in equilibrium (not against the maniac who overbluffs or the nit who underbluffs but against a competent player), we have a large cluster of hands that are 0EV (indifferent between calling and folding - some are raising but we will ignore this option for now and look only at calling/folding).
 
 We have two thresholds: One threshold for robust hands (=hands that already have SDV) and one for draws(=frail hands).
 
@@ -46,5 +49,36 @@ AQo - as good as the 66 when it's bluff catching, but it has 6 outs when behind 
 ### Turn raise cutoff point
 
 Since on the turn we will have a very small value x/r range (77,J7) we will rarely raise with out mixes, and if a hand in a vaccum would fold or raise, it would mostly raise at this spot. If a hand is indifferent between call/raise (for example flush draw) it would mostly call and rarely raise.
+
+Guided questions and answers:
+
+
+#### Find hands are indifferent between raising and calling?
+ 
+Answer: Jh9h is a surprising example. The main reasons? 
+
+1. It can make some better hands fold (like a better Jx)-we make Jx of villian a bluffcatcher, we should raise this hand only very rarely 
+2. worse hands can call (like flushdraws, OESD etc)
+Other hands that can rarely raise are 7x, some draws, etc.
+
+#### What hands are indifferent between raising and folding?
+
+Gutshots without a fd,  fds with no sdv raise here pure to often
+
+#### find a hand that is indifferent between folding and raising?
+
+6h4h / 6c5c /9h8h for example (gutshot no diamonds) are hands that mix raising and folding.
+
+#### Find a hand that prefers bluff raising to all other options?
+High equity low SDV hands:
+ the fds no SDV do it a lot,especially strong combo draws like 54dd,64dd
+#### How big of a mistake it is to raise Ah7h?
+Not a big mistake, but if solver raised hands like this too often, solver wouldn't be indifferent with hands like top pair because this weakens the raise range of BB.
+
+
+
+
+
+	
 
 
