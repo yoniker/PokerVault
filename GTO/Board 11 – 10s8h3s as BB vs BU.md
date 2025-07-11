@@ -7,7 +7,7 @@ Last Session studied this spot: Date:27-June-2025
 
 ## Turn
 
-	After flop c hecked through, Kc turn, BB can sometimes lead with straight draws (J9,97,88) flush draws, and some value hands like bottom set, two pair,  KJ/KT.
+	After flop checked through, Kc turn, BB can sometimes lead with straight draws (J9,97) flush draws, and some value hands like sets, two pair,  KJ/KT.
 I can sometimes lead a lot on the turn with flush draws/Top pair/sets/two pair after flop went X/X.
 
 On a board pairing T, I can X/R with T but also with K/Q/J high flushes, A high flushes are more passive usually
