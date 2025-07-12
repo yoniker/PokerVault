@@ -11,7 +11,7 @@ hands that pure check - A8/A7 no spade no hearts (only Aheart bets), ATC can bet
 
 ## River
 
-Flop goes X/X, turn Qd X/B75/C, on the river I bluff only Jx or Kx for a big sizing B125 (and Qx goes for value)
+Flop goes X/X, turn Qd X/B75/C, on the river of Ad  I bluff only Jx or Kx for a big sizing B125 (and Qx goes for value)
 
 Flop goes X/B30/C turn Td X/X river 2d and BB goes B120, BU calls almost pure with any Q (Q9o infrequently fold)
 
