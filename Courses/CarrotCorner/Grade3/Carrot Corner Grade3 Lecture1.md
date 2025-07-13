@@ -144,3 +144,9 @@ https://app.gtowizard.com/solutions?solution_type=gwiz&gmfs_solution_tab=ai_sols
 Put everything into 5 buckets, for example between a call and a raise:
 Pure call, infrequently raise, sometimes raise, frequently raise, pure raise
 Those buckets are 0%,25%,50%,75% and 100%.
+
+
+Post GTO study session:
+After studying GTO, I can answer the following questions:
+1. My most common mistakes before studying, especially EV errors but if they don't exist then mixing errors
+2. Name the main thing that I want to be more aware of in-game (when I play) - what am I constantly forgetting/doing wrong in game?
