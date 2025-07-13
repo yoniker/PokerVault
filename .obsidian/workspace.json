@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reality check/Templates/Case-study template.md",
+                "file": "Courses/CarrotCorner/Grade3/Carrot Corner Grade3 Lecture1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Case-study template"
+              "title": "Carrot Corner Grade3 Lecture1"
             }
           },
           {
@@ -396,8 +396,8 @@
   },
   "active": "7691477f322632f1",
   "lastOpenFiles": [
-    "Reality check/Templates/Weekly template.md",
     "Reality check/Templates/Case-study template.md",
+    "Reality check/Templates/Weekly template.md",
     "Misc/General advice.md",
     "Reality check/Templates",
     "Reality check",
