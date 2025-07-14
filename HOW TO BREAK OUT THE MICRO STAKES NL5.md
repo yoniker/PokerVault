@@ -5,3 +5,4 @@ video source:https://www.youtube.com/watch?v=1d1_VqivThA
 2.  AJo sometimes 3-bet as BU vs LJ open, but when the opener is tight like 20/17 I want to not do it.
 3. Be patient, and take my time when taking decisions
 4. In this player pool, people play their hand - if they raise they have a good hand - just fold
+5. 
