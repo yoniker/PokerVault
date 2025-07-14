@@ -1,3 +1,4 @@
+Last study session: 8-July-2025
 ## Flop
 
 BU can bet any two cards except underpair no spades and AQ no spade
