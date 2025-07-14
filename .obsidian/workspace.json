@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YouTube/How I Made it from Lowstakes to Highstakes Poker in 1 year.md",
+                "file": "GTO/Board 13 - As Ah Ks as BU vs BB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How I Made it from Lowstakes to Highstakes Poker in 1 year"
+              "title": "Board 13 - As Ah Ks as BU vs BB"
             }
           },
           {
@@ -410,11 +410,17 @@
   },
   "active": "fe48dfb06f3221c3",
   "lastOpenFiles": [
-    "YouTube/RYE cash - HOW TO CRUSH MICROSTAKES – NL10 EDITION.md",
+    "GTO/Board 13 - As Ah Ks as BB vs BU.md",
+    "GTO/Board 12 - As 6s 5s as BU vs BB.md",
+    "GTO/Board 19 - Js 9h 6s as BU vs BB.md",
+    "GTO/Board 19 - Js 9h 6s as BB vs BU.md",
+    "GTO/Board 15 QhJs8s as BU vs BB SRP.md",
+    "GTO/Board 2 - Kh 8s 7s as BU vs BB.md",
+    "GTO/Board 2 - Kh 8s 7s as BB vs BU.md",
     "YouTube/How I Made it from Lowstakes to Highstakes Poker in 1 year.md",
+    "YouTube/RYE cash - HOW TO CRUSH MICROSTAKES – NL10 EDITION.md",
     "YouTube/RYE cash- HOW TO BREAK OUT THE MICRO STAKES NL5.md",
     "YouTube/Carrot Corner-10NL coaching poker is hard (Youtube).md",
-    "GTO/Board 12 - As 6s 5s as BU vs BB.md",
     "GTO/Board 10 - 8s 6h 2d as BU vs BB.md",
     "Courses/CarrotCorner/Grade3/Carrot Corner Grade3 Lecture1.md",
     "Reality check/Templates/Case-study template.md",
@@ -438,13 +444,7 @@
     "etc/Hands.md",
     "MyLeaks/RFI.md",
     "MyLeaks",
-    "General advice.md",
-    "etc/General advice.md",
     "etc",
-    "Courses/low_stakes_blueprint",
-    "CarrotCorner/Carrot Corner Grade3 Lecture1.md",
-    "YouTube/Saulo costa - exploiting fish.md",
-    "mental/Nachos - how to study like a beast.md",
-    "GTO/Board 9 - 6s 4h 2d as BU vs BB.md"
+    "Courses/low_stakes_blueprint"
   ]
 }
