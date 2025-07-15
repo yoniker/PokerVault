@@ -1,6 +1,9 @@
+Last study date: 13-July
+
 ## Flop
 
 ## Turn
+
 
 ## River
 On a K turn and 3 river, I (close to pure)  lead with any Q or K after flop and turn goes X/X
