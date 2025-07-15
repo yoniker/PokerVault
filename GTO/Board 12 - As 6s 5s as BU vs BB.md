@@ -1,4 +1,4 @@
-This spot was not studied yet
+Last study session: 13-July-2025
 
 ## Flop
 
