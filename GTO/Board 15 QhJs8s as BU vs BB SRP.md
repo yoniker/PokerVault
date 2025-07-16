@@ -14,4 +14,4 @@ Flop goes X/B30/C, Turn Tc, BB X, Bu's strategy is very polorized - value region
 ## River
 
 Flop went X/B30/C Turn 7h X/X river 5c X and it's on BU.
-AJ is the bottom of the mandator value bet region (bets pure), KJ bets sometimes (Qx bets pure)
+AJ is the bottom of the mandatory value bet region (bets pure), KJ bets sometimes (Qx bets pure)
