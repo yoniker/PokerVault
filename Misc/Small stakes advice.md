@@ -1,0 +1,3 @@
+
+
+Uri peleg(https://youtu.be/s4l1wkaMp1k?t=1110): "I used to have a very positive redline,and then when i started playing higher stakes, all the tricks werent working suddenly. I was like, ok shit, I don't actually know what i'm doing if the other guys aren't massively overfolding in all these spots. So i started learning theory, and when you learn theory your redline disappears and the beginning because all these spots you're just folding... knowing theory it's really important to know when it's not relevant"
