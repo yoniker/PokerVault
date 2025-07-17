@@ -20,3 +20,8 @@ Answer:
 2-pure check
 3-sometimes bet
 4-bet pure
+
+
+On the river, if I have a value region of 30% and a value region of 120%,
+bluffs will be rare at 30% because of pot odds: 
+When I bet third pot, villian needs to be good only 20% of the time, so value:bluff ratio should be about 4:1. Twice as many bluffs will overbet since this will give villian about 33% pot odds - and i will be balanced at 2:1 value:bluffs.
