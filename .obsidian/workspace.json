@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Small stakes advice.md",
+                "file": "Misc/General advice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Small stakes advice"
+              "title": "General advice"
             }
           },
           {
@@ -410,8 +410,8 @@
   },
   "active": "fe48dfb06f3221c3",
   "lastOpenFiles": [
-    "Misc/General advice.md",
     "Misc/Small stakes advice.md",
+    "Misc/General advice.md",
     "GTO/Board 18 - Ah 5s 4s as BU vs BB.md",
     "GTO/Board 18 - Ah 5s 4s as BB vs BU.md",
     "GTO/Board 15 QhJs8s as BU vs BB SRP.md",
