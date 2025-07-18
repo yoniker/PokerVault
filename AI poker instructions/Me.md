@@ -16,7 +16,7 @@
 
 ### 1.2 Short-term focus (Current)  
 - **Unbreakable weekly routine** – complete the full deliberate practice loop of *theory → drill → online lab → review* loop every single week without exception.  
-- - **Crush $2/$5 live** – average roughly \$3 000 profit per month with modest volume at Playground Poker Club.  
+- - **Crush $2/$5 live** – average at least \$3 000 profit per month with modest volume (about 30-40 hours per week) at Playground Poker Club.  
 
 ---
 

@@ -8,273 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "013489056ccc10d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 6 - Js,5h,4d as BU vs BB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 6 - Js,5h,4d as BU vs BB"
-            }
-          },
-          {
-            "id": "29116401b8cc22ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 6 - Js,5h,4d as BB vs BU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 6 - Js,5h,4d as BB vs BU"
-            }
-          },
-          {
-            "id": "e08d4c801afae754",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 7- 9s,6s,2s as BU vs BB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 7- 9s,6s,2s as BU vs BB"
-            }
-          },
-          {
-            "id": "0f73729046b40bbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 7- 9s,6s,2s as BB vs BU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 7- 9s,6s,2s as BB vs BU"
-            }
-          },
-          {
-            "id": "26355f596d293498",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Template"
-            }
-          },
-          {
-            "id": "a656b8dd2a39dec1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 2- Kh8s7s as BU vs BB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 2- Kh8s7s as BU vs BB"
-            }
-          },
-          {
-            "id": "998c20a5cf436119",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 3 - 9s8s5h as BU vs BB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 3 - 9s8s5h as BU vs BB"
-            }
-          },
-          {
-            "id": "f1c7079e9ca56b58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 3 - 9s8s5h as BB vs BU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 3 - 9s8s5h as BB vs BU"
-            }
-          },
-          {
-            "id": "4cb486f878da2534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 3 - 9s8s5h as BB vs BU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 3 - 9s8s5h as BB vs BU"
-            }
-          },
-          {
-            "id": "328d5b7d35012865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 15 QhJs8s as BB vs BU SRP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 15 QhJs8s as BB vs BU SRP"
-            }
-          },
-          {
-            "id": "68c6c424226d5442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 1 - Kh Kd Ts as BB vs BU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 1 - Kh Kd Ts as BB vs BU"
-            }
-          },
-          {
-            "id": "f557010c36b29f66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 16 - Ks 9h 3d as BU vs BB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 16 - Ks 9h 3d as BU vs BB"
-            }
-          },
-          {
-            "id": "cd6768698940e934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Carrot Corner-10NL coaching poker is hard (Youtube).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Carrot Corner-10NL coaching poker is hard (Youtube)"
-            }
-          },
-          {
-            "id": "17da09846e156ca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 6 - Js,5h,4d as BB vs BU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 6 - Js,5h,4d as BB vs BU"
-            }
-          },
-          {
-            "id": "7691477f322632f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GTO/Board 12 - As 6s 5s as BU vs BB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 12 - As 6s 5s as BU vs BB"
-            }
-          },
-          {
-            "id": "fe48dfb06f3221c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YouTube/4 Ways to DESTROY Your Poker Career.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 Ways to DESTROY Your Poker Career"
-            }
-          },
-          {
             "id": "eebe22c129241cac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI poker instructions/Study methodology.md",
+                "file": "AI poker instructions/Live poker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Study methodology"
-            }
-          },
-          {
-            "id": "c167be4ffb42d925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 6 - Js,5h,4d as BU vs BB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 6 - Js,5h,4d as BU vs BB"
-            }
-          },
-          {
-            "id": "c1f46c692c1f8f24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Board 11 – T83 two tone (BU vs BB SRP as BB).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board 11 – T83 two tone (BU vs BB SRP as BB)"
+              "title": "Live poker"
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -422,9 +169,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eebe22c129241cac",
+  "active": "388d17fdb81e8a51",
   "lastOpenFiles": [
+    "AI poker instructions/PBT-Bankroll-Export-2025-07-18-21-09-12-UTC.csv",
     "AI poker instructions/Me.md",
+    "AI poker instructions/Live poker.md",
+    "AI poker instructions/Online Bankroll Plan.md",
     "AI poker instructions/Study methodology.md",
     "AI poker instructions",
     "YouTube/4 Ways to DESTROY Your Poker Career.md",
@@ -448,9 +198,6 @@
     "GTO/Board 2 - Kh 8s 7s as BU vs BB.md",
     "GTO/Board 2 - Kh 8s 7s as BB vs BU.md",
     "GTO/Board 15 QhJs8s as BB vs BU SRP.md",
-    "GTO/Board 17 - As 7h 3d as BU vs BB.md",
-    "GTO/Board 19 - Js 9h 6s as BB vs BU.md",
-    "GTO/Board 5 - Ks Ts Th as BU vs BB.md",
     "Reality check/Templates",
     "Reality check",
     "Courses/CarrotCorner/Grade3",
