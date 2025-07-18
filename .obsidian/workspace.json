@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27a408e526989beb",
+        "id": "c49d86eb4ef36472",
         "type": "tabs",
         "children": [
           {
-            "id": "eebe22c129241cac",
+            "id": "46a031a4e9551c82",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,7 +165,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eebe22c129241cac",
+  "active": "46a031a4e9551c82",
   "lastOpenFiles": [
     "AI poker instructions/flashcard_creation_instructions.md",
     "AI poker instructions/Mentor (you) goal.md",
