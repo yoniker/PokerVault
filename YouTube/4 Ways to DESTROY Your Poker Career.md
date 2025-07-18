@@ -27,6 +27,6 @@ Solution: Remember that it's ok to be bluffed and be bullied out of a hand: it's
 
 Playing too long - playing LONG sessions, getting satisfaction in playing the game rather than keeping a clear mind which can make optimal decisions.  This is like a gaming addict/ gambler and not a  professional poker mindset.
 
-Playing on family time - always play on full focus mode (as if I'm studying for an exam or I'm on a job interview)
+Playing on family time/playing for leisure - always play on full focus mode (as if I'm studying for an exam or I'm on a job interview)
 
 Solution: Have a healthy time limit for playing
