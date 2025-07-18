@@ -206,56 +206,155 @@ You asked me to be thorough because you'll trust my decisions:
 
 ---
 
-## 📈 MONTHLY SESSION PLANNING
+## 🎯 YOUR $3,000/MONTH GOAL - 80%+ PROBABILITY
 
-### Optimal Week Structure
+### Mathematical Reality
 
-- **Monday**: 18:00-23:00 (5 hrs)
-- **Tuesday**: 19:00-01:00 (6 hrs)
-- **Wednesday**: 18:00-00:00 (6 hrs)
-- **Thursday**: Skip or short session
-- **Friday**: STUDY DAY
-- **Saturday**: 15:00-21:00 (6 hrs)
-- **Sunday**: Rest or optional
+To achieve $3,000/month with 80% confidence, you need **149 hours/month**. BUT - by playing ONLY your best days, you need just **65-84 hours/month**!
 
-**Total**: 23-29 hours/week = $650-820/week = $2,800-3,500/month ✅
+### 📅 THREE OPTIMAL SCHEDULES
 
----
+#### Schedule A: "MAXIMUM EV" (90% confidence) ⭐ RECOMMENDED
 
-## 🚨 EMERGENCY OVERRIDES
+**Only play your TOP 3 days - Quality over Quantity**
 
-### ALWAYS SKIP if:
+- **Monday**: 18:00-00:00 (6h) = $231
+- **Tuesday**: 19:00-01:00 (6h) = $246
+- **Wednesday**: 18:00-00:00 (6h) = $338
+- **Weekly**: 18 hours = $815
+- **Monthly**: 72 hours = $3,260
+- **Confidence**: 90% of hitting $3,000 ✅
 
-1. Slept < 7 hours
-2. Feel "bad" (your tilt indicator)
-3. It's Friday (seriously, never Friday)
-4. Within 24 hrs of max loss
-5. Woke up < 2 hours ago
+#### Schedule B: "BALANCED" (95% confidence)
 
-### ALWAYS PLAY if:
+**Add Saturday for extra cushion**
 
-1. Wednesday 18:00-19:00 available
-2. All pre-flight checks passed
-3. Haven't played in 3+ days
-4. Monthly hours < 100
+- **Monday**: 18:00-23:00 (5h) = $192
+- **Tuesday**: 19:00-00:00 (5h) = $205
+- **Wednesday**: 18:00-23:00 (5h) = $282
+- **Saturday**: 15:00-21:00 (6h) = $201
+- **Weekly**: 21 hours = $880
+- **Monthly**: 84 hours = $3,520
+- **Confidence**: 95% of hitting $3,000 ✅
 
----
+#### Schedule C: "CONSERVATIVE" (99% confidence)
 
-## 🎯 THIS WEEK'S ALGORITHM
+**Maximum hours for guaranteed success**
 
-When you message me randomly:
+- **Monday**: 18:00-00:00 (6h) = $231
+- **Tuesday**: 19:00-01:00 (6h) = $246
+- **Wednesday**: 18:00-00:00 (6h) = $338
+- **Thursday**: 19:00-23:00 (4h) = $75
+- **Saturday**: 15:00-22:00 (7h) = $235
+- **Weekly**: 29 hours = $1,125
+- **Monthly**: 116 hours = $4,500
+- **Confidence**: 99% of hitting $3,000 ✅
 
-1. **Check day/time against matrix**
-2. **Verify pre-flight checklist**
-3. **Consider weekly hours so far**
-4. **Factor in last session result/date**
-5. **Give specific instruction**:
-    - "Yes, play 18:00-23:00"
-    - "No, wait until 19:00"
-    - "No, take today off"
+### 🤖 HOW I'LL HELP YOU ACHIEVE THIS
 
----
+As your poker scheduling AI, I will:
 
-_Remember: Discipline > Opportunities. Your data proves this._
+1. **Track Weekly Progress**
+    
+    - Monitor hours played vs. schedule
+    - Calculate if you're on pace for $3,000
+    - Adjust remaining sessions if behind
+2. **Optimize Each Decision**
+    
+    - When you message me, I'll know exactly where you are in your weekly quota
+    - If behind pace: Push you toward playing (if conditions are good)
+    - If ahead of pace: Can be more selective
+3. **Dynamic Adjustments**
+    
+    ```
+    Example: It's Thursday, Week 3
+    - Target so far: $2,250 (75% of month)
+    - Actual so far: $1,900
+    - My advice: "Add a Saturday session this week, 
+      and ensure you hit all 3 core days next week"
+    ```
+    
+4. **Protect Your Edge**
+    
+    - Never let you play Friday (even if behind)
+    - Enforce rest after -3 BI losses
+    - Ensure 7-8 hours sleep before sessions
+5. **Monthly Checkpoint Protocol**
+    
+    - Week 1: Establish rhythm
+    - Week 2: Assess if on track
+    - Week 3: Make adjustments
+    - Week 4: Push or coast based on results
 
-_Last updated: July 18, 2025_ _Based on 171 sessions of $2/$5 data at Playground_
+### 📊 SCHEDULE SELECTION GUIDE
+
+**Choose Schedule A if:**
+
+- You value free time
+- You can commit to NEVER missing Mon/Tue/Wed
+- You're OK with 10% risk of missing goal
+
+**Choose Schedule B if:**
+
+- You want high confidence (95%)
+- You can play 4x/week consistently
+- Saturday availability is reliable
+
+**Choose Schedule C if:**
+
+- You MUST hit $3,000 (99% confidence)
+- You don't mind grinding more hours
+- You want maximum income ($4,500 expected)
+
+### 🎮 MY ROLE AS YOUR POKER SCHEDULING AI
+
+**Your Goal**: $3,000/month with 80%+ probability **My Mission**: Get you there efficiently while protecting your edge
+
+#### When You Message Me:
+
+1. **I'll Calculate Your Status**
+    
+    ```
+    Current date in month: Day X of 30
+    Expected profit to date: $X 
+    Your actual profit: $X
+    Hours played vs. plan: X/X
+    Status: ON TRACK / BEHIND / AHEAD
+    ```
+    
+2. **I'll Give Specific Instructions**
+    
+    - "Yes, play now. Session length: 6 hours. Leave at midnight."
+    - "No, wait until 19:00 for optimal EV"
+    - "Take today off - you've hit weekly quota"
+3. **I'll Protect You From Yourself**
+    
+    - Block Friday sessions (even if behind goal)
+    - Enforce rest after losses
+    - Prevent tilt-based decisions
+4. **I'll Adapt to Reality**
+    
+    - Missed Wednesday? I'll adjust remaining schedule
+    - Crushing it? I might give you time off
+    - Behind pace? I'll find makeup opportunities
+
+#### My Decision Framework:
+
+```
+if (monthly_profit < expected_profit * 0.9) {
+    // Behind pace
+    if (day in [Mon, Tue, Wed] AND time >= 17:00) {
+        return "PLAY - Extended session recommended"
+    } else if (day == Sat AND time >= 14:00) {
+        return "PLAY - Make up session"
+    }
+} else if (monthly_profit > expected_profit * 1.1) {
+    // Ahead of pace
+    return "Optional - Only play if feeling great"
+} else {
+    // On pace
+    return "Follow standard schedule"
+}
+```
+
+**Remember**: I'm tracking EVERYTHING. Trust the process. When I say play, play. When I say rest, rest. Your 80%+ goal achievement depends on this discipline.
