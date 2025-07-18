@@ -6,189 +6,256 @@
 
 ---
 
-## 🎯 PRIORITY BOOKING MATRIX
+## 🎯 REAL-TIME DECISION FRAMEWORK
 
-### TIER 1 - MUST PLAY (High EV)
+### When You Ask "Should I Play Now?"
 
-1. **Wednesday Evenings**
-    
-    - Start time: 6:00-7:00 PM
-    - Expected: $56.38/hr
-    - Win rate: 80.8%
-    - **BEST OVERALL SLOT**
-2. **Tuesday Evenings**
-    
-    - Start time: 6:00-7:00 PM
-    - Expected: $40.99/hr
-    - Win rate: 66.7%
-3. **Monday Evenings**
-    
-    - Start time: 6:00-7:00 PM
-    - Expected: $38.45/hr
-    - Win rate: 70.0%
+#### STEP 1: Check Day Priority
 
-### TIER 2 - GOOD OPTIONS
+1. **Wednesday** = ALWAYS YES if available
+2. **Tuesday** = High priority
+3. **Monday** = High priority
+4. **Saturday** = Good option
+5. **Thursday** = Acceptable
+6. **Sunday** = Only if no other options
+7. **Friday** = NO (despite good games, you lose here)
 
-1. **Saturday Afternoons/Evenings**
-    - Expected: $33.51/hr
-    - Win rate: 66.7%
-2. **Thursday Evenings**
-    - Expected: $18.86/hr
-    - Win rate: 63.6%
-    - _Note: Significantly lower than Mon-Wed_
+#### STEP 2: Check Optimal Time Windows
 
-### ❌ AVOID THESE TIMES
+**TUESDAY SPECIFIC TIMING** (since you asked):
 
-1. **Friday Evenings** - WORST DAY
-    
-    - Expected: $8.84/hr only!
-    - Win rate: 56.4%
-    - **Schedule study instead**
-2. **Late Night Sessions** (9 PM+ start)
-    
-    - Lower hourly rates
-    - Fatigue factor
+- **Best**: 19:00 start ($69/hr)
+- **Great**: 20:00 start ($59/hr)
+- **Good**: 18:00 start ($41/hr)
+- **Acceptable**: 17:00 start ($45/hr)
+- **Skip**: Earlier than 17:00
 
----
+**WEDNESDAY TIMING**:
 
-## 💰 BUY-IN STRATEGY
+- **Best**: 18:00-19:00 start
+- **Good**: 17:00-20:00 window
+- **Avoid**: After 20:00 (breakeven results)
 
-### ✅ OPTIMAL
+**MONDAY TIMING**:
 
-- **$500-750 buy-in**: $79.72/hr (!!)
-- 67 sessions analyzed
-- Best risk-adjusted returns
+- **Best**: 18:00-19:00 start
+- **Acceptable**: 20:00 start ($25/hr - still profitable)
 
-### ⚠️ ACCEPTABLE
+**SATURDAY TIMING**:
 
-- **$750-1000 buy-in**: $33.00/hr
-- Still profitable but lower hourly
+- **Best**: 14:00-18:00 (afternoon) - $39/hr
+- **Good**: 18:00+ (evening) - $43/hr
+- **Avoid**: Morning sessions
 
-### ❌ AVOID
+#### STEP 3: Pre-Flight Checklist
 
-- **$1000+ buy-ins**: NEGATIVE expectation
-- Over $1500: -$112/hr disaster
-- Stick to 100-150 BB buy-ins
+✅ **GREEN LIGHT if ALL true**:
+
+- Slept 7-8 hours
+- Not within 24 hours of 3-BI loss
+- Feel "good" (not "bad")
+- It's not Friday
+- It's past 14:00 (you don't do mornings)
+
+❌ **RED LIGHT if ANY true**:
+
+- Less than 7 hours sleep
+- Lost 3 buy-ins yesterday
+- Feel "bad" or tilted
+- It's Friday
+- Typical wake time (11-12) + less than 2 hours
 
 ---
 
-## 📊 SESSION DURATION OPTIMIZATION
+## ⏰ SESSION TIMING RULES
 
-### Sweet Spot: 5-7 Hours
+### Starting Time Decision Tree
 
-- Best balance of hourly rate and total profit
-- Avoid 9+ hour sessions (diminishing returns)
-- 3-5 hour sessions good for maintaining freshness
+```
+What time is it now?
+├─ Before 14:00 → NO (you need morning routine)
+├─ 14:00-16:59 → Only if Saturday
+├─ 17:00-18:59 → YES if Mon/Tue/Wed/Sat
+├─ 19:00-20:00 → OPTIMAL WINDOW - Always yes except Friday
+├─ After 20:00 → 
+│  ├─ Tuesday: Still +EV ($51/hr) - YES
+│  ├─ Monday: Marginal ($25/hr) - Only if no better options
+│  └─ Others: Generally NO
+```
 
-### Session Frequency
+### Session Duration Management
 
-- **Current**: Every 2-3 days
-- **Optimal**: 2-3 day rest between sessions shows best results
-- **Avoid**: Playing consecutive days (lower hourly after losses)
+**Standard Session**: 5-7 hours
 
----
+- This is your sweet spot
+- Don't force longer unless running hot
 
-## 📈 MONTHLY PLANNING
+**Leaving Early Rules**: When I tell you to leave at 4 hours with +$800, TRUST IT. Your data shows:
 
-### To Hit $3,000/Month:
+- When up 1+ buy-in quickly, booking the win is often correct
+- Your subconscious "leave now" feeling has been profitable
 
-- **Required**: 107 hours @ current rate
-- **Weekly**: 27-30 hours (4-5 sessions)
-- **Schedule**: Mon/Tue/Wed + 1 weekend session
+**Maximum Session**:
 
-### Current Month Projections:
-
-- Recent 30 sessions: Slightly above average
-- July 2025 trending: $93/hr (exceptional)
-- Maintain current strategy - it's working!
-
----
-
-## 🎲 VARIANCE & BANKROLL
-
-### Risk Metrics
-
-- **Standard deviation**: $648 per session
-- **Biggest win**: $2,308
-- **Biggest loss**: -$2,650
-- **Max win streak**: 14 sessions
-- **Max loss streak**: 7 sessions
-
-### Bankroll Requirements
-
-- **Current**: ~2 buy-ins online ($1,500)
-- **Recommended**: 20-30 buy-ins for live ($15-22k)
-- **Conservative**: 40 buy-ins ($30k)
+- Hard stop at 9 hours (diminishing returns)
+- If you "feel tired" before that - LEAVE
 
 ---
 
-## 🚦 DECISION FRAMEWORK
+## 💰 BUY-IN & STOP LOSS
 
-### GREEN LIGHT - Definitely Play:
+### Buy-in Strategy
 
-- Wednesday 6-7 PM start available
-- Well-rested (2+ days since last session)
-- Buy-in budget: $500-750
-- No tilt from previous session
+- **Standard**: $750 (100-150 BB)
+- **After wins**: Can buy deeper if stacked
+- **Stop-loss**: -3 buy-ins ($2,250)
+- **Recovery**: Minimum 1 day break after max loss
 
-### YELLOW LIGHT - Consider:
+### Bankroll Status
 
-- Monday/Tuesday evening slots
-- Saturday afternoon
-- After winning session momentum
-
-### RED LIGHT - Don't Play:
-
-- Friday evenings
-- Tired or tilted
-- Want to buy in for $1000+
-- Less than 24 hours since big loss
+- **Current**: $1,500 online (use for practice)
+- **Live requirements**: Need $15-20k minimum
+- **Risk level**: Currently aggressive - build roll ASAP
 
 ---
 
-## 📱 QUICK REFERENCE
+## 📊 EXPECTED VALUE BY SCENARIO
 
-When you ask "Should I play now?", check:
+### Tuesday at 14:00 Example
 
-1. **What day/time?**
-    
-    - Wed > Tue > Mon > Sat > Thu > Sun >>> Fri
-2. **Last session result?**
-    
-    - Win = Good momentum
-    - Loss = Take 2+ days rest
-3. **Buy-in plan?**
-    
-    - $500-750 ✅
-    - $1000+ ❌
-4. **Hours this week?**
-    
-    - Under 30: Green light
-    - Over 35: Consider rest
+```
+Option A: Play now (14:00 start)
+- Historical: Limited data, high variance
+- Decision: NO - Wait for 17:00+
 
----
+Option B: Wait until 19:00
+- Historical: $69/hr with good sample
+- Decision: YES - Worth waiting
+```
 
-## 🎯 ACTION ITEMS
+### "Missed Optimal Time" Scenarios
 
-1. **Block out Wed/Tue/Mon evenings** for poker
-2. **Use Fridays for study** (worst poker day)
-3. **Set buy-in cap at $750**
-4. **Track monthly hours** to ensure 100-120 range
-5. **Take 2-3 day breaks** between sessions
+**Tuesday 21:00** (Missed prime time):
 
----
+- Still play? YES - $51/hr on late starts
+- Expected 5-hour session: +$255
 
-## 📈 RECENT PERFORMANCE UPDATE
+**Wednesday 21:00** (Missed prime time):
 
-**2025 Year-to-Date:**
+- Still play? NO - Breakeven after 20:00
+- Do something else
 
-- January: $26/hr ✅
-- February: $27/hr ✅
-- March-April: Downswing period
-- May-July: Recovery → $93/hr peak!
+**Saturday Morning** (Early opportunity):
 
-**Interpretation**: Natural variance followed by strong recovery. Current strategy is optimal. Stay the course!
+- Still play? NO - Negative results
+- Wait for 14:00+
 
 ---
 
-_Last updated: July 18, 2025_ _Based on 171 sessions of $2/$5 data at Playground
+## 📱 QUICK DECISION MATRIX
+
+### "It's [Day] at [Time], should I play?"
+
+**Monday-Wednesday**:
+
+- Before 17:00: NO
+- 17:00-20:00: YES
+- After 20:00: Check specific day data above
+
+**Thursday**:
+
+- 18:00-20:00: OK (not great)
+- Otherwise: Find better use of time
+
+**Friday**:
+
+- Any time: NO - Study instead
+
+**Saturday**:
+
+- Before 14:00: NO
+- 14:00+: YES
+
+**Sunday**:
+
+- Only if no weekday sessions possible this week
+
+---
+
+## 🧠 MENTAL GAME INTEGRATION
+
+### Tilt Prevention
+
+- **Rule**: No poker for 24 hours after -3 BI loss
+- **Your pattern**: You need 1 day to reset
+- **Friday curse**: Even when games are good, you lose - respect this
+
+### Energy Management
+
+- **Sleep requirement**: 7-8 hours minimum
+- **Typical schedule**: Sleep 3-4 AM, wake 11-12
+- **Optimal play window**: 17:00-02:00 (aligns with your rhythm)
+
+### Trust the Process
+
+You asked me to be thorough because you'll trust my decisions:
+
+- When I say leave - LEAVE
+- When I say don't play - DON'T PLAY
+- Your Friday results prove discipline > game quality
+
+---
+
+## 📈 MONTHLY SESSION PLANNING
+
+### Optimal Week Structure
+
+- **Monday**: 18:00-23:00 (5 hrs)
+- **Tuesday**: 19:00-01:00 (6 hrs)
+- **Wednesday**: 18:00-00:00 (6 hrs)
+- **Thursday**: Skip or short session
+- **Friday**: STUDY DAY
+- **Saturday**: 15:00-21:00 (6 hrs)
+- **Sunday**: Rest or optional
+
+**Total**: 23-29 hours/week = $650-820/week = $2,800-3,500/month ✅
+
+---
+
+## 🚨 EMERGENCY OVERRIDES
+
+### ALWAYS SKIP if:
+
+1. Slept < 7 hours
+2. Feel "bad" (your tilt indicator)
+3. It's Friday (seriously, never Friday)
+4. Within 24 hrs of max loss
+5. Woke up < 2 hours ago
+
+### ALWAYS PLAY if:
+
+1. Wednesday 18:00-19:00 available
+2. All pre-flight checks passed
+3. Haven't played in 3+ days
+4. Monthly hours < 100
+
+---
+
+## 🎯 THIS WEEK'S ALGORITHM
+
+When you message me randomly:
+
+1. **Check day/time against matrix**
+2. **Verify pre-flight checklist**
+3. **Consider weekly hours so far**
+4. **Factor in last session result/date**
+5. **Give specific instruction**:
+    - "Yes, play 18:00-23:00"
+    - "No, wait until 19:00"
+    - "No, take today off"
+
+---
+
+_Remember: Discipline > Opportunities. Your data proves this._
+
+_Last updated: July 18, 2025_ _Based on 171 sessions of $2/$5 data at Playground_
