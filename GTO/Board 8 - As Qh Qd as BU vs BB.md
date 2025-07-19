@@ -6,7 +6,7 @@ BU's global betting frequency after BB checks is 65%, ATC can bet, the hands tha
 
 ## Turn
 
-Flop went X/X Turn 8c BB leads B115, BU is indifferent with KJ/KT and weak Ax just because the BU is supposed to take hands like 32s/64s/JTo/QTo and bluff those a lot for this sizing. If BB checks this turn, then low Ax bet infrequently
+Flop went X/X Turn 8c BB leads B115, BU is indifferent with KJ/KT and weak Ax just because the BB is supposed to take hands like 32s/64s/JTo/KTo and bluff those a lot for this sizing. If BB checks this turn, then low Ax bet infrequently
 
 
 
