@@ -2,7 +2,7 @@ Last session study- 5-july 2025
 
 ## Flop
 
-Global frequency is high (66%),Any two cards can bet on the flop, third pairs bet the least
+Global frequency is high (66%),Any two cards can bet on the flop, underpairs to the 9 bet the least
 
 ## Turn
 
