@@ -14,8 +14,6 @@ If he could back in time he would take a coach which will direct him - he studie
 Coaching is human interaction, so if the person is boring/I don't like him-don't choose him (retention of information will be better with someone interesting).
 
 ## How to get the most out of coaching
-Ask "what are the 3 most important things I've learned (it's also true to watching a video)"
-
-Current time:41:00
+Ask "what are the 3 most important things I've learned (it's also true to watching a video)", this way I'll remember the info from that video much later vs forget all about it after some time. That's why it's important to take notes on things I don't know and are important
 
 
