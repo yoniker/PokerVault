@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GTO/Board 18 - Ah 5s 4s as BU vs BB.md",
+                "file": "GTO/Board 20 - Qs Ts 2h as BU vs BB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Board 18 - Ah 5s 4s as BU vs BB"
+              "title": "Board 20 - Qs Ts 2h as BU vs BB"
             }
           }
         ]
@@ -171,14 +171,15 @@
   },
   "active": "46a031a4e9551c82",
   "lastOpenFiles": [
-    "GTO/Board 18 - Ah 5s 4s as BB vs BU.md",
+    "GTO/Board 7- 9s,6s,2s as BU vs BB.md",
+    "GTO/Board 12 - As 6s 5s as BU vs BB.md",
+    "GTO/Board 6 - Js,5h,4d as BU vs BB.md",
     "GTO/Board 18 - Ah 5s 4s as BU vs BB.md",
+    "GTO/Board 18 - Ah 5s 4s as BB vs BU.md",
     "GTO/Board 17 - As 7h 3d as BU vs BB.md",
     "GTO/Board 15 QhJs8s as BU vs BB SRP.md",
     "GTO/Board 6 - Js,5h,4d as BB vs BU.md",
-    "GTO/Board 6 - Js,5h,4d as BU vs BB.md",
     "GTO/Board 7- 9s,6s,2s as BB vs BU.md",
-    "GTO/Board 7- 9s,6s,2s as BU vs BB.md",
     "GTO/Board 16 - Ks 9h 3d as BU vs BB.md",
     "GTO/Board 19 - Js 9h 6s as BB vs BU.md",
     "GTO/Board 19 - Js 9h 6s as BU vs BB.md",
@@ -196,7 +197,6 @@
     "AI poker instructions/Study methodology.md",
     "AI poker instructions/Online Bankroll Plan.md",
     "AI poker instructions/Me.md",
-    "AI poker instructions/Live poker - me.md",
     "AI poker instructions/PBT-Bankroll-Export-2025-07-18-21-09-12-UTC.csv",
     "AI poker instructions",
     "Reality check/Templates",
