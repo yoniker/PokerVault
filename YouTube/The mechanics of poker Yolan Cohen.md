@@ -17,6 +17,12 @@ Coaching is human interaction, so if the person is boring/I don't like him-don't
 ## How to get the most out of coaching/studying
 Ask "what are the 3 most important things I've learned (it's also true to watching a video)", this way I'll remember the info from that video much later vs forget all about it after some time. That's why it's important to take notes on things I don't know and are important.
 
+The best thing to do is summarize the info and then use a spaced-repitition app like Anki. 
+
+## Studying-performance gap in poker
+Why is studying the theory doesn't make you instantly a better poker player?
+Because poker is like a language: If I only study it in theory and try to speak it I will not do well,too many areas which need to be practiced in a game to perform better, if I only study I will have a lot of information in my head, but I wouldn't know what to choose in real time.
+
 
 
 
