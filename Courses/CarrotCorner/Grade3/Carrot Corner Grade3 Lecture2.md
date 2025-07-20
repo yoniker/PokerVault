@@ -7,7 +7,7 @@ The 5 buckets for check/bet:
 
 Pure check, infrequent bet, sometimes bet, frequent bet, pure bet 
 
-Flop Jc8d5hr turn 8s,
+CO vs BB SRP,Flop Jc8d5h X/X turn 8s BB X it's on CO,
 place each of the following hands in one of the 5 buckets:
 
 1. Ad7h
