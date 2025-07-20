@@ -9,7 +9,7 @@ Board 10, when BB X, BU's global frequency is 55%. The Kx offsuit that bet more 
 
 ## Turn
 
-Board 10 flop goes X/B30/C turn 9s X it's on me as BU.
+Board 10 flop goes X/B30/C turn 7s X it's on me as BU.
 With combo draws like Qs9s or any 9x with two spades I bet pure (including As9s), 99-QQ bet pure, straights bet pure, sets bet frequently.
 Other combo draws like Ks5s Qs5s Js5s bet frequently to pure
 
