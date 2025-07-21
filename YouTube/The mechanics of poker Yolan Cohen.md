@@ -39,5 +39,5 @@ Let's say that I'm in a bluff catching situation. My opponent played in a certai
 2. What will people do on average? Let's say there are 10 players, how many will only have bluffs on this spot? how many balanced? how many only value?
 3. Off the felt, I need to think about situations where even 9/10 of the players slightly overbluff but one player will never bluff, then my EV might actually be negative overall. Do those kind of calculations every once in a while to have some idea about how to play vs humans. I need to think about the specific player's range distribution as well when deciding.
 
-
-Be thankful for being able to learn from my mistakes - in some areas of life I can't learn from my mistakes.
+## About fixing mistakes
+Be thankful for being able to learn from my mistakes - in some areas of life I can't learn from my mistakes. Accept that poker is like a language-and I might "knowingly" (after-the-fact) make the same mistake again and again, even 100 times, until I don't, it takes time, it's normal, accept this, embrace it.
