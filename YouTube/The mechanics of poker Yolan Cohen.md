@@ -23,6 +23,10 @@ The best thing to do is summarize the info and then use a spaced-repitition app 
 Why is studying the theory doesn't make you instantly a better poker player?
 Because poker is like a language: If I only study it in theory and try to speak it I will not do well,too many areas which need to be practiced in a game to perform better, if I only study I will have a lot of information in my head, but I wouldn't know what to choose in real time.
 
+## How did it feel when he was breaking-even after studying so much
+
+He felt sadness, he felt pain, he wasn't confident, and he had this philosophy of trying his best, and if it doesn't work then he will move to something else (when he couldn't beat microstakes after years of studying poker). During downswings I'm going to feel pain, resilience is a very important thing to have. It's normal that poker takes a lot of time. Poker is a very large area and sometimes it doesn't work in the beginning.
+
 
 
 
