@@ -27,6 +27,9 @@ Because poker is like a language: If I only study it in theory and try to speak 
 
 He felt sadness, he felt pain, he wasn't confident, and he had this philosophy of trying his best, and if it doesn't work then he will move to something else (when he couldn't beat microstakes after years of studying poker). During downswings I'm going to feel pain, resilience is a very important thing to have. It's normal that poker takes a lot of time. Poker is a very large area and sometimes it doesn't work in the beginning.
 
-
+## Important advice: Taking my time
+Even in a 4BB pot when villian bets 1BB, take your time, even 30 seconds, to think about it. Build the neural connections so that later on I can do it faster than other people. Some people act instantly, and the big big big problems about acting instantly:
+1. I don't take the right decisions
+2. In the long run my results will suffer - I didn't build the thought process that good results require
 
 
