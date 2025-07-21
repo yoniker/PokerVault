@@ -37,6 +37,6 @@ I want to
 Let's say that I'm in a bluff catching situation. My opponent played in a certain way, let's say he 3-bet then 3-barrelled. The question I can ask are:
 1. Does his play value in this way sometimes? If yes, then my EV cannot be all of the pot.
 2. What will people do on average? Let's say there are 10 players, how many will only have bluffs on this spot? how many balanced? how many only value?
-3. Off the felt, I need to think about situations where even 9/10 of the players slightly overbluff but one player will never bluff, then my EV might actually be negative overall. Do those kind of calculations every once in a while to have some idea about how to play vs humans.
+3. Off the felt, I need to think about situations where even 9/10 of the players slightly overbluff but one player will never bluff, then my EV might actually be negative overall. Do those kind of calculations every once in a while to have some idea about how to play vs humans. I need to think about the specific player's range distribution as well when deciding.
 
 
