@@ -18,3 +18,12 @@ Flop goes X/B30/C Turn Td X/X river 6s. Air hands bet sometimes, Tx and better a
 
 TODO: ask at discord why the hands selection, eg why double broadway 
 https://app.gtowizard.com/solutions?board=9s7h4dTd6s&solution_type=gwiz&gametype=Cash6m50zSimple25Open3betV2_SimpleIP&depth=100&preflop_actions=F-F-F-R2.5-F-C&flop_actions=X-R1.8-C&turn_actions=X-X&river_actions=X-R4.5-C&history_spot=12&depth_list=100&soltab=strategy&gmfs_solution_tab=ai_sols&gmfft_sort_key=0&gmfft_sort_order=desc
+
+
+
+
+**Hunt Session July 21, 2025:**
+- Pattern: Disconnected Rainbow Family  
+- Hands found: 4
+- Applied correctly: 3/4
+- Main struggle: Kd6d on QT4 i bet the flop which is great, on the 8 turn (completing the rainbow) I continued betting which is a mixing mistake (it's infrequent)
