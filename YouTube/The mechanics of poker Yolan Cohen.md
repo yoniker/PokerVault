@@ -41,3 +41,6 @@ Let's say that I'm in a bluff catching situation. My opponent played in a certai
 
 ## About fixing mistakes
 Be thankful for being able to learn from my mistakes - in some areas of life I can't learn from my mistakes. Accept that poker is like a language-and I might "knowingly" (after-the-fact) make the same mistake again and again, even 100 times, until I don't, it takes time, it's normal, accept this, embrace it.
+
+## The problem about using MDA
+Many guys who use MDA follow sheets, what on average is the best action here, which doesn't allow them to focus on what the villian is actually doing and develop deeper level thinking - can't develop an effective thinking process while following sheets.
