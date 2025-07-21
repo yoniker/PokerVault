@@ -53,3 +53,14 @@ Here are things to think about during a hand:
 Remember that poker isn't about making good moves, but making less mistakes.
 
 The toughest stakes for Yolen were 50NL because on 25NL there are no pros and 100NL there are pros, so 50NL is the cutting point.
+
+## The one thing that predicts which student will succeed
+Is how deeply they think about a hand. What prevents people from thinking deeply the most is...being lazy :) (Yolen). Thinking deeply takes energy. Curiosity is like free energy.
+
+## Worst advice in poker
+are the two words "You need". You need to call, you need to do this and that.
+If I have the second nuts and I think that the best action is to fold, I can fold.
+Or "I can't" eg "I can't fold this" "I can't raise this".
+
+## Most important lesson Yolen learnt from poker
+Enjoy what you do, enjoy the process, don't put too much pressure on myself
