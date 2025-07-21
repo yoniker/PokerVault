@@ -11,10 +11,14 @@
             "id": "46a031a4e9551c82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "YouTube/The mechanics of poker Yolan Cohen.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The mechanics of poker Yolan Cohen"
             }
           }
         ]
@@ -165,10 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "388d17fdb81e8a51",
+  "active": "46a031a4e9551c82",
   "lastOpenFiles": [
-    "Reality check/Templates/Weekly template.md",
     "Reality check/Templates/Case-study template.md",
+    "Reality check/Templates/Weekly template.md",
     "MyLeaks/RFI.md",
     "YouTube/The mechanics of poker Yolan Cohen.md",
     "My blog/Weekly review 20-July-2025.md",
