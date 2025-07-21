@@ -44,3 +44,12 @@ Be thankful for being able to learn from my mistakes - in some areas of life I c
 
 ## The problem about using MDA
 Many guys who use MDA follow sheets, what on average is the best action here, which doesn't allow them to focus on what the villian is actually doing and develop deeper level thinking - can't develop an effective thinking process while following sheets.
+
+## How to make good decisions during a hand
+Here are things to think about during a hand:
+1. What's the profile of the player I'm playing against?
+2. What's his perception of me?
+3. If I had to bet everything on what's the best action, what it would be?
+Remember that poker isn't about making good moves, but making less mistakes.
+
+The toughest stakes for Yolen were 50NL because on 25NL there are no pros and 100NL there are pros, so 50NL is the cutting point.
