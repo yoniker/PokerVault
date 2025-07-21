@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YouTube/Luke - High Stakes Poker Pro Dismantles Low Stakes – It’s Too Easy.md",
+                "file": "GTO/Hunt note template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luke - High Stakes Poker Pro Dismantles Low Stakes – It’s Too Easy"
+              "title": "Hunt note template"
             }
           }
         ]
@@ -169,10 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "388d17fdb81e8a51",
+  "active": "46a031a4e9551c82",
   "lastOpenFiles": [
-    "YouTube/The mechanics of poker Yolan Cohen.md",
     "YouTube/Luke - High Stakes Poker Pro Dismantles Low Stakes – It’s Too Easy.md",
+    "YouTube/The mechanics of poker Yolan Cohen.md",
     "Reality check/Templates/Case-study template.md",
     "Reality check/Templates/Weekly template.md",
     "MyLeaks/RFI.md",
