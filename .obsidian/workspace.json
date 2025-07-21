@@ -11,14 +11,10 @@
             "id": "46a031a4e9551c82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reality check/Templates/Case-study template.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Case-study template"
+              "title": "New tab"
             }
           }
         ]
@@ -169,7 +165,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46a031a4e9551c82",
+  "active": "388d17fdb81e8a51",
   "lastOpenFiles": [
     "Reality check/Templates/Weekly template.md",
     "Reality check/Templates/Case-study template.md",
