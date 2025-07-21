@@ -32,4 +32,10 @@ Even in a 4BB pot when villian bets 1BB, take your time, even 30 seconds, to thi
 1. I don't take the right decisions
 2. In the long run my results will suffer - I didn't build the thought process that good results require
 
+## Advice on translating GTO to the human world
+I want to 
+Let's say that I'm in a bluff catching situation. My opponent played in a certain way, let's say he 3-bet then 3-barrelled. The question I can ask are:
+1. Does his play value in this way sometimes? If yes, then my EV cannot be all of the pot.
+2. What will people do on average? Let's say there are 10 players, how many will only have bluffs on this spot? how many balanced? how many only value?
+
 
