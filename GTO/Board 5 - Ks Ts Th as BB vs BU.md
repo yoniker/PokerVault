@@ -1,4 +1,4 @@
-This spot was not studied yet
+Last studied: 6-July
 
 ## Flop
 
