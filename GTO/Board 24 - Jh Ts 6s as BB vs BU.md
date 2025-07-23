@@ -6,7 +6,7 @@ Flop goes X/B53, BB X/R close to pure with 66 and frequently with 9s8s/ Qs9s and
 
 ## Turn
 
-Flop X/X Turn Ad X/? BB leads sometimes/frequently with Kx of hearts or spades, and Qx of hearts/spades with no SDV.
+Flop X/X Turn Ad  BB leads sometimes/frequently with Kx of hearts or spades, and Qx of hearts/spades with no SDV.
 
 ## River
 
