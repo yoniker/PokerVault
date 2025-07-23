@@ -2,7 +2,7 @@ Last study session date: 22-Jul-2025
 
 ## Flop
 
-On the flop, BU can bet ATC, As-x bet frequently unless they have sdv. Underpairs with no spades check pure, or bet infrequently, global frequency is 67% and BU bets air 77% of the time,sets bet pure,OESD bet frequently
+On the flop, BU can bet ATC, As-x bet frequently unless they have sdv. Underpairs with no spades check pure, or bet infrequently, global frequency is 67% and BU bets air 77% of the time,sets bet pure,OESD bet frequently,AhKh AsKs bet pure,
 
 X/B30/R90 BU's strategy is:
 ATo without As is a pure fold(!)
@@ -18,3 +18,7 @@ Flop X/B30/C Turn 5c, BU's turn strategy is very polorized (185% pot), betting p
 
 Flop X/B30/C Turn Ah X/B58/C river 3h x /?
 BU likes to bet Kh-x off, Qh-xoff (pure or almost pure),threshold hand for value betting river is AJ+ (AT is very infrequent),sets straights and flushes bet pure for a potsize bet
+
+Flop X/X, Turn Ad X/X, river 8h BB B130%, That makes A5- indifferent,KJ with Ks folds pure
+
+Flop X/X, Turn 9c X/B73/C river Ah X/? it's on BU. BU bluffs his Qx region (no SDV ie low suited Qx hands) way more (pure without spades and sometimes Qx of spades) than he bluffs low suited K-x region (sometimes no spades,infrequently spades) - makes sense as Qx blocks both KQ and Q8. For the same reason, K8 is bluffing sometimes-frequently
