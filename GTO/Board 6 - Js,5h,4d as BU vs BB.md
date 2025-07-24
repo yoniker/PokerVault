@@ -4,7 +4,7 @@ Last Session Date i studied this spot:  28-June-2025
 ## Flop
 
 When checked to, BU bets at some frequency almost everything but A8-AT,
-higher frequencies to overpairs, sets,  jx, hands that bet the least are broadway of clubs which means no backdoor flush
+higher frequencies to overpairs, sets,  jx, hands that bet the least are broadway of clubs which means no backdoor flush, TT/99 (need less protection than 66/77/88)
 
 On the flop, AKo and 5x hands actually bet a lot as the BU, and 66-88 bet more than 99-TT. Protection is a realy thing on this flop.
 
