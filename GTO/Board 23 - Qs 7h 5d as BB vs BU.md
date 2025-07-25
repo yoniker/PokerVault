@@ -10,3 +10,5 @@ For B200 :4x/6x (sometimes),overpairs (sometimes),sets (frequently), B50- a lot 
 Flop X/B30/C turn Td, X/? BU bets pure combo draws,sets,two pair,overpairs,
 
 ## River
+
+Flop X/B30C Turn 4d X/X River 7d, the threshold for pure betting for value as BU is Q9+
