@@ -9,6 +9,8 @@ For B200 :4x/6x (sometimes),overpairs (sometimes),sets (frequently), B50- a lot 
 
 Flop X/B30/C turn Td, X/? BU bets pure combo draws,sets,two pair,overpairs...
 
+Flop X/X, Turn 8s, BB B75, BU continues with JT infrequently. If it's 8c (and it's a true "nutshot") then BU continues more frequently (sometimes) with JT.
+
 
 ## River
 
