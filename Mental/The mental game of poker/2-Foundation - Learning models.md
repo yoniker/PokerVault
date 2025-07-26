@@ -83,6 +83,10 @@ This creates a continuous improvement loop that applies to:
 - Months/years of play
 - Your entire career
 
+
+### Performance advice
+Don't analyze hands during a session. I can mark hands for later analysis, I can note how my opponents play so I can adjust, but focus on the game, not on analyzing pervious hands
+
 ## Key Takeaways
 
 - Emotions aren't the problem - they highlight flaws in your mental approach
