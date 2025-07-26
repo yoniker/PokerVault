@@ -54,6 +54,7 @@
     - Note regular players' tendencies
 - **Mental release**: Write about what's weighing on your mind
 - **Refine next session**: Update warm-up based on session findings
+- Notes about session: Other than general notes, rate my quality of play, and rate the way I handled my emotions
 
 ## Key Principles
 
