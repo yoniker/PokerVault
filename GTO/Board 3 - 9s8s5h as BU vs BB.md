@@ -1,4 +1,4 @@
-Board 3 - 9s8s5h
+Last studied: 5-June-2025
 
 ## Flop
 
