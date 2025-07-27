@@ -37,8 +37,6 @@ After studying a board, I immediately play a A-game, one table, R&C table ,60-mi
 
 I tag these hands and check: Did I actually apply what I learned? 
 
-No new board until I've hunted the current one. Study → Hunt → Study → Hunt. This transforms knowledge into skill. 
-
 As much as I love studying in a vaccum, I don't want to waste my time like Yolen did. 
 Any hand from a hunt session that I'm unsure of, will be reviewed deeply:
 
