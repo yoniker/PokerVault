@@ -2,6 +2,8 @@ Last study session: 27-July-2025
 
 ## Flop
 
+Flop X/B50, BB folds 66- with no spade (has enough one pair hands/ gutshots etc)
+
 ## Turn
 
 Flop X/X,  Turn 4h,  betting "for protection" as BB here is not a thing with stuff like Q8, BB bets a lot of his flush draws, gutshots, Kx, and some naked Ah-X offsuit or As-X offsuite like As-5d, Ah-5c with no SDV
