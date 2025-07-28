@@ -31,7 +31,7 @@ In general, to determine how the solver "thinks" regarding specific blockers, I 
 
 Hand example: SB vs BB 3-bet pot,
 Flop 7d7s5c X/X turn Jd X/X river it's on sb,
-before bluffing i need to think what the sb's folding range looks like? I need to think about that to structure my bluffing range so it will unblock his folds. Answer: He will fold some Kx (maybe some Ax too but some Ax will call), so I don't want to have a K in my hand when I bluff here.
+before bluffing i need to think what the sb's folding range looks like? I need to think about that to structure my bluffing range so it will unblock his folds. Answer: He will fold some Kx (maybe some Ax too but some Ax will call), so I don't want to have a K in my hand when I bluff here. So, pocket pairs are the best candidates to bluff here (counterfeited 66 or worse) a
 
 
 
