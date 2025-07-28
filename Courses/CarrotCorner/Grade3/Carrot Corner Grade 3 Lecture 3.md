@@ -10,6 +10,7 @@ Positive effects for calling: Block value, unblock bluff
 (Negative effects for calling: Block bluff unblock value)
 
 In today's lecture we're going to focus on unblocking folds.
+Villian's call range won't have a lot in common in terms of cards, but his folding range will have common cards (for example, busted flush draws,straight draws etc), and that's why we want to focus on unblocking his folds
 
 
 The less folds we block, the more we can bluff. The more range advantage we have, we can bluff more. So in some situations, I can sometimes even bluff pure the worst hands(with the worst blockers), and in some bad spots for my range, I will only sometimes bluff the absolute best candidates for bluffing. Always first think about the range advantage, who has it, given the actions and configuration, and only then think about blockers - the range advantage dominates the blocker effects (in some spots I should bluff range).
@@ -28,4 +29,10 @@ Questions:
 In general, to determine how the solver "thinks" regarding specific blockers, I can just look at the EV for that hand.
 
 
-Where I am: 30:33
+Hand example: SB vs BB 3-bet pot,
+Flop 7d7s5c X/X turn Jd X/X river it's on sb,
+before bluffing i need to think what the sb's folding range looks like? I need to think about that to structure my bluffing range so it will unblock his folds. Answer: He will fold some Kx (maybe some Ax too but some Ax will call), so I don't want to have a K in my hand when I bluff here.
+
+
+
+
