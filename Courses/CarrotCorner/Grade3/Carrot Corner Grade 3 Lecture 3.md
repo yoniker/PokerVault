@@ -1,4 +1,5 @@
 
+
 Today's lecture is about common blocker effects: 
 	The ways in which my hand interfere with my opponent's range, and prefer one action over another because of blocker effects. We already know that blocker effects aren't big enough to take a priority over a huge range advantage in theory/ exploitative scenarios where the villian is massively overfolding.
 There can be several effects to blockers, for example:
@@ -23,4 +24,8 @@ Now HJ has to decide between X or all-in
 
 Questions:
 1. How favorable is this of a world to HJ? Answer: It's neutral-by calling BB has a condensed range but has tons of EV vs HJ's range which is now quite polorised
-2. Examine the following hands and determine how good of a bluff they are: Qh8h, Ad6d,Tc9c,AdTs,As3s: AdTs is a terrible hand  - I block both straight draws that missed and flush draws. Then Ad6d is a terrible hand to bluff with as I block a lot of BB's folding range,Qh8h/Tc9c are mediocre (block some QT),As3s unblocks all the folds so it's the best candidate for bluffing that spot
+2. Examine the following hands and determine how good of a bluff they are: Qh8h, Ad6d,Tc9c,AdTs,As3s: AdTs is a terrible hand  - I block both straight draws that missed and flush draws. Then Ad6d is a terrible hand to bluff with as I block a lot of BB's folding range,Qh8h/Tc9c are great and same as As3s: QT except exactly QdTd are folding turn, so all those hands unblocks all the folds so those are the best candidates for bluffing that spot (all of the go all-in pure, see https://app.gtowizard.com/solutions?solution_type=gwiz&gametype=Cash6m50zSimple25Open3betV2_SimpleOOP&depth=100&preflop_actions=F-R2.5-F-F-F-C&history_spot=11&depth_list=100&soltab=strategy&gmfs_solution_tab=ai_sols&gmfft_sort_key=0&gmfft_sort_order=desc&board=KhJd7d4s2h&flop_actions=X-R2.9-C&turn_actions=X-R18.15-C&river_actions=X&stratab=strategy_ev)
+In general, to determine how the solver "thinks" regarding specific blockers, I can just look at the EV for that hand.
+
+
+Where I am: 30:33
