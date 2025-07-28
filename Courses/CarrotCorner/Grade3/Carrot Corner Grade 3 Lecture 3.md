@@ -33,6 +33,6 @@ Hand example: SB vs BB 3-bet pot,
 Flop 7d7s5c X/X turn Jd X/X river it's on sb,
 before bluffing i need to think what the sb's folding range looks like? I need to think about that to structure my bluffing range so it will unblock his folds. Answer: He will fold some Kx (maybe some Ax too but some Ax will call), so I don't want to have a K in my hand when I bluff here. So, pocket pairs are the best candidates to bluff here (counterfeited 66 or worse), then the Qx region sometimes (it does interfere somewhat with his folding range) but Kx hands never bluff because those are the hands that i want him to fold
 
-
+A nice analogy to the argument "I have to bluff it, otherwise I can't win the hand" is running into a burning house just to save my wallet. Just because it's the only way for me to save my wallet, it doesn't mean that running into a burning house is the best action.
 
 
