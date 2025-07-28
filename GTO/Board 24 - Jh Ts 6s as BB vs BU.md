@@ -6,7 +6,7 @@ Flop goes X/B53, BB X/R close to pure with 66 and frequently with 9s8s/ Qs9s and
 
 ## Turn
 
-Flop X/X Turn Ad  BB leads sometimes/frequently with Kx of spades, and Qx of spades/Q9/Q8 with no SDV.
+Flop X/X Turn Ad  BB leads sometimes/frequently with Kx of spades, and Qx of spades with no SDV/Q9/Q8.
 
 Flop X/X Turn 3d, BB leads pure/frequently with flush draw with no sdv(As7s or worse).
 
