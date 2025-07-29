@@ -2,6 +2,8 @@
 
 ## Flop
 
+Flop strategy for BU: ATC can bet, exceptions are AhTh/AhQh and underpair with no spade
+
 ## Turn
 
 
