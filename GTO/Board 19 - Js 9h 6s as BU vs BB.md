@@ -1,4 +1,4 @@
-This spot was not studied yet
+29-July-2025
 
 ## Flop
 
@@ -8,3 +8,7 @@ This spot was not studied yet
 
 
 ## River
+
+Flop X/X, Turn 6c X/X river Ah X it's on BU.
+
+BU bets pure anything with no SDV (anything worse than KQ). Bets pure his Ax region as well.
