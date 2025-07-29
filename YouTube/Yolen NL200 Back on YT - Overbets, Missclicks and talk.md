@@ -62,3 +62,10 @@ flop comes 4dTh9h, X/B75/R90 Yolen calls pot is 28BB
 Turn 6s BB Bets 21.1BB into 28.1BB, Yolen called for the following reasons:
 1.  Implied odds
 2. On any heart, his opponent will fold river
+
+
+Hand 9:
+https://youtu.be/cVwe9v8Uf4k?t=1537
+Yolen 3-bet Jd7s as BB vs sb open, sb flatted.
+Flop came 9sKdKh X/X turn Qc X Yolen bet 9BB into 18BB, sb called.
+Riven Jc sb X, Yolen debated if to check back and take his SDV, but decided that there are many Qx in villian's range so decided to overbet river 52BB into 36BB pot.
