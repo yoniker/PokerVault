@@ -1,5 +1,6 @@
 
 Study date: 29-July-2025
+#exploit 
 
 Hand1:
 https://youtu.be/cVwe9v8Uf4k?t=86
@@ -43,6 +44,18 @@ Yolen open AcTd as LJ,BB calls. Flop comes KsTs9s X/X Turn Th X/B75/C River 2c X
 
 
 Hand 6:
+
+Yolen 3-bet AsKs as CO vs LJ, LJ called.
+Flop came TdTh4h X/B30/ snap call. Turn 8d snap check/check back. River Jc, LJ snap checked, Yolen decided to shove (because villian snap-checked river) all in (28BB into 23BB pot) to make pocket pairs fold - with the snap check there's high fold equity.
+
+Hand 7:
+
+CO opens to 2BB, Yolen called as BB with Js9d.
+Flop came 3s9c5c, X villian bet 1BB, yolen X/R to 6BB, CO called.
+Turn 2h, Yolen bet B75, CO folded, Yolen said that he has a read, CO wouldn't bet 1BB strong hand like  QQ/KK/AA so he doesn't mind betting J9 for value as he has the best hand often(!)
+
+
+Hand 8:
 https://youtu.be/cVwe9v8Uf4k?t=1369
 LJ vs BB SRP with QcJd,
 flop comes 4dTh9h, X/B75/R90 Yolen calls pot is 28BB
