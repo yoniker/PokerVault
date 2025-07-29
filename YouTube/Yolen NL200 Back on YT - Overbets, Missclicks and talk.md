@@ -69,3 +69,10 @@ https://youtu.be/cVwe9v8Uf4k?t=1537
 Yolen 3-bet Jd7s as BB vs sb open, sb flatted.
 Flop came 9sKdKh X/X turn Qc X Yolen bet 9BB into 18BB, sb called.
 Riven Jc sb X, Yolen debated if to check back and take his SDV, but decided that there are many Qx in villian's range so decided to overbet river 52BB into 36BB pot.
+
+Hand 10:
+Yolen opens 8d8h from BU, sb 3-bet yolen called.
+Flop comes AdQd5s sb bet B30, Yolen called.
+Turn 6h X/X
+River 6h X - Yolen turned his hand into a bluff, and overbet the pot (53BB into 35BB).
+
