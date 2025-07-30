@@ -12,4 +12,6 @@ Another hand that bothers me: I had QTs, flop was ATK, checked around, turn blan
 1. My story didn't make a lot of sense maybe. If I had KQ/TT I would have raised turn mostly
 2. If I want the fish to fold an A, I have to go larger. He called my $75 raise with A4o, snapped.
 
-I played tired today, and couldn't think clearly. I need to develop a 
+I played tired today, and couldn't think clearly. I need to develop a systematic way of thinking that I believe in, so that I will always play as some basic good level.
+
+I want to always ask "What do I think is the baseline play" eg GTO, then think how I want to deviate. Also when they bet I want to think about how much fold equity I have vs different bet sizes vs their likely range.
