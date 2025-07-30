@@ -11,3 +11,5 @@ On the bright side, it's good that I start to develop 4-bet bluffs. Even when I 
 Another hand that bothers me: I had QTs, flop was ATK, checked around, turn blank fish bet $15, in my hand i was like, I will call now and can bluff river, river blank, he bet $25, I raised to $75. I think that I had two mistakes right there:
 1. My story didn't make a lot of sense maybe. If I had KQ/TT I would have raised turn mostly
 2. If I want the fish to fold an A, I have to go larger. He called my $75 raise with A4o, snapped.
+
+I played tired today, and couldn't think clearly. I need to develop a 
