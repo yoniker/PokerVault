@@ -2,7 +2,9 @@ Last Session studied this spot: Date:30-June-2025
 
 ## Flop 
 
-Every hand can bet at some frequency except AT-AQ no spade, hands with a spade no SDV or 7/8 are betting at a higher frequency
+Almost any hand can bet:
+Flush bet sometimes,
+Top pair bets depending on kicker (A9 frequently, K9 sometimes,Q9 infrequently)
 
 ## Turn
 
