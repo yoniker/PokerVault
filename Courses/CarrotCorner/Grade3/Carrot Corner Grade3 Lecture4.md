@@ -12,3 +12,19 @@ There are 5 classes of hands that I can *consider* raising on the flop:
 
 Unlike region 1 which is pure, regions  2+3 are mixing,
 Humans are not finding as many raises as the solver especially in the regions 2,4,5.
+
+Now let's dive into the different regions:
+
+## Region 1 - Thick value bets
+
+In some cases the solver will x/r pure my thick value hands, in some cases it will mix. To see when and how to mix - practice. In general, the factors that I need to take into account when considering how to mix the hand are:
+1. How polorised villian is: If he bets huge, even bottom sets can mix calling and raising
+2. Board texture: Even nut flush on a monotone board doesn't x/r pure
+3. Blockers: On JJ7, 77 doesn't raise pure, as I block villian's middling hands and so he can still have air
+
+When studying, if I thought it was mixed and it's pure, I can look at the ev difference to determine how big of an error it was
+
+
+Cobra's rule: After a x/r was called, a wet turn equalises the nut advantage (as both players could have a draw) but gives the check/raiser a big range advantage (a lot of the check/raiser range was draws). 
+
+On dry turn, the check/raiser still have the nut advantage, but the range advantage is  the caller's(!)
