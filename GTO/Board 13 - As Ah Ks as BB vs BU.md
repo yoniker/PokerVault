@@ -1,4 +1,4 @@
-Last study date: 31-July
+Last study date: 31-July-2025
 
 ## Flop
 
