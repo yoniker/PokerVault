@@ -31,3 +31,6 @@ When studying, if I thought it was mixed and it's pure, I can look at the ev dif
 
 2. On dry turn, the check/raiser still have the nut advantage, but the range advantage is  the caller's (a lot of the check/raiser hands bricked)
 So: Wet turn -> bet frequently and small, dry turns -> bet infrequently and large. 
+
+Where am I:
+29:11
