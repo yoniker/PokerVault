@@ -5,7 +5,8 @@ Last Session studied this spot: Date:30-June-2025
 Almost any hand can bet:
 Flush bet sometimes,
 Top pair bets depending on kicker (A9 frequently, K9 sometimes,Q9 infrequently)
-
+Aspades-x bet sometimes-frequently,
+Ax no spades bets 
 ## Turn
 
 After flop went X/X, if on a 3 turn, and BB bets small, a overcard+gutshot no spade type of hand can raise. As with a gutshot like A5,A4 raises close to pure, whereas a hand like A7o with As is more passive
