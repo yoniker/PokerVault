@@ -25,6 +25,8 @@ In some cases the solver will x/r pure my thick value hands, in some cases it wi
 When studying, if I thought it was mixed and it's pure, I can look at the ev difference to determine how big of an error it was
 
 
-Cobra's rule: After a x/r was called, a wet turn equalises the nut advantage (as both players could have a draw) but gives the check/raiser a big range advantage (a lot of the check/raiser range was draws). 
+Cobra's rule: Since the check-raisor's range is abundant in high equity bluffs,after the check/raise was called:
 
-On dry turn, the check/raiser still have the nut advantage, but the range advantage is  the caller's(!)
+1. a wet turn equalises the nut advantage (as both players could have a draw) but gives the check/raiser a big range advantage.
+
+2. On dry turn, the check/raiser still have the nut advantage, but the range advantage is  the caller's (a lot of the check/raiser hands bricked)
