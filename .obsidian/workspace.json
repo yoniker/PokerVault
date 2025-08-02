@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GTO/High disconnected boards BU vs BB SRP -  GTO.md",
+                "file": "GTO/Study sessions - High disconnected boards BU vs BB SRP  - GTO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "High disconnected boards BU vs BB SRP -  GTO"
+              "title": "Study sessions - High disconnected boards BU vs BB SRP  - GTO"
+            }
+          },
+          {
+            "id": "ac9ba1bc8b29fd1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GTO/Study sessions -Monotone boards BU vs BB SRP -   GTO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Study sessions -Monotone boards BU vs BB SRP -   GTO"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "Wtf spots"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +198,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46a031a4e9551c82",
+  "active": "ac9ba1bc8b29fd1e",
   "lastOpenFiles": [
+    "GTO/Study sessions - Paired boards BU vs BB SRP -   GTO.md",
+    "GTO/Study sessions - Low disconnected boards BU vs BB SRP  - GTO.md",
+    "GTO/Study sessions - High disconnected boards BU vs BB SRP  - GTO.md",
+    "GTO/Study sessions  Connected boards BU vs BB SRP -  - GTO.md",
+    "GTO/Play sessions - Paired boards BU vs BB SRP.md",
+    "GTO/Play sessions - Monotone boards BU vs BB SRP.md",
+    "GTO/Play sessions - Connected boards BU vs BB SRP.md",
+    "GTO/Play sessions - High disconnected boards BU vs BB SRP.md",
+    "GTO/Play sessions - Low disconnected boards BU vs BB SRP.md",
+    "GTO/Board 25 - Js 4h 3s as BB vs BU.md",
+    "GTO/Study sessions -Monotone boards BU vs BB SRP -   GTO.md",
+    "GTO/Board 2 - Kh 8s 7s as BU vs BB.md",
     "GTO/Board 1 - Kh Kd Ts as BB vs BU.md",
-    "GTO/High disconnected boards BU vs BB SRP -  GTO.md",
     "GTO/Board 17 - As 7h 3d as BU vs BB.md",
     "GTO/Board 17 - As 7h 3d as BB vs BU.md",
     "GTO/Board 13 - As Ah Ks as BU vs BB.md",
@@ -196,21 +222,10 @@
     "GTO/Board 16 - Ks 9h 3d as BB vs BU.md",
     "GTO/Board 16 - Ks 9h 3d as BU vs BB.md",
     "GTO/Board 25 - Js 4h 3s as BU vs BB.md",
-    "GTO/Board 25 - Js 4h 3s as BB vs BU.md",
     "GTO/Board 24 - Jh Ts 6s as BU vs BB.md",
     "GTO/Board 24 - Jh Ts 6s as BB vs BU.md",
     "GTO/Board 23 - Qs 7h 5d as BU vs BB.md",
     "GTO/Board 23 - Qs 7h 5d as BB vs BU.md",
-    "GTO/Board 22 - 8h 4s 3s as BU vs BB.md",
-    "GTO/Board 22 - 8h 4s 3s as BB vs BU.md",
-    "GTO/Board 21 - 9s 7h 4d as BU vs BB.md",
-    "GTO/Board 21 - 9s 7h 4d as BB vs BU.md",
-    "GTO/Board 20 - Qs Ts 2h as BU vs BB.md",
-    "GTO/Board 20 - Qs Ts 2h as BB vs BU.md",
-    "GTO/Board 19 - Js 9h 6s as BU vs BB.md",
-    "GTO/Board 19 - Js 9h 6s as BB vs BU.md",
-    "GTO/Board 18 - Ah 5s 4s as BU vs BB.md",
-    "GTO/Board 18 - Ah 5s 4s as BB vs BU.md",
     "Lessons from live poker",
     "Mental/The mental game of poker",
     "AI poker instructions/PBT-Bankroll-Export-2025-07-18-21-09-12-UTC.csv",
