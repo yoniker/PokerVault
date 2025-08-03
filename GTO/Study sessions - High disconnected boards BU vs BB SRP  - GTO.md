@@ -1,4 +1,4 @@
-Study sessions: 2-Aug-2025 (11:30-11:57)
+Study sessions: 2-Aug-2025 (11:30-11:57),
 
 ## Flop
 
