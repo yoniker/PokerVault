@@ -45,3 +45,28 @@ On the turn with this region, if our range wants to bet big or check we always c
 ## Region 3 - High EV bluff region
 Those hands will almost always bet more frequent than the global X/R frequency
 
+### On the turn
+on a wet turn, all of our X/R region bets small, so those this hands too.
+
+On a dry turn, our range bets infrequent and big - so are those hands.
+
+## Region 4 - Hybrid region
+Marginal made hands which benefit from fold equity and retain decent equity when called.
+The more vulnerable those hands are (and the weaker they play as a call), the more often they will opt to raise.
+
+### On the turn
+We find ourselves on the turn with a mediocre hand but a polarised range. Those hands become mediocre (tier 6-carrot poker school 2) bluff candidates - on the turn it becomes a low ev bluff.
+#### Brick turns:
+so on a brick turn we can bet those hands (which usually have 5 outs to a nutted hand- therefore some ev - but yeah it's a bluff now)
+#### Wet turn
+
+Depending on the turn, if it's a horrible turn for our range (for example flop was monotone spade and the 4th card is another spade) then we give up those bluffs
+
+## Region 5 - Low-ev bluffs
+Those hands are usually indifferent between the options of raising/calling/folding (sometimes indifferent between raising and folding).
+
+### On the turn
+Having raised on the flop,don't bluff again with low-ev hands that missed on a neutral or unfavorable turn card - it's a horrible blunder to bluff with those hands at those spots.
+
+
+
