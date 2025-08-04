@@ -31,4 +31,4 @@ This leads to reduced decision fatigue, and increased likelihood of accuracy: If
 So, when I execute/study, my goal is to find:
 1. The appropriate bet sizing (from the pool of predefined sizes)
 2. The appropriate bucket for my hand (from the pool of predefined 5 buckets)
-When I pick the bet sizing/frequency, I need to think about what region of my opponent's range I make indifferent. When it comes to indifference, the more of the range I make indifferent the better, and the stronger the hands I can make in different the better.
+When I pick the bet sizing/frequency, I need to think about what region of my opponent's range I make indifferent.
