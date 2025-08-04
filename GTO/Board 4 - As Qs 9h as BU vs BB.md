@@ -2,7 +2,9 @@ Last study session: 3-July 2025
 
 ## Flop
 
-Betting strategy is quite mergy. Any Ax bets sometimes. Stronger Qx. Underpairs l
+Betting strategy is quite mergy. Any Ax bets sometimes. Stronger Qx bets sometimes. Underpairs like 77- bet sometimes with a spade
+
+https://app.gtowizard.com/solutions?board=AsQs9h&solution_type=gwiz&gametype=Cash6m50zSimple25Open3betV2_SimpleIP&depth=100&preflop_actions=F-F-F-R2.5-F-C&flop_actions=X-R1.8-R10-F&history_spot=7&depth_list=100&soltab=strategy&gmfs_solution_tab=ai_sols&gmfft_sort_key=0&gmfft_sort_order=desc
 
 ## Turn
 
