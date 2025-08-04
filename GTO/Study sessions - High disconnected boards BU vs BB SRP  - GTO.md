@@ -19,7 +19,7 @@ https://app.gtowizard.com/solutions?board=Ks7h2s7s4s&solution_type=gwiz&gametype
 
 ## Turn
 
-KsQh6s X/B30/R90/C Turn 7s BB bets B100, with his open-ended region (JT): BU folds all of his JTo that have a spade or a heart (because then villian is blocked from having a spade or a heart), and only sometimes call the remaining two combos of JTo. With JTs it's the same: obviously JhTh/JsTs call (OESD+Flush draw), JdTd/JcTc sometimes call (as they unblock hearts and spades draws) and sometimes fold
+KsQh6s X/B30/R90/C Turn 7h BB bets B100, with his open-ended region (JT): BU folds all of his JTo that have a spade or a heart (because then villian is blocked from having a spade or a heart), and only sometimes call the remaining two combos of JTo. With JTs it's the same: obviously JhTh/JsTs call (OESD+Flush draw), JdTd/JcTc sometimes call (as they unblock hearts and spades draws) and sometimes fold
 
 Flop QsJs7h X/B30/C Turn 9h X/? BU pure bets any Tx with no equity (AT is betting frequently).
 
