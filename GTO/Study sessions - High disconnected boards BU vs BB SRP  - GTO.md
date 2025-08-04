@@ -18,6 +18,8 @@ BU vs BB SRP, flop Qs8h3s, with the specific junk region of low Kx/Qx/Jx with no
 
 KsQh6s X/B30/R90/C Turn 7s BB bets B100, with his open-ended region (JT): BU folds all of his JTo that have a spade or a heart (because then villian is blocked from having a spade or a heart), and only sometimes call the remaining two combos of JTo. With JTs it's the same: obviously JhTh/JsTs call (OESD+Flush draw), JdTd/JcTc sometimes call (as they unblock hearts and spades draws) and sometimes fold
 
+Flop QsJs7h X/B30/C Turn 9h X/? BU pure bets any Tx with no equity (AT is betting frequently).
+
 
 
 
