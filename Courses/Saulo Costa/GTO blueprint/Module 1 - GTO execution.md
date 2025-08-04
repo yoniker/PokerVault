@@ -36,3 +36,14 @@ In game I want to use heuristics
 
 
 ## 1.2 Showing it in practice
+In this video, Saulo went through a trainer he built, and demonstrated how, for each spot he chose:
+
+1. a bet size (or several on the river) for his range (he sometimes asked "what am I targeting by a small sizing"), and only after that 
+2. a bucket for his particular holding (sometimes based on his range's global frequency), and that included the subtle "we check this back" which is the 0% bucket (pure check back)
+
+## 1.3 You can do this
+Saulo showed in this video that he gave the students in his stable his trainer, and over 1.2M hands, they performed really close to the bot level execution. That being said, it also showed that even those humans were struggling to:
+
+1. double-barrel air at a high-enough frequency
+2. Slow play draws
+3. slow play strong hands
