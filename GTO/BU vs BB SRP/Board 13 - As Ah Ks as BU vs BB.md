@@ -5,7 +5,7 @@ not surprisingly, it's a range bet
 
 ## Turn
 
-After flop went X/B30/C Turn 6c, BU bets sometimes his air hands like Qh4h Tc8c
+After flop went X/B30/C Turn 6c, BU bets infrequently his air hands
 https://app.gtowizard.com/solutions?board=AsAhKs6c&solution_type=gwiz&gametype=Cash6m50zSimple25Open3betV2_SimpleIP&depth=100&preflop_actions=F-F-F-R2.5-F-C&flop_actions=X-R1.8-C&turn_actions=X-X&river_actions=X-R4.5-F&history_spot=10&depth_list=100&soltab=breakdown&gmfs_solution_tab=ai_sols&gmfft_sort_key=0&gmfft_sort_order=desc
 ## River
 
