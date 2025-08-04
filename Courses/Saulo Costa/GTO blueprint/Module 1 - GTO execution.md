@@ -1,4 +1,4 @@
-
+Study date: 4-Aug-2025
 ## 1.1 Pseudo GTO execution
 
 I'll get a framework of how to execute pseudo-GTO.
@@ -31,4 +31,8 @@ This leads to reduced decision fatigue, and increased likelihood of accuracy: If
 So, when I execute/study, my goal is to find:
 1. The appropriate bet sizing (from the pool of predefined sizes)
 2. The appropriate bucket for my hand (from the pool of predefined 5 buckets)
-When I pick the bet sizing/frequency, I need to think about what region of my opponent's range I make indifferent.
+When I pick the bet sizing/frequency, I need to think about what region of my opponent's range I make indifferent-when I study. It's impossible to think about that in game.
+In game I want to use heuristics
+
+
+## 1.2 Showing it in practice
