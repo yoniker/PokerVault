@@ -14,6 +14,8 @@ https://app.gtowizard.com/solutions?board=Kh7s5d&solution_type=gwiz&gametype=Cas
 
 BU vs BB SRP, flop Qs8h3s, with the specific junk region of low Kx/Qx/Jx with no backdoor flush  (like Jd4d/Qc2c) , BU bets infrequently.
 
+Flop Ks7s2h X/X Turn 7s, it's on BB, BB bets infrequently with air, his bluff region are two low cards sometimes (6h3h,6c6c), and some spades (QsJh, QcJs and of course the Aspade-x with no SDV bets frequently-pure (A8-)), for value BB bets his trips frequently, and his flushes sometimes
+https://app.gtowizard.com/solutions?board=Ks7h2s7s4s&solution_type=gwiz&gametype=Cash6m50zSimple25Open3betV2_SimpleOOP&depth=100&preflop_actions=F-F-F-R2.5-F-C&flop_actions=X-X&turn_actions=X-X&river_actions=X-R7-F&history_spot=8&depth_list=100&soltab=strategy&gmfs_solution_tab=ai_sols&gmfft_sort_key=0&gmfft_sort_order=desc
 
 ## Turn
 
