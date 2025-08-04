@@ -15,7 +15,7 @@ Humans are not finding as many raises as the solver especially in the regions 2,
 
 Now let's dive into the different regions:
 
-## Region 1 - Thick value bets
+## Region 1 - Thick value region
 
 In some cases the solver will x/r pure my thick value hands, in some cases it will mix. To see when and how to mix - practice. In general, the factors that I need to take into account when considering how to mix the hand are:
 1. How polorised villian is: If he bets huge, even bottom sets can mix calling and raising
@@ -32,5 +32,9 @@ When studying, if I thought it was mixed and it's pure, I can look at the ev dif
 2. On dry turn, the check/raiser still have the nut advantage, but the range advantage is  the caller's (a lot of the check/raiser hands bricked)
 So: Wet turn -> bet frequently and small, dry turns -> bet infrequently and large. 
 
-Where am I:
-29:11
+## Region 2 - thin value region
+
+Thin value bets are raising similar to the global X/R frequency(!), where the other four regions X/R (usually) more than the global X/R frequency.
+
+
+After getting called with middling hands like A8 on A94 we usually don't want to continue to aggress - as we don't want to build gigantic pots with those middling hands. We don't mind "bloating" the pot on the flop, as long as we don't lose our minds and continue building huge pots later with those hands.
