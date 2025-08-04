@@ -38,3 +38,10 @@ Thin value bets are raising similar to the global X/R frequency(!), where the ot
 
 
 After getting called with middling hands like A8 on A94 we usually don't want to continue to aggress - as we don't want to build gigantic pots with those middling hands. We don't mind "bloating" the pot on the flop, as long as we don't lose our minds and continue building huge pots later with those hands.
+
+On the turn with this region, if our range wants to bet big or check we always check, if our range wants to bet small or check, then we can sometimes bet small
+
+
+## Region 3 - High EV bluff region
+Those hands will almost always bet more frequent than the global X/R frequency
+
