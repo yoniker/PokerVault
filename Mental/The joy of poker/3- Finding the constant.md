@@ -1,0 +1,3 @@
+
+Poker players think that it's simple to make money in poker, earnings are just edge time volume.
+But then, when their downswing comes, they discover it's not that easy...
