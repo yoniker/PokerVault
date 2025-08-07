@@ -1,0 +1,2 @@
+
+He stopped loving poker when it was a grind instead of a play, when curiosity was replaced by the need to know the right answer. Once he focused back on the spirit of play, he played great, loved playing, and loved studying.
