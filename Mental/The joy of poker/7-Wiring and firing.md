@@ -1,4 +1,6 @@
 Everyone can have a mental breakdown. People laugh at Matusow for having a breakdown every time when he's in a late stage in a tournament, people who can't reach those stages to begin with.
 
 The anatomy of breakdowns go something like:
-Stage 1- I'm focused Stage 2- Tournament go deeper, with more at stake, I remember the unresolved emotions from previous times when losing when a lot was on the line, stage 3- Something bad happens, and those unresolved emotions cause me to break down and play bad, Stage 4 - I "unwind" by scrolling endlessly at social media, eating junk food etc Stage 5- I try to rationalize my mistake with logic - even though I was in a completely different state, emotionally, when the breakdown happened. The problem wasn't knowledge of the spot, but how I handled my emotions.
+Stage 1- I'm focused Stage 2- Tournament go deeper, with more at stake, I remember the unresolved emotions from previous times when losing when a lot was on the line, stage 3- Something bad happens, and those unresolved emotions cause me to break down and play bad, Stage 4 - I "unwind" by scrolling endlessly at social media, eating junk food etc Stage 5- I try to rationalize my mistake with logic by consulting with other poker players - even though I was in a completely different state, emotionally, when the breakdown happened. The problem wasn't knowledge of the spot, but how I handled my emotions.
+
+eg I should not ask "what happened logically" but "how did I feel when that happened?".
