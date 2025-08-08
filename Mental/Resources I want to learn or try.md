@@ -3,4 +3,5 @@
 2. The joy of poker + poker with presence
 3. Thinking in bets
 4. https://palousemindfulness.com/  - Free course on Mindfulness-Based Stress Reduction (MBSR)
-5. _Mindfulness for Poker Performance_ by Elliot Roe - part of the https://primedmind.com/ subscription
+5. Peak Performance
+6. _Mindfulness for Poker Performance_ by Elliot Roe - part of the https://primedmind.com/ subscription
