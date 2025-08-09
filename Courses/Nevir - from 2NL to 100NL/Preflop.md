@@ -53,5 +53,5 @@ My opponent will have the positional advantage postflop, so he will call way mor
 
 For example, BU vs sb 3bet has a slightly more polorized (still merged but slighly more polorized) than, say, CO vs BU's 3bet which is more linear.
 
-BB vs SB is different- BB expects SB to 4-bet a lot (SB is OOP), so he 3-bets polorized.
+BB vs SB is different because the OOP player will 4-bet and not 5-bet jam(in other positions, the IP player other 4-bets or call here it's 3-bet or call):  BB expects SB to 4-bet a lot (SB is OOP), so he 3-bets polorized.
 
