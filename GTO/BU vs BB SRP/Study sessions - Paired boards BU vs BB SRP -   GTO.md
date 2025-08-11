@@ -1,2 +1,5 @@
 
-No study sessions yet
+Study sessions:
+11-Aug-2025 
+
+
