@@ -1,6 +1,6 @@
 
 Study sessions:
-11-Aug-2025 10:14-10:44
+11-Aug-2025 10:14-10:44, 10:53-11:20
 
 
 Flop is ThTd4s, BB X, BU's strategy is:
@@ -21,3 +21,11 @@ Flop As6h6d BB X, BU bets 1.1BB, BB's strategy:
 2. AQ infrequently X/R
 3. other X/R: 75s frequently,53s frequently,54s frequently,87s sometimes,97 infrequently
 indifferent hands: K5/K4,Q9s/Q8s with backdoor flush,
+
+
+Flop AsAh2s X/B1.1/C Turn 7c X/X river Ad, as BB this is the strategy at this node of the tree:
+1. Bet pure any low-low card like 85s (backdoor or frontdoor flush draw on the flop)
+2. Pure bet 77-
+3. Frequently bet quads
+4. Q7 is the strongest hand that bluffs (Q8 good enough to Show down)
+5. 33 is the bottom of value range (22 isn't present in BB range as it pure X/R on the flop)
