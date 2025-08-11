@@ -1,6 +1,6 @@
 
 Study sessions:
-11-Aug-2025 
+11-Aug-2025 10:14-10:44
 
 
 Flop is ThTd4s, BB X, BU's strategy is:
