@@ -1,4 +1,4 @@
-Study sessions: 20-aug-2025 11:40-12:05
+Study sessions: 20-aug-2025 11:40-12:05, 12:10-12:25
 
 
 Flop Th4s3s X/B33/C
