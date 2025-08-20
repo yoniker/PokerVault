@@ -1,1 +1,1 @@
-No play sessions yet
+Study sessions: 20-aug-2025 11:37-
