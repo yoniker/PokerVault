@@ -98,118 +98,17 @@ sb folds.
 
 Hand 11:
 
+Luke has QcJs from BB, CO fish limps, Luke raises to 6BB, CO calls.
 
-[00:13:46] Going to isolate versus this player.
-[00:13:48] This guy's definitely weaker. Bets the
-[00:13:50] turn one/3.
- 
-[00:14:04] This is just an underprotected line.
-[00:14:06] This check flop block turn. It's Yeah,
-[00:14:08] it's underprotected. So, I think we have
-[00:14:11] a pretty easy raise. Exploitatively. I
-[00:14:12] think my play is good in theory.
-[00:14:15] 
-[00:14:17] 
-[00:14:19] best play.
-[00:14:21] Going to check the turn and 97 will open
-[00:14:24] into the short stack big blind. very
-[00:14:26] lucky this video so far running a bit
-[00:14:28] hot. Um
-[00:14:30] I will go with a large sizing here
-[00:14:32] because there's a there's a chance he's
-[00:14:33] got a king that doesn't bet cuz the
-[00:14:35] river river pairs river pairs. Sorry. So
-[00:14:38] on the chance that he doesn't I think he
-[00:14:41] has the king.
-[00:14:43] Yeah. Wow. Very lucky river. Thank god
-[00:14:45] no heart came. Yeah. He had that king
-[00:14:48] that was probably going to value bet.
-[00:14:49] Saw the four. Got over scared.
-[00:14:52] Realistically how many fours do I have?
-[00:14:54] Not that many, but let's say he freaked
-[00:14:58] himself out a little bit. 54. We're
-[00:15:00] going to get Lucy Goosey here in three
-[00:15:01] bets. Should be mixing this one, but
-[00:15:03] hey, we're recording a video for YouTube
-[00:15:04] here, so let's get involved. Get called
-[00:15:06] for immediately. I just can't call. I
-[00:15:09] probably can. I'm getting infinite to
-[00:15:10] one here. 53 is going to be calling.
-[00:15:14] Very interesting flop. All right. Three
-[00:15:16] hearts dealer.
-[00:15:18] Oh, it's not quite what I was wanting.
-[00:15:22] Checking a muck. 5-3 drawing to the Wow,
-[00:15:25] the nut shot. Unbelievable. We're
-[00:15:27] definitely just going to go for the
-[00:15:29] check here and pray cut off bets into us
-[00:15:34] because we need to we need to put money
-[00:15:37] in, right? This is very unlikely that
-[00:15:39] I'm losing the hand. So, don't get
-[00:15:40] worried about the diamond cuz who has
-[00:15:42] two diamonds in the hand? I don't think
-[00:15:44] either player has two diamonds unless
-[00:15:45] they've got like queens and a diamonds
-[00:15:46] here. So, I'm going to check again and
-[00:15:49] go for a check raise. I'm again I'm not
-[00:15:50] worried about the flush.
-[00:15:54] Uh well, now I'm a bit worried about the
-[00:15:57] flush.
-[00:15:59] Yeah. And he's 3333,
-[00:16:02] so he looks to be a bit wy and nitty.
-[00:16:04] I'm obviously not folding, by the way,
-[00:16:05] just to be uh clear. But I don't think I
-[00:16:10] can raise against him.
-[00:16:15] Also, if I call, he might call an ace
-[00:16:16] behind as well. Oh, good guy. The good
-[00:16:18] guy called. Um, it's funny how I just
-[00:16:20] spoke to you guys about I'm going to
-[00:16:22] check fold this, by the way. Snap or pot
-[00:16:24] here. Pot stab. I'm I'm done. I don't
-[00:16:26] expect to get bluffed much in this
-[00:16:28] situation. This is a really good hand to
-[00:16:29] talk about. It's really important to
-[00:16:33] update your thoughts as the hand is
-[00:16:35] going on. Realistically, the PFR doesn't
-[00:16:39] have two diamonds because he had a
-[00:16:40] chance to bet the flop, bet the turn,
-[00:16:43] bet the river. Well, we hadn't seen the
-[00:16:45] river bet. So, he had a chance to bet
-[00:16:46] the flop, bet the turn. He didn't choose
-[00:16:47] to do that. And if you watch back the
-[00:16:49] video, you'll notice that he checked
-[00:16:51] quite fast as well. So realistically,
-[00:16:53] this Zen 1995 is very, very unlikely to
-[00:16:57] have a better hand than us to the point
-[00:16:58] where if we checked and he bet big, I'm
-[00:17:00] happy to raise for value here. I'm not
-[00:17:02] freaked out about the third diamond. And
-[00:17:04] the same was going to be true for the
-[00:17:06] button as well, cuz the button also, if
-[00:17:08] you watch back the video, did check back
-[00:17:10] quite fast. So versus a bet I was
-[00:17:12] intending to raise, yet I didn't raise
-[00:17:15] for two reasons. The first one is that
-[00:17:17] obviously he sized up, but that's not
-[00:17:19] the only reason. The second one is that
-[00:17:20] the guy's playing 333. So 33 V pip is
-[00:17:24] quite why. Three and three pfr attempt
-[00:17:28] to steal. Basically he's why but also
-[00:17:31] nitty. He doesn't like raising. He
-[00:17:33] doesn't like betting. He's very passive
-[00:17:35] player. Whe players can be aggressive or
-[00:17:38] they can be passive. It depends on how
-[00:17:39] they play post flop. So he's Wy pre flop
-[00:17:41] passive post flop. So I updated my
-[00:17:44] thoughts. He's gone from being a
-[00:17:46] standard recreational that checked twice
-[00:17:48] and therefore I'm going to target him
-[00:17:49] and check raise to actually a nitty
-[00:17:51] recreational who potted the river after
-[00:17:54] checking back flop and turn. So unless
-[00:17:55] he's got a hand like pocket nines, I
-[00:17:58] need to just call the river and not
-[00:17:59] raise. Obviously, we can't fold here.
-[00:18:01] There's no way that we could ever
-[00:18:02] exploit fold this situation because he
-[00:18:04] could also just have two nines or three
-[00:18:06] nines.
+Flop AhQh5s X/ CO goes pot. Luke:" I'm going to  fold this, by the way. Snap bet pot here. Pot stab. I'm done. I don't expect to get bluffed much in this situation." Folds.
+
+Hand 12:
+
+Luke calls 5s3s from BB vs open from CO and call from BU.
+
+Flop comes 4dAdQs X/X/X
+Turn 2h X/X/X
+River 9d, luke checked intending to X/R his straight, because realisticly, both players needed to check diamons on flop and turn for him to lose to a flush. However, BU pot it, Luke looked at his stats. He is a passive whale (33-3-3 so a very passive and nitty whale), so therefore decided against X/R the river. Can never fold as the whale could have something like 99, but can't raise either. Luke called. Whale showed the nuts (Kd7d).
+It's important to update our thoughts (initially Luke wanted to X/R) based on actions (villian pot it which was worrying, looking at villian's stats he is a passive whale).
+
+
