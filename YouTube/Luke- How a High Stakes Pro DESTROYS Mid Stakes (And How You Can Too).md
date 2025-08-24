@@ -84,51 +84,32 @@ River 2h, X/X Luke:"22 are obviously betting here. We're going to go half pot", 
 
 
 
-Ace king getting cold. Four
-[00:12:29] bet. Very small, although my obviously
-[00:12:32] my three bet small. Nice river here. Um,
-[00:12:34] okay. Okay, deeper. We are 125ish. He's
-[00:12:37] gone 14. I am going to play uh a four
-[00:12:40] bet here.
-[00:12:42] A five bet actually.
-[00:12:45] And D is obviously betting. We'll go
-[00:12:48] half pot. Seems fine. Just going to pick
-[00:12:50] off a bunch of random calls from big
-[00:12:51] blind here. So, we are five betting to
-[00:12:54] 32 and a half. We get shoved. Okay.
-[00:12:56] Well, I believe him.
-[00:12:58] I think sixes is a fine call. Um yeah,
-[00:13:02] kind of a shame. The reason why I went
-[00:13:04] with this five bet by the way every
-[00:13:05] time, this is not just for the video or
-[00:13:08] being over aggressive. The reason was he
-[00:13:10] went with the small call for bet sizing.
-[00:13:11] And from my experience as someone who's
-[00:13:13] used these small three bets often,
-[00:13:15] people can sometimes
-[00:13:18] size their value hands to the regular
-[00:13:21] sizing of let's say 22 big blinds and
-[00:13:23] then their bluffs smaller. So on
-[00:13:26] average, those smaller sizings end up
-[00:13:28] being a bit weaker. King Jack here
-[00:13:30] against a
-[00:13:33] regular. Okay, so this guy's a short
-[00:13:34] stack pro. Interesting.
-[00:13:37] Going to note that down.
-[00:13:39] I'll take my free card then. I didn't
-[00:13:42] think he was professional. That's why
-[00:13:43] I'm needing to look at these things.
+Hand 10:
+
+Luke calls as BB with KhJs, flop comes 
+7c3h6h X/?,
+villian has a 50 BB stack but has a reg stats (24-19-11-41 on 511). Luke:
+"Okay, so this guy's a short stack pro. Interesting. Going to note that down. I'll take my free card then. I didn't think he was professional. That's why I'm needing to look at these things." checks back.
+
+Turn 2s, sb bets B33, Luke raises(!) to $18.
+Luke: Quite like raising here, I'm taking what is already good in theory (infrequently raise) and doing it exploitatively too often,attacking villian's precieved weakness. So, if he's folding a bit too much, it's going to be even better and probably the best play".
+sb folds.
+
+
+Hand 11:
+
+
 [00:13:46] Going to isolate versus this player.
 [00:13:48] This guy's definitely weaker. Bets the
 [00:13:50] turn one/3.
-[00:13:53] Quite like raising here.
+ 
 [00:14:04] This is just an underprotected line.
 [00:14:06] This check flop block turn. It's Yeah,
 [00:14:08] it's underprotected. So, I think we have
 [00:14:11] a pretty easy raise. Exploitatively. I
 [00:14:12] think my play is good in theory.
-[00:14:15] So, if he's folding a bit too much, it's
-[00:14:17] going to be even better and probably the
+[00:14:15] 
+[00:14:17] 
 [00:14:19] best play.
 [00:14:21] Going to check the turn and 97 will open
 [00:14:24] into the short stack big blind. very
