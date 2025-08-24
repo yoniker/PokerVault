@@ -43,112 +43,48 @@ Same player (100 vpip) limps, Luke isos with 6c3c as HJ to $10:
 
 "Very loose. Why am I going to go so loose in these early positions? Like, I wouldn't open the hand, Now, I'm raising it cuz this guy is super super loose. He's playing way too many hands here. So, I want to get involved. Let's go with a small sizing  and see what he does. Timing sizing from him. He Snap fold. Great. But if he snap called, that would be indicative of quite a weak hand. We could potentially barrel. "
 
+Hand 7:
 
-This guy is a professional, so
-[00:08:36] I'm not going to raise. Also, make sure
-[00:08:39] you're noting. By the way, I've just
-[00:08:40] realized I've not done that, which is
-[00:08:42] really bad of me. This guy is a target
-[00:08:44] for us. Okay, 100 VPIP. We are wanting
-[00:08:47] to get involved with that player. So,
-[00:08:49] let's tag him so I can easily identify
-[00:08:51] him if I see him again.
-[00:08:53] 10 big blinds. We're a bit deeper. Let's
-[00:08:55] roll this one for one in four. We are
-[00:08:57] calling this time. You can't see the
-[00:08:59] RNG. You just have to trust me. AceJ.
-[00:09:03] Sure. SP bet in about 40%.
-[00:09:07] Ace9.
-[00:09:10] Okay. AceJ. Here we block the queen
-[00:09:12] jack. Maybe ace queen offsuit. I'm going
-[00:09:14] to put a second barrel in here and then
-[00:09:16] give up the river. Uh calling flop.
-[00:09:20] That's a great turn.
-[00:09:24] This is very marginal, by the way. This
-[00:09:25] ace jack,
-[00:09:28] it's just marginal. I should have RNGed
-[00:09:29] it really. I bet the flop, his timing
-[00:09:32] was fine, so I really shouldn't be
-[00:09:35] betting that one every time. I've got no
-[00:09:36] excuse to find that one every time, to
-[00:09:37] be honest. Ace9 here versus 2/3. Please
-[00:09:40] give me this time bank chip. I've got
-[00:09:43] some PDSD from last video. Um, I guess
-[00:09:45] we're just going to press call here. You
-[00:09:46] can also min raise,
-[00:09:50] which I am going to do. I think min
-[00:09:51] raising is quite good here. This is not
-[00:09:54] exploitive. I think this is a fine
-[00:09:55] theoretical play. Think about your
-[00:09:58] value. The bottom of your value range
-[00:10:00] there for a min raise is basically ace
-[00:10:02] king if not a nine. And you wouldn't
-[00:10:05] want to raise boats. So basically,
-[00:10:06] you're telling villain you've got a
-[00:10:07] little bit of ace king that didn't raise
-[00:10:09] pre or on the flop or a turned nine. So
-[00:10:12] that raising range does not need to
-[00:10:14] raise very big. At the same time, a min
-[00:10:16] raise really puts him in a horrible
-[00:10:18] situation. So I like the decision there.
-[00:10:20] Had I had more time, I would have
-[00:10:22] probably mixed it. Okay, professional in
-[00:10:24] the small blinds. Most likely we will
-[00:10:27] just mix this up. We'll check this time.
-[00:10:29] Don't really care for being perfect.
-[00:10:32] It's just want I want to have my jack in
-[00:10:34] the betting and checking lane because I
-[00:10:36] simply don't think betting is better
-[00:10:37] than checking or vice versa.
-[00:10:41] Big three bet from probably a regular.
-[00:10:44] I'm He's 15114 but over 60 hands which
-[00:10:48] is not enough of a sample. The fact that
-[00:10:49] he's gone so big is very indicative of a
-[00:10:51] regular. Uh calling the jack eight here
-[00:10:55] and very good river. We do block some
-[00:10:57] bluffs, but not too many cuz he's a
-[00:11:00] small blind, not big blind. Mop open.
-[00:11:02] This is going to be a recreational
-[00:11:03] player, so we're going to be very, very
-[00:11:05] exploitative in this hand, especially on
-[00:11:07] this board. He bets again. I don't think
-[00:11:10] I can do anything but call here. If I
-[00:11:12] fold, I'm insinuating he's got a strong
-[00:11:15] top pair or better more than 75% of the
-[00:11:17] time, which is very unlikely. He's even
-[00:11:19] valuating worse somehow. Uh 83, I'm
-[00:11:22] going to go small. In theory, you're
-[00:11:23] supposed to size up, but by going small,
-[00:11:26] I get a lot of information on his
-[00:11:28] decision because if he's got a strong
-[00:11:30] hand, he's going to want to raise. If if
-[00:11:33] I go big though, he might check call
-[00:11:34] stronger hands.
-[00:11:39] So I get more information essentially.
-[00:11:42] Ace king. We're going to be three
-[00:11:44] betting
-[00:11:46] to 10. We're a bit deeper here.
-[00:11:49] Definitely going to be calling
-[00:11:50] recreational small blind short stack big
-[00:11:52] blind. I'm involved every time.
-[00:11:55] Let's swap a set. Let's go multi-way. I
-[00:11:58] have a professional to my right. I've
-[00:11:59] seen him a few times now. So definitely
-[00:12:01] a guy to pay attention to. Deuces. Never
-[00:12:04] betting here. Fun fact, you would want
-[00:12:06] to bet deuces without a diamond more
-[00:12:08] than with a diamond because without a
-[00:12:10] diamond, your hand is just really,
-[00:12:11] really, really bad. It wants to kind of
-[00:12:12] bluff. With a diamond, you have some
-[00:12:14] extra equity in the checking line. If
-[00:12:17] you bet and you hit your flush, you
-[00:12:19] don't really hit a flush. You've got the
-[00:12:20] lowest flush draw, right? So, yes, you
-[00:12:23] do technically a flush here, but you
-[00:12:24] can't value bet. So, you'd rather take
-[00:12:26] it as a check and pick up some extra
-[00:12:27] free cards. Ace king getting cold. Four
+Luke opens Jh8h from HJ, sb calls.
+
+Flop comes 4cJd2s X/? Luke: "probably mixed it. Okay, professional in
+the small blinds. Most likely we will just mix this up. We'll check this time. Don't really care for being perfect. It's just want I want to have my jack in the betting and checking lane because I simply don't think betting is better than checking or vice versa."
+
+checks back.
+Turn Tc sb goes B75 
+
+Luke:  "Uh calling the jack eight here"
+Luke calls.
+
+River 4s
+: "and very good river. We do block some bluffs, but not too many cuz he's a small blind, not big blind" SB B50, luke "He bets again. I don't think  I can do anything but call here. If I  fold, I'm insinuating he's got a strong  top pair or better more than 75% of the  time, which is very unlikely." Luke calls, SB has QdTd 
+
+Hand 8:
+Luke with 8s3s as BB vs a sb 2BB open:
+"This is going to be a recreational player, so we're going to be very, very exploitative in this hand- a 2BB open from sb is going to be a recreational player most of the time" , 
+
+Flop comes 2d5h6s, sb checks. Luke bets B30:
+
+"Uh 83, I'm going to go small. In theory, you're supposed to size up, but by going small, I get a lot of information on his decision because if he's got a strong  hand, he's going to want to raise. 
+if I go big though, he might check call  stronger hands. So I get more information essentially."
+sb folded
+
+
+Hand 9:
+
+Luke is in BU with 2d2c, CO (a professional) opens, Luke: I'm definitely going to be calling. Recreational small blind short stack big blind. I'm involved every time. Let's flop a set. Let's go multi-way. I have a professional to my right. I've  seen him a few times now. So definitely  a guy to pay attention to". 
+
+Flop comes 9d5d2d X/X/?
+Luke: Deuces. Never betting here. Fun fact, you would want  to bet deuces without a diamond more than with a diamond because without a diamond, your hand is just really,  really, really bad. It wants to kind of  bluff. With a diamond, you have some extra equity in the checking line. If you bet and you hit your flush, you don't really hit a flush. You've got the  lowest flush draw, right? So, yes, you do technically a flush here, but you  can't value bet. So, you'd rather take it as a check and pick up some extra free cards". Note: i've checked in GTOW and indeed the betting frequency without a diamond is higher, and the equity of the 22 with no diamon is lower.
+
+check back flop
+
+Turn Qs X/X/X
+River 2h, X/X Luke:"22 are obviously betting here. We're going to go half pot", bets B50, BB folds, CO calls with 6d6c
+
+
+
+Ace king getting cold. Four
 [00:12:29] bet. Very small, although my obviously
 [00:12:32] my three bet small. Nice river here. Um,
 [00:12:34] okay. Okay, deeper. We are 125ish. He's
