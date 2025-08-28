@@ -74,7 +74,7 @@ Hand 9:
 
 Luke is in BU with 2d2c, CO (a professional) opens, Luke: I'm definitely going to be calling. Recreational small blind short stack big blind. I'm involved every time. Let's flop a set. Let's go multi-way. I have a professional to my right. I've  seen him a few times now. So definitely  a guy to pay attention to". 
 
-Flop comes 9d5d2d X/X/?
+Flop comes 9d5d3d X/X/?
 Luke: Deuces. Never betting here. Fun fact, you would want  to bet deuces without a diamond more than with a diamond because without a diamond, your hand is just really,  really, really bad. It wants to kind of  bluff. With a diamond, you have some extra equity in the checking line. If you bet and you hit your flush, you don't really hit a flush. You've got the  lowest flush draw, right? So, yes, you do technically a flush here, but you  can't value bet. So, you'd rather take it as a check and pick up some extra free cards". Note: i've checked in GTOW and indeed the betting frequency without a diamond is higher, and the equity of the 22 with no diamon is lower.
 
 check back flop
