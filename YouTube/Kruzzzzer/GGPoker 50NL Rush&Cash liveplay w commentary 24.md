@@ -34,34 +34,6 @@ Hand #3:
 
 
 
-[00:04:37] starting with a small C bet here. We don't need to go too big. The guy's short stacker holding here. No need to deviate against
-[00:04:44] ETG.
-[00:04:55] Okay, this guy has really big ATS. So, I would be tribetting this hand, but uh
-[00:05:01] not anymore.
-[00:05:08] Three betting this one.
-[00:05:15] Three betting here. Really small. really small for bet, but I don't think we can continue our hand, especially against
-[00:05:21] like earlier positions. It's too dominated. If I had something like pocket eights, pocket nines, jet suited,
-[00:05:28] you know, hands that are always mixes in theory, I would call those hands always because of the price.
-[00:05:35] Offuit hands. You generally don't want to call the only offsuit hand I would call against that size is ace queen. And
-[00:05:41] even that's kind of borderline.
-[00:05:47] He say, "Oh, do you want do we want to open this?" No, because we have a fish on the button. So, he's going to play
-[00:05:53] a lot of uh ports in position. So, our off
-[00:05:58] won't do so well against that.
-[00:06:10] We see Super Tank open, but this would be too wide to three bet. Oh, we have our friend here. Value the spot.
-[00:06:17] I haven't seen you in 200 in ages. I guess you went down a bit or
-[00:06:22] maybe you're trying some new strategies or I don't know. Uh testing out some new stuff. I meant.
-[00:06:31] Yeah. Opening there.
-[00:06:47] Okay, we're going to pot this one. Good price, playable hand. 3x open from a
-[00:06:52] really, really tight guy. 35 BBs. Uh, this one's pretty close. I'm going
-[00:06:59] to peel. Maybe he like gives me information on the flop.
-[00:07:08] I have to peel again cuz most of the fishes use half pot like one and done a lot. So maybe he gives gives up the
-[00:07:14] turn. He was pretty tight. So maybe I could have lost the the I mean maybe I could
-[00:07:21] have g folded the flop, but now we're here. We're just going to use small size. Start targeting his a size.
-[00:07:32] 74. We could we could raise this maybe.
-[00:07:40] No, it's three-way here. So, basically, we're hoping he
-[00:07:46] folds the jack if we jam. Needs to be good. H 40% 90%.
-[00:07:56] I don't think I'm going to give up. I think I'm going to give up this one. I meant
-[00:08:02] 87.
 [00:08:07] I didn't want to bluff on a spade completer. Exactly. Because he's a short stacker. I think he will over call Jack
 [00:08:12] X and I already wanted I already uh folded his range that I wanted to
 [00:08:18] follow on the turn. So, ace high, king queen, and stuff like that.
