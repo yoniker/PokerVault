@@ -17,3 +17,9 @@ A5s, A4s (frequently) - both for B86
 Valuebet threshold hand: JJ(infrequently, small sizing)
 
 ## River
+
+Flop X/B33/C
+Turn 4s X/X
+River As X/?
+
+Value threshold is AQo (small sizine) targeting JTs(indifferent,rarely calls), ATs/AJs (always continues, frequently as a call infrequently as a X/R bluff)
