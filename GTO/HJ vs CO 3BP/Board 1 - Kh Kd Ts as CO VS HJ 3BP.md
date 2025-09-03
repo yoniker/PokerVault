@@ -4,6 +4,7 @@ This spot was not studied yet
 
 Flop is a range bet B33
 
+Flop goes X/B33/Rx3, QQ are indifferent (sometimes fold somestimes call)
 ## Turn
 
 Flop X/B33/C
