@@ -17,6 +17,11 @@ AJs/AQs (sometimes)
 A5s, A4s (frequently) - both for B86
 Valuebet threshold hand: JJ(infrequently, small sizing)
 
+
+Flop X/B33/Rx3/C
+Turn 9d B50,
+AA is pure fold
+
 ## River
 
 Flop X/B33/C
