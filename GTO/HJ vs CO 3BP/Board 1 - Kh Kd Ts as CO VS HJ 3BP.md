@@ -5,7 +5,8 @@ This spot was not studied yet
 Flop is a range bet B33
 
 Flop goes X/B33/Rx3, QQ/JJ are calling close to pure, ATs/AJs/AQs/AKs/AA calls pure,
-any two broadway call pure except AQo (calls infrequently),QcTc (calls infrequently)
+any two broadway call pure except AQo (calls infrequently),QcTc (calls infrequently),
+indifferent are 77/88/99 (call sometimes/infrequently)
 ## Turn
 
 Flop X/B33/C
