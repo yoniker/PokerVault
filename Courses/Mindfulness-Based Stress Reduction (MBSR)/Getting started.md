@@ -1,5 +1,5 @@
 
-# MBSR Week 1: My Goals & Getting Started
+# MBSR: My Goals & Getting Started
 
 *Palouse Mindfulness - Beginning My Journey*
 
