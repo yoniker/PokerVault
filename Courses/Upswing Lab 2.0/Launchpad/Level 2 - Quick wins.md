@@ -1,7 +1,8 @@
 
 # Playing Pocket Kings - Strategy Guide
 
-## Core Philosophy
+
+When I get dealt KK I have this rush of, something good has happened, i'm going to win money here. But what do I do on bad boards, like Ah9h8h? In poker I need to constantly re-evaluate the hand strength, based on actions, runout and more.
 
 **Key Principle:** Pocket Kings is a premium pre-flop hand, but its value is entirely context-dependent post-flop. Success requires constant reevaluation based on board texture and opponent actions.
 
@@ -12,8 +13,8 @@
 ### 1. **Super Premium**
 
 - Overpair on disconnected rainbow boards
-- Top set situations
-- **Strategy:** Build large pots aggressively
+- Top set 
+
 
 ### 2. **Still Strong**
 
