@@ -39,11 +39,11 @@
 
 "We're well aware that this is going to diverge into two, if we hit, we're going to pile money, and if we miss, it's going to be a difficult situation to manage and there are a lot of bad outcomes for us."
 
-**Flop:** "We have a gut shot to the second nut straight and two overcards. And the board being lower our opponent misses it often. So Ace King is a reasonable hand here but not very strong. We start with a check and then call a small bet from our opponent."
+**Flop (2♥ 3♥ 5♦):** "We have a gut shot to the second nut straight and two overcards. And the board being lower our opponent misses it often. So Ace King is a reasonable hand here but not very strong. We start with a check and then call a small bet from our opponent."
 
 **Turn (A♦):** "We turn the Ace of diamonds, but given there is four to a straight and we lose to all of the wheel Aces, which would be Ace Deuce, Ace Three, Ace Four, Ace Five, our Ace... Top pair top kicker is not that strong. Remember the strength of a pair is connected to the board as well. We decide to lead out small, our opponent calls."
 
-**River (6):** "Six doesn't change a lot. Four was a straight anyway. So we now lose to Five Six suited and Sixes. We throw another small bet and hoping our opponent calls and doesn't raise. If he raises we're probably toast and he does raise."
+**River (6♠):** "Six doesn't change a lot. Four was a straight anyway. So we now lose to Five Six suited and Sixes. We throw another small bet and hoping our opponent calls and doesn't raise. If he raises we're probably toast and he does raise."
 
 "Once he raises, we very quickly realize our Ace King might as well be an Ace Seven or a Six Seven suited. Or just something that beats bluffs, a pocket Eights. It's no longer the premium Ace King we thought it was. And this is going to happen very often guys with hands like Ace King. And that's why this video is so important."
 
@@ -51,19 +51,19 @@
 
 **Result:** "This case we do and we get shown the bad news with our opponent rivering a set, but we were behind on the flop as well. And very lucky, a four didn't roll out and then it would've been straight over straight."
 
-### Hand 3: Perfect Runout
+### Hand 3: Perfect Runout (Holding A♦K♠)
 
 **Preflop:** "We raise Ace King, we get called from the big blind"
 
-**Flop (A♣ T♦ 9♠ rainbow):** "Nice Ace Ten Nine rainbow board. We're going to start piling in money, but we're well aware that if the board comes a Nine or a Ten or a Jack or a Queen, even an Eight or running flush cards, we're going to have to tread carefully. So not all runouts are the same. Of course ideally it comes something like Deuce Three. So we start with a bet, our opponent calls."
+**Flop (T♦ A♥ 9♠ rainbow):** "Nice Ace Ten Nine rainbow board. We're going to start piling in money, but we're well aware that if the board comes a Nine or a Ten or a Jack or a Queen, even an Eight or running flush cards, we're going to have to tread carefully. So not all runouts are the same. Of course ideally it comes something like Deuce Three. So we start with a bet, our opponent calls."
 
-**Turn (4 rainbow):** "Beautiful rainbow Four. So we make a big bet. Way ahead, still our opponent calls."
+**Turn (4♣):** "Beautiful rainbow Four. So we make a big bet. Way ahead, still our opponent calls."
 
-**River (K):** "So we have our top two. Perfect runout. We make a pot size bet and our opponent, unfortunately for him, rivered King Ten."
+**River (K♣):** "So we have our top two. Perfect runout. We make a pot size bet and our opponent, unfortunately for him, rivered King Ten."
 
 "This is the good easy scenario with Ace King, right? Beautiful runout, but not always that easy."
 
-### Hand 4: Blind vs Blind 3-Bet Pot
+### Hand 4: Blind vs Blind 3-Bet Pot (Holding A♥K♥)
 
 **Preflop:** "Blind versus blind, we three bet Ace King"
 
@@ -71,19 +71,19 @@
 
 **Turn (8♥):** "So we have a flush draw. And now the value of our Ace King is mostly in the hearts rather than the fact that it was Ace King. Our opponent checks again and we're like, well we're really happy to see a river. We don't want to get check-raised. It's not like he's folding any pairs if we bet, so we check down."
 
-**River (A):** "So luckily we improved for free, our opponent let us get here. Now our hand is strong enough to bet, so we fire out a bet knowing full well that if we get raised, our hand would be just a bluff-catcher and we might have to make a tough laydown."
+**River (A♣):** "So luckily we improved for free, our opponent let us get here. Now our hand is strong enough to bet, so we fire out a bet knowing full well that if we get raised, our hand would be just a bluff-catcher and we might have to make a tough laydown."
 
 **Result:** "Our opponent folds."
 
-### Hand 5: Small Blind vs Under the Gun
+### Hand 5: Small Blind vs Under the Gun (Holding AK with A♦)
 
 **Preflop:** "We call Ace King from the small blind versus under the gun. You can call this hand against tight opens, which you'll learn when we go through the preflop charts."
 
-**Flop (4♣ 7♦ 8♠ two-tone):** "We get a bad board, Four Seven Eight two-tone. And here Ace King with the Ace of diamonds, you probably call once because you still beat bluffs. And if you improve to an Ace or a King, your opponent is likely to be aggressive on those cards. But yeah, we get to bet."
+**Flop (4♦ 8♣ 7♦ two-tone):** "We get a bad board, Four Seven Eight two-tone. And here Ace King with the Ace of diamonds, you probably call once because you still beat bluffs. And if you improve to an Ace or a King, your opponent is likely to be aggressive on those cards. But yeah, we get to bet."
 
-**Turn (Q):** "Of course we're checking again and he checks back."
+**Turn (Q♥):** "Of course we're checking again and he checks back."
 
-**River (4):** "And there's not much point in putting in money really. We miss, we only beat bluffs. We really want to show down against Ace Jack or Ace Ten. So there's not much to do other than check down."
+**River (4♥):** "And there's not much point in putting in money really. We miss, we only beat bluffs. We really want to show down against Ace Jack or Ace Ten. So there's not much to do other than check down."
 
 "We check and our opponent bets and now we can decide, do we call, do we fold, do we turn our hand into a bluff raise? But either way, it's a very marginal spot. Like I said, Ace King not very different than something like Ace Deuce or pocket Deuces here."
 
