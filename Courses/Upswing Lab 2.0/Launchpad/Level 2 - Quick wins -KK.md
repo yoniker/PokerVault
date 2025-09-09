@@ -123,3 +123,5 @@ Playing Pocket Kings successfully requires:
 - **Patience** to play small pots when appropriate
 
 Remember: The goal isn't to win every pot with Kings, but to maximize value in favorable situations while minimizing losses in unfavorable ones.
+
+
