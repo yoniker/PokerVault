@@ -67,7 +67,7 @@
 
 **Preflop:** "Blind versus blind, we three bet Ace King"
 
-**Flop (4♦ 5♣ 9♠ two-tone):** "Our opponent checks and here Ace King can bet or check, but the main thing to realize is it's not a premium hand anymore. This might... It's stronger than King Queen, but it's not anything special. It's way weaker than something like Nine Eight or Six Seven. Maybe even weaker than something like Seven Eight. I think it's a bit stronger than Seven Eight. So yeah, we check back."
+**Flop (4h 5d 9d two-tone):** "Our opponent checks and here Ace King can bet or check, but the main thing to realize is it's not a premium hand anymore. This might... It's stronger than King Queen, but it's not anything special. It's way weaker than something like Nine Eight or Six Seven. Maybe even weaker than something like Seven Eight. I think it's a bit stronger than Seven Eight. So yeah, we check back."
 
 **Turn (8♥):** "So we have a flush draw. And now the value of our Ace King is mostly in the hearts rather than the fact that it was Ace King. Our opponent checks again and we're like, well we're really happy to see a river. We don't want to get check-raised. It's not like he's folding any pairs if we bet, so we check down."
 
@@ -87,8 +87,4 @@
 
 "We check and our opponent bets and now we can decide, do we call, do we fold, do we turn our hand into a bluff raise? But either way, it's a very marginal spot. Like I said, Ace King not very different than something like Ace Deuce or pocket Deuces here."
 
-**Result:** "We decide to call and get shown the bad news."
-
-## Key Takeaway
-
-"When you miss, you miss basically with Ace King and you have to treat it as an ordinary hand."
+**Result:** "We decide to call and get shown the bad news - villian had AQ."
