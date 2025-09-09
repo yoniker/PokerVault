@@ -18,7 +18,7 @@
 
 ## The Perception vs Reality Gap
 
-"And I think that that's fascinating to know because we have, or at least I always had a different perception of these hands. Because poker, when you're just starting out, it's fun just to get dealt a playable hand, right? King Queen offsuit is a playable hand. Nine Eight suited is a playable hand. Pocket Deuces is a playable hand. And you spend so much of your time folding, when it's your turn to play you kind of want to play."
+"And I think that that's fascinating to know because we have, or at least I always had a different perception of these hands. Because poker, when you're just starting out, it's fun just to get dealt a playable hand, right? KQo is a playable hand. 98s is a playable hand. 22 is a playable hand. And you spend so much of your time folding, when it's your turn to play you kind of want to play."
 
 "But poker isn't really a game that works exactly like that, and the rewards are not distributed evenly."
 
@@ -34,7 +34,7 @@
 
 ## The Flexibility in Marginal Hands
 
-"So when you see this chart you might be like, 'wow, Nine Seven suited is a fold, I would've opened that from this position.' Oh, minus zero point zero one, that's actually fairly negligible. Nine Seven suited, Eight Six suited, even Ace Nine offsuit. These hands would not really lose you any significant amount of money opening."
+"So when you see this chart you might be like, 'wow, 97s is a fold, I would've opened that from this position.' Oh, minus 0.01BB, that's actually fairly negligible. 97s, 86s, even A9o. These hands would not really lose you any significant amount of money opening."
 
 "So while you do want to have the charts as a frame of reference, I want you guys, as you're studying them, not to be hard on yourself to remember the exact edges. Of course you can memorize these by knowing the edges, but also to kind of know that you're free to play around with these."
 
@@ -42,7 +42,7 @@
 
 "If you have a read that someone is folding, they're busy on their phone, or there's some weaker player at the table, definitely feel free to go looser."
 
-"And if there's some aggro maniac who's attacking you all the time, or even just a really great player who's much better than you are at this stage, so I'm sure you will improve to beat him someday guys, then don't worry about not opening Queen Nine suited. It's barely worth any money. The presence of someone who's outlaying you is going to outweigh this."
+"And if there's some aggro maniac who's attacking you all the time, or even just a really great player who's much better than you are at this stage, so I'm sure you will improve to beat him someday guys, then don't worry about not opening Q9s. It's barely worth any money. The presence of someone who's outplaying you is going to outweigh this."
 
 ## Looking Forward
 
