@@ -6,15 +6,15 @@
 
 ## Hand Profitability (Under the Gun, 6-Handed)
 
-"So Aces makes nine point three. Kings makes five point o four. This is in blinds, so multiply it by whatever stakes you make. Queens makes two. And something like Queen Nine suited makes zero point zero one. Something like King Queen offsuit makes zero point zero six."
+"So Aces makes 9.3BB. Kings makes 5.4BB This is in blinds, so multiply it by whatever stakes you make. Queens makes 2BB. And something like Q9s makes 0.01BB. Something like KQo makes 0.06BB"
 
 "So the drop ups are very, very sharp. And this is actually a very common thing in poker."
 
 ## The 73% and 93% Rule
 
-"The crazy thing you'd get is if you add up all of the numbers here for all the hands, Aces, Kings and Queens together are making seventy-three percent of the money of all of these hands."
+"The crazy thing you'd get is if you add up all of the numbers here for all the hands,AA,KK,QQ together are making 73% of the money of all of these hands."
 
-"And if you go Jacks, Queen, Kings, Aces, Ace Queen, Ace King, right? So just like the top three, four percent of hands, those are actually making ninety-three percent of the money. Everything else in the opening range is just filler."
+"And if you go JJ,QQ,KK,AA,AK,AQ right? So just like the top 3-4% percent of hands, those are actually making 93% of the money. Everything else in the opening range is just filler."
 
 ## The Perception vs Reality Gap
 
