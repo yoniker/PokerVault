@@ -76,7 +76,7 @@
 
 "So you had this concept of a good board, bad board, good card, bad card should help you a lot in making decisions and also understanding the context of your opponent's decisions. Your opponent gets to be a lot more aggressive on good boards and good run outs and he gets to be a lot less aggressive on the other ones."
 
-"So if someone raises a new call and you get a bad flop, you know, very easy to fold, you don't have to defend very much. If you got a good flop, you're going to be a lot stickier and a lot tougher to get off your hand. And vice versa with the turns in river."
+"So if someone raises and you called and you get a bad flop, you know, very easy to fold, you don't have to defend very much. If you got a good flop, you're going to be a lot stickier and a lot tougher to get off your hand. And vice versa with the turns in river."
 
 ## Accepting the Dynamics
 
