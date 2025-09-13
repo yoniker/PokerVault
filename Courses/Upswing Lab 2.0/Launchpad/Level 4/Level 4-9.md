@@ -107,7 +107,3 @@
 "So that's a more advanced concept that we'll get to down the line."
 
 "But once we start betting on boards where we expect our opponents to fast play, our hands that might be, in a naive absolute sense, worth two bets against our opponent's range. If your opponent splits his range and you're playing against the weaker part, the part that didn't raise, maybe suddenly it's worth a bit more."
-
-## Key Takeaways
-
-"And that is a concept we're going to explore down the line."
