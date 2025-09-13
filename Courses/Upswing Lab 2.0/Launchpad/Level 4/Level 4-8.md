@@ -30,9 +30,7 @@
 
 "So here any under pair - Deuces, Threes, Fours, Fives, and to some extent Sixes and Sevens, although these are a bit stronger, is generally hoping to check down. That's the best scenario for your hand."
 
-"For right now, we're gonna keep it simple. And I'm just gonna describe the best scenario. You could always throw in a small bet with these types of hands, but generally speaking, at this board, you check down and hope your opponent shows you ace high. And most of the time you're gonna lose to ace high, similar but worse."
-
-### Playing Missed Hands
+"For right now, we're gonna keep it simple. And I'm just gonna describe the best scenario. You could always throw in a small bet with these types of hands, but generally speaking, at this board, you check down and hope your opponent shows you ace high. And most of the time you're gonna lose ...our ace ace high, similar but worse."
 
 "So if we miss with something like Ace Two, we either bluff or we give up, we're not very likely to show down and win. Given the board is this high and connected."
 
@@ -40,11 +38,11 @@
 
 ### Bluffing on Connected Boards
 
-"So your ace highs and your king highs, weak pair hands, you could bluff with them. But generally speaking, the recommendation I'm gonna have for you guys to start is to on these very connected boards, to try bluffing mostly when you have something that interacts with the board."
+"So your ace highs and your king highs, weak air hands, you could bluff with them. But generally speaking, the recommendation I'm gonna have for you guys to start is to on these very connected boards, to try bluffing mostly when you have something that interacts with the board."
 
 "So here that would be a Queen, a Jack, a Seven or a Six, all of which would make for gutshots. And if not those a flush draw or at least a high flush card."
 
-"So if there are two spades, maybe Ace of Spades King, so something that interacts with this board, those hands make your better bluffs. And the rest we'd mostly give up."
+"So if there are two spades, maybe Ace of Spades King of diamond, so something that interacts with this board, those hands make your better bluffs. And the rest we'd mostly give up."
 
 ### The Give Up Option
 
@@ -52,7 +50,7 @@
 
 ### Playing Middle Pairs
 
-"Next hand category would be a pair of Eights, a pair of Nines or a pair of Tens. So one pair when the cards are disconnected, Eight, Nine, and Ten have similar value."
+"Next hand category would be a pair of Eights, a pair of Nines or a pair of Tens. So one pair when the cards are this connected, Eight, Nine, and Ten have similar value."
 
 "All of these hands are looking at something between a small and a medium sized bet and then trying to show it down."
 
@@ -78,11 +76,11 @@
 
 "You could easily check back a hand like Aces or Kings here, see the turn card and then decide how much money you're putting in. You could also bet once and then see the turn card."
 
-"But just be very aware that when the board is 10, 9, 8 and there are so many two pairs and straights and flushes possible that a hand like an overpair is much weaker than you're used to. It being much weaker than on something like Ace Seven Deuce."
+"But just be very aware that when the board is 10, 9, 8 and there are so many two pairs and straights and flushes possible that a hand like an overpair is much weaker than you're used to it being ,much weaker than on something like Ace Seven Deuce."
 
 ### Playing Draws
 
-"The next hand class I guess would be draws. I'd say with an eight outer or better draw you can bluff twice as a default. That's not theory. Theory is very deceptive. And as we're gonna get more advanced, I'll teach you guys how to do that."
+"The next hand class I guess would be draws. I'd say with an eight outs or better draw you can bluff twice as a default. That's not theory. Theory is very deceptive. And as we're gonna get more advanced, I'll teach you guys how to do that."
 
 "But as a starting point to develop an aggressive strategy, I think the idea is that when you have a good bluffing candidate, you bet and the scenarios are either you pick up the pot or your opponent calls and you improve or your opponent calls and you don't improve. And at least two of three of those are good and usually that makes for enough to make it a good bet."
 
@@ -94,7 +92,7 @@
 
 ### Counting Bad Cards
 
-"The way I count this, there are nine spades in addition to the board. That's generally just a rule of thumb. And then because some of these cards, each of one of these would've been a spade, we'll actually count, say two Tens and three of each of the other ones."
+"The way I count this, there are nine spades in addition to the board. That's generally just a rule of thumb. And then because some of these cards, each of one of these would've been a spade, we'll actually count, say two Tens and three of each of the other ones(6,7,J,Q)."
 
 "So we'll say that that is nine flush cards, 14 other cards. So 23 turn cards where you're gonna kind of regret that you bet the flop."
 
@@ -118,4 +116,4 @@
 
 ### Not All Strong Hands Are Equal
 
-"Not all two pairs are created equal. You have two pair on Ace Seven Deuce, that's great. You're gonna win a big pot. Probably you have two pair on 10, 9, 8, 7. That's not a very strong hand. You mostly hope it checks down. If you face a big bet, you just hope your opponent's bluffing. So it's a very, very different hand type and that's very important to realize."
+"Not all two pairs are created equal. You have two pair on Ace Seven Deuce, that's great. You're gonna win a big pot,Probably, and if you have two pair on 10, 9, 8, 7. That's not a very strong hand. You mostly hope it checks down. If you face a big bet, you just hope your opponent's bluffing. So it's a very, very different hand type and that's very important to realize."
