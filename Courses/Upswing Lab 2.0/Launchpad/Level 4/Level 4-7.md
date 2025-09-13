@@ -88,16 +88,3 @@
 
 "So we're going to default to being aggressive with these hands in position, but keep the option in the back of our mind, and we'll learn further down the line when and how to use this, of checking these hands back being more deceptive and suddenly showing up with a straight or a flush in a spot your opponent doesn't really expect."
 
-## Key Takeaways
-
-### Board Texture Advantage
-
-"Ace high boards and disconnected boards tend to favor the preflop raiser."
-
-### Minimum Aggression Requirement
-
-"It's almost mandatory to fire at least one bluff."
-
-### Flexibility with Draws
-
-"We're going to default to being aggressive with these hands in position, but keep the option in the back of our mind."
