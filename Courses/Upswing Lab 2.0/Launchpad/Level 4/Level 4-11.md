@@ -79,7 +79,3 @@
 "So he's going to be more low card heavy, less high card heavy. This is a big difference between the ranges."
 
 "Of course, less Aces and Kings and Ace King and Ace Queen because these hands four bet."
-
-## Key Takeaways
-
-"So the calling range hits the low boards more, the raising range hits the high boards more."
