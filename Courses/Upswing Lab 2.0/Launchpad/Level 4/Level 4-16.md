@@ -24,9 +24,9 @@
 - **Turn (3♠):** "Big blind checks. We overbet with Jack Ten offsuit. He calls. Of course he's not calling any Jack Ten offsuit, right?"
 - **River (9♦):** "Then river is a Nine. Now, on the Nine we improved the Jack Ten. The straight. He never has Jack Ten the straight."
 
-"So what he'll see is that the most common used sizing is to just shove for 5x pot and we get to shove with pocket Nines, which is the nuts that we have and he doesn't. Jack Ten, which is the nuts and we have and he doesn't. And some pocket Threes, two pairs."
+"So what we'll see is that the most common used sizing is to just shove for 5x pot and we get to shove with pocket Nines, which is the nuts that we have and he doesn't. Jack Ten, which is the nuts and we have and he doesn't. And some pocket Threes, two pairs."
 
-"Pocket Threes isn't the super nuts and maybe opponent has Fours. And same for Queen Four, maybe he has Queen Nine. But it's the effect of nuts. He's capped enough, right? If his range is fifty combinations and one of them beats us then so be it, we treat him as effectively capped."
+"Pocket Threes isn't the super nuts and maybe opponent has Fours. And same for Queen Four, maybe he has Queen Nine. But it's the effective nuts. He's capped enough, right? If his range is fifty combinations and one of them beats us then so be it, we treat him as effectively capped."
 
 ### Example 2: Exploiting Capped Ranges on A♠7♣2♦
 
@@ -37,7 +37,7 @@
 "Basically what I'd do is, I'd be like, people check-raise Sevens and Deuces and Ace Seven. I'm the only one who has Ace King and Ace Queen, because they get three bet preflop."
 
 - **Flop (A♠7♣2♦):** "So I'd go bet flop for like seventy-five percent pot, expect Deuces and Sevens to check-raise, right?"
-- **Turn (Q♦):** "Get the Queen turn, or any turn. Let's say Queen of diamonds turn. I'd go ahead and bet the turn fairly big, say one twenty-five and my opponent would call whatever they call."
+- **Turn (Q♦):** "Get the Queen turn, or any turn. Let's say Queen of diamonds turn. I'd go ahead and bet the turn fairly big, say one twenty-five percents pot and my opponent would call whatever they call."
 - **River (4♥):** "Then I'd get some river. Here we will put the Four out there. And I'd throw out another very big bet. I wasn't overbetting back then, but say you go all-in."
 
 ## Exploitation Strategy
