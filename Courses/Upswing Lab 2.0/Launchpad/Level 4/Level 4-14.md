@@ -110,7 +110,7 @@
 
 ### The Inflection Point
 
-"And this is extremely important to recognize this inflection point of, yes, Ace Ten was a great hand on the flop, but enough money went in, our range got narrow enough, we now only beat the bluff, so we now get to start folding this hand."
+"And this is extremely important to recognize this inflection point of, yes, Ace Ten was a great hand on the flop, but enough money went in, our range got narrow enough, we now only beat the bluff, so we now get to start folding this hand." (In reality ATo actually mostly fold/infrequently call)
 
 "So yeah, I feel like this is a really key point. I hope this illustration is clear."
 
@@ -143,7 +143,3 @@
 "And when it is, you can start thinking of a host of factors. Who's my opponent? What's the action? Do I think he's bluffing or not? What are the properties of my hand?"
 
 "And you're going to be faced with tough, close decisions, but you want to not be locked into, 'I have to call'."
-
-### Board Context Matters
-
-"And that's very important to understand."
