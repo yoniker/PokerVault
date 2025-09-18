@@ -1,75 +1,55 @@
-# Blockers Concept
+# Capped Ranges Concept
 
 ## Core Concepts
 
-### Introduction to Blockers
+### Definition of Capped Ranges
 
-"I wanted to use this video to talk about blockers, an often misunderstood and misapplied concept."
+"I wanted to discuss the concept of capped ranges. This is a concept that we think about a lot when we're making decisions. So you guys are going to encounter many coaches using this concept."
 
-"Now, the idea of blockers is that the cards that we hold affect the composition of the range of our opponent. I'll say that again in a different way. By virtue of me having certain cards, I weigh your range in a different way."
+"So, 'capped' would indicate that the range is a certain strength or less, so it's capped at that strength. And what it means is when a guy's range is capped is that when your hand is over the cap, you can basically put any amount of money that you want into the pot."
 
-## Hand Example: A♦Q♣7♦
+### Theoretical Implications
 
-### Flop Blockers
+"Imagine hypothetical scenario where I'm the only one who can have the nuts for whatever reason. It's preflop. If it's postflop I could presumably bet a thousand times the pot and have some bluffs thrown in there and that would actually be the optimal size."
 
-"There's actually a blockers tab in this program(GTOW), so it's fairly easy to see that if I, for example, go ahead and make a half-pot bet on the flop and click the blockers tab, you'll see that if I have an Ace, I get three point nine percent extra folds because I'm blocking an Ace."
+"In practice, what tends to happen is that as players get capped, bet sizes increase for the guy who is less capped."
 
-"But the same is true for a card like the King of diamonds. Not by virtue of the King of diamonds necessarily having a lot of equity, just that the continuing range has many King high flush draws or hands like King Queen or King Jack or King Ten."
+## Hand Examples
 
-"So by virtue of just holding the King of diamonds, you get extra folds. That would be a good blocker for bluffing."
+### Example 1: Button vs Big Blind on Q♠8♥4♦
 
-### Bad Blockers for Bluffing
+"So I'll give you guys one or two examples. This is a Queen Eight Four rainbow board button versus big blind where flop goes check check. I specifically constructed this example for this."
 
-"Could also look at bad blockers for bluffing, right? So, turn this the other way around and the cards that make our opponent fold less would be Nines, Eights, Sixes, Fives. These are kind of bad cards to hold."
+- **Flop (Q♠8♥4♦):** "Check check"
+- **Turn (3♠):** "Big blind checks. We overbet with Jack Ten offsuit. He calls. Of course he's not calling any Jack Ten offsuit, right?"
+- **River (9♦):** "Then river is a Nine. Now, on the Nine we improved the Jack Ten. The straight. He never has Jack Ten the straight."
 
-"Why? Because when we bet, look at the hands he's folding, Sixes, Eights, Eight Nine, Nines, Six Five, pocket Fives."
+"So what we'll see is that the most common used sizing is to just shove for 5x pot and we get to shove with pocket Nines, which is the nuts that we have and he doesn't. Jack Ten, which is the nuts and we have and he doesn't. And some pocket Threes, two pairs."
 
-"Of course, diamonds are better than non-diamonds. You're going to see lots of clubs, spades and hearts here. But the idea is, again, the more our hand interacts, the more it has this blocker type of effect."
+"Pocket Threes isn't the super nuts and maybe opponent has Fours. And same for Queen Four, maybe he has Queen Nine. But it's the effective nuts. He's capped enough, right? If his range is fifty combinations and one of them beats us then so be it, we treat him as effectively capped."
 
-### River Play (A♦Q♣7♦ 3♥ 6♦)
+### Example 2: Exploiting Capped Ranges on A♠7♣2♦
 
-"And this is most pronounced generally on rivers, so I'm going to take us there."
+"Now, a way that old school pros used to, me included, used to use this is that when your opponent is capped and you throw out really big sizes, he has to call with bluff-catchers. And that's very uncomfortable for some people. Some people don't really want to put in their stack when they only beat a bluff."
 
-"Let's say we have a turn Three of hearts. We go ahead and bet half pot and get called. Then river will be the Six of diamonds, so flush came in and we want to go all-in."
+"So I'll show you guys maybe an example of where I used to use this years and years ago. Way before solvers, I really enjoyed doing this, but basically I'd get some Ace Seven Deuce board, button versus big blind. And let's say I ran out like a Queen Four."
 
-"Now, if we look at how the computer generated strategy would go, it would go with King Jack with a diamond or King Ten with a diamond, always. But much more rarely clubs, hearts and spades. And you would see the EV difference."
+"Basically what I'd do is, I'd be like, people check-raise Sevens and Deuces and Ace Seven. I'm the only one who has Ace King and Ace Queen, because they get three bet preflop."
 
-### Measuring the Effect
+- **Flop (A♠7♣2♦):** "So I'd go bet flop for like seventy-five percent pot, expect Deuces and Sevens to check-raise, right?"
+- **Turn (Q♦):** "Get the Queen turn, or any turn. Let's say Queen of diamonds turn. I'd go ahead and bet the turn fairly big, say one twenty-five percents pot and my opponent would call whatever they call."
+- **River (4♥):** "Then I'd get some river. Here we will put the Four out there. And I'd throw out another very big bet. I wasn't overbetting back then, but say you go all-in."
 
-"I think this is fairly clear. You don't even need to see any percentages like how much does it affect? It's still interesting to look at."
+## Exploitation Strategy
 
-"Basically when we shove, our opponent is going to fold roughly three percent extra when we hold a diamond compared to zero. And of course, there are some bad cards we could have. The Ten of hearts in this example would be a bad card."
+### Putting Pressure on Capped Ranges
 
-### Alternative River: Busted Draw (A♦Q♣7♦ 3♥ 6♠)
+"The idea here is that because your opponent is sort of capped, your opponent does have two pairs sometimes, but he can't get away with calling you with only two pair, he has to call quite a bit wider and a lot of guys might not even have Ace Seven and Ace Deuce this often."
 
-"This is also interesting in terms of bluffing busted draws. Let's say the river is a Six of spades."
+"So, unless he's willing to just flick in his stack with a hand like Ace Five or Ace Eight, he's going to massively overfold and bluffs print."
 
-"You would see that we don't really want to bluff with hands like King Nine of diamonds. It would be a fairly big blunder because those hands are often in our opponent's folding range."
+## Key Takeaways
 
-"And if we click the blockers tab, of course when we have an Ace he folds more, but having any diamond, even a Queen of diamonds, but any Eight, Jack, Nine, King, Ten of diamonds, is actually terrible for your fold equity."
+"This is an example of a capped range. Against capped ranges we just use very, very big sizes and that is just kind of poker theory."
 
-### The Worst Blockers
-
-"So you want to directly avoid this as much as you can and definitely avoid having a disastrous two diamonds."
-
-"You can only imagine how bad bluffing with King Ten of diamonds is when you're looking for your opponent to fold King high diamonds, Queen high diamonds, and Ten high diamonds. He almost can't fold when you have King Ten of diamonds."
-
-## Types of Blockers
-
-### Good vs Bad Blockers
-
-"So the idea of blockers... There are good blockers for bluffing. Draw comes in, you block the draw, that's a fairly standard one."
-
-"There are bad blockers for bluffing, which would mean basically you block the folds, but the easiest way to conceptualize that is you block the draws that missed."
-
-## Practical Application
-
-### Professional Thinking
-
-"So this is a fairly complicated concept. You guys don't have to get it right away. There are a million applications of this, and you will see them interwoven throughout hand analysis because this is something professional poker players think about in their decisions constantly."
-
-### Flop Decision Making
-
-"Even on the flop, when I'm thinking, do I c-bet, don't I c-bet? And I look at a hand like Ten Eight of hearts, I would immediately think, 'oh, this has poor blockers'."
-
-"And maybe not and then I'd be, I'd think, 'oh, but the board is so good, I get to get away with it.' But if the board were worse, I wouldn't c-bet a hand like that."
+"So this is a way to exploit capped ranges. Just put a lot of pressure on them until your opponent proves to you that he's capable of making a light call because the concept of capped ranges implies that he'll never have a hand that's kind of naturally strong enough to call."

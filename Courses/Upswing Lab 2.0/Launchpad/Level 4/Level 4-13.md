@@ -1,113 +1,145 @@
-# Playing Three Bet Pots When We Miss
+# Bluff-Catching Concepts
 
 ## Core Concepts
 
 ### Introduction
 
-"I want to practice how to play in three bet pots when we miss, and I'm going to show this with Lucid again."
+"Hey guys! An attempt to explain how bluff-catching works in a simple way as possible."
 
-"The idea is going to be how do we play our hands when we miss. And it's very connected to the rest of the concepts in this chapter of how many broadways are on the board and how good or bad is the board for us."
+"So what I mean by bluff-catching is how you respond to your opponent's bets specifically when you have something that's not very, very clear cut."
 
-### Setup and Range
+### Combinatorics and Range Narrowing
 
-"So let's say button raises, we re-raise from the small blind with this kind of range. And if you guys, maybe you're re-raising a slightly tighter range, that's fine, I wouldn't worry about it at this stage."
+"And the concept that I want you guys to have in your mind is a combinatorics concept of not just your exact hand, but all of the hands you can have in the situation, so, your range, and how your range gets narrowed as more money goes in."
 
-"We're just going to look at a few different boards and discuss how we play when we miss."
+### Theoretical Example of Range Narrowing
 
-### Range-Based Thinking
+"We'll start with a theoretical example. Let's say our range is one hundred combinations going to the flop. Our opponent bets twenty-five percent pot, so, tiny. We would narrow our range to eighty combinations, so we would fold the bottom twenty percent of hands."
 
-"To summarize, and I think this is a lot of the concept in this chapter, rather than think about our hand, and if we have nothing we check, we have something good we bet, we think about our range."
+"If our opponent would bet, say, pot, if our opponent bets bigger, we narrow our range to fifty combinations."
 
-"We think of the range as where is the Broadway region? What are the good cards for us and the bad cards for us?"
+"Now, another example. If our opponent bets twenty-five percent into four people and each of the four people have a hundred combinations, in a way we would actually narrow our range a lot more, and this would be more like narrow our range to fifty combinations."
 
-## Playing Good Boards
+"I'm not being accurate with the numbers, I just want to convey the concept."
 
-### K♠J♠4♦ - Double Broadway Board
+### Progressive Range Narrowing
 
-"Let's start with a board that's very good for us. Say, King Jack Four. Double-broadway board. The way that we play when we miss here is going to be to bet. Because the board is so good for us."
+"But as our opponent keeps betting, our range is going to narrow and narrow. So, if our opponent makes another pot size bet, narrow to twenty-five, and if another one, narrow to twelve and a half, right? So our range gets narrower and narrower the more money goes in."
 
-"Say we re-raised with Ace Seven of diamonds, or Six Seven of hearts, Ace Seven of hearts, pocket Sevens, whatever. We completely missed the board."
+## Common Mistakes
 
-"The idea that we would have in our head is that despite completely missing the board, our range hits the board so hard that our re-raising range and our opponent is imagining Kings and Queens and Ace King and Aces and all these hands hitting and King Queen, that we get to bet these hands and he's going to be faced with a tough decision a lot, so we start out with a bet."
+### Two Types of Errors
 
-### Continuing Aggression on Good Boards
+"And this is a very deceptive thing for people on both ends of the spectrum. The types of mistakes you might be making are, first of all, if your opponent bets tiny, you might be narrowing your range too much."
 
-"This program can give you all sorts of sizes. There are big bet strategies and small bet strategies. But let's say you bet there, you get Ace Seven of hearts and we're now out of position."
+"For example, he bets really small and you fold, like we said, too many combinations. In order to call enough combinations, you need to widen your perception of what's a playable hand to include what we call backdoor draws, overcards, overcards to the middle cards sometimes, it depends on how wide ranges are, but you need to continue quite wide because against the small bet you don't need to win very often."
 
-"When we're out of position we prioritize bluffing with equity. But here we can actually keep firing with a lot of our misses very, very aggressively."
+### The Counter Mistake
 
-"To give you an example, say you have pocket Fives, you can keep firing. If you have something like Ace Ten, which isn't too strong, or Ace Queen, you can keep firing. It's just a board to be very, very aggressive on."
+"And the counter mistake would be that often when people flop something like top pair or they have an overpair, they think, wow, this is really high up in my range. It's a high combination, so they don't fold it even when actually too much money went in."
 
-"Queen Nine, Ten Nine. Even say you hit the Seven with your Ace Seven, you can just turn it into a bluff."
+"Maybe your opponent made two pot-sized bets against four players and suddenly your range is supposed to be so narrow that your top pair actually gets folded, but you don't realized how narrowing the action made your range."
 
-"And of course, because we're out of position, so we prioritize bluffing with equity, we're going to give up with... Say you have Ace Five of clubs. You mostly give up, but it's actually not even a disaster to keep bluffing with this hand sometimes. So good is the board for you, right?"
+### Playing Defense
 
-## Playing Medium Boards
+"Playing defense has a lot to do with understanding these concepts."
 
-### 9♠9♥4♦ - A More Defensive Approach
+"And I'm going to run you guys through a few simple examples of how our range gets narrower as we face multiple bets. And through these examples, I want you guys to kind of see and start being able to visualize how to play top pair, how to play middle pair, how to play some random gutshot."
 
-"The counter example to this would be a bad board for us when we miss or relatively, I'm not going to put Seven Six Five, but just a lower board. Say Nine Nine Four."
+"At what point did the bets your opponent make make your hand foldable? And at what point did it make it very, very clearly foldable?"
 
-"Nine Nine Four, when we miss, we have to play more defensively. Here, you'll notice there's a spade, a heart and a diamond on the board, so the worst hand for us to hold would be something with clubs."
+## Hand Example: A♥7♠2♣
 
-"And if we have something like Ace Seven of clubs, we just check and just fold if our opponent bets and we play a bit of defense with our checking range."
+### Setup
 
-### Maintaining Some Aggression
+"Okay guys, I want to quickly walk you guys through a few examples of how calling ranges narrow with different sized bets."
 
-"But we also do bet quite a lot. This is going to be generally the pattern in a re-raised pot. You do have an advantage, even on boards that you miss, because of your overpairs."
+"We'll load up Lucid, we're going to be a hundred deep. Remember this is just the basic basic examples. We're going to go button versus big blind."
 
-"So unless the board is really terrible, you do get to keep betting quite a lot, even with King Jack or Ace Queen or Ace Eight. So it's never a disaster to just fire the first bet in."
+### Opening Ranges
 
-### Turn Play on Bad Cards (9♠9♥4♦ 8♠)
+"This would be a button opening range. So offsuit hands Nine and higher(he meant K9o/Q9o/J9o/T9o etc are opening almost pure,8x versions except A8o are not), offsuit Aces, pocket pairs and a bunch of suited stuff."
 
-"And let's say we go for a half pot bet, our opponent calls and the turn is the Eight of spades. Another turn that our range misses. We now play very, very defensively."
+"In the big blind defending range, he re-raises the top of his range here. There are some mixed bluffs everywhere else. Again, nice suited stuff, Nine offsuit and higher and offsuit Aces. And this has to do with the sizing, just like every spot in poker. But yet not getting into that too much."
 
-"So our Ace Kings, Ace Queens, King Queen, King Jack, Ace Jack, Ace Five suited... all these hands are mostly going to be checking. And we keep betting as a bluff mostly with hands, like straight draws and flush draws."
+### Flop Play (A♥7♠2♣)
 
-"And then our big pairs play a mix of offense and defense."
+"So let's start with a very disconnected board. We'll start with Ace Seven Deuce rainbow. I want to show you guys, and we'll kind of track as money goes in, which of our hands are in I-just-have-to-call mode versus when do we get to a point where we ask ourselves the question, is he bluffing or not? And we actually don't have to call."
 
-### Example with Ace King
+"So we start out with a check. And here our opponent can fire three different bet sizes and we have a different response against each."
 
-"So, say we have Ace King here, we fired the first bet, our opponent called. We're now going to check the Eight."
+"If he goes for a small thirty percent sized bet, we're going to have to defend everything."
 
-"Then, facing a bet from him we're going to decide between calling and folding and it's going to be close, right? So there's no easy answer. Folding is definitely fine."
+"So you might fold a Seven to one big bet. But yeah, let's kind of go forward."
 
-### Good Turn Cards (9♠9♥4♦ K♦)
+### Turn Play (A♥7♠2♣ 6♠)
 
-"Now, what if we missed on the flop we fired a bet and then we got a good turn card? Say, a King, right? We still have this range asymmetry. We have a lot of Kings."
+"So, our opponent bet small, we call. Say the turn is a Six, so nothing special happened. We check, and here our opponent fires an eighty-percent-pot size bet."
 
-"Well if we bet, we turn the King, suddenly it's good card for us again and we just keep firing even though we missed."
+"And we ask ourselves, well remember thirty and then eighty. That's similar to the big bet from before. So our top pairs are kind of forced to call. When we have a pair of Sevens it's a are-you-bluffing-or-not decision. And when we have a pocket pair, the theoretical answer would be to just fold."
 
-"So something like Ace Seven of spades or Six Seven of clubs that mostly would've given up, given we got a really good turn card for our range, they get to be more aggressive."
+### Board Pairs vs Pocket Pairs
 
-## Playing Bad Boards
+"And the reason is that a pair of Sevens does better. A board pair does better than something like a pair of Eights or a pair of Fives when your opponent's betting big because it's easier to improve."
 
-### 7♥6♥5♠ - Complete Defense
+"Nine Seven suited improves to trips on a Seven or to two pair on a Nine. That's five outs to improve. Whereas something like Eights only improves on an Eight. Only two outs to improve. So we tend to prefer, I say 'tend' because there are exceptions, we tend to prefer the board pairs (eg when we have a pair by connecting with the board rather than a pocket pair)"
 
-"And maybe just for completeness, we'll look at what happens if the board is actually quite bad for us. So say something like Seven Six Five, right? Low board, connected board, but also one where our opponent makes many new nuts."
+### Computer's Defense Strategy
 
-"And here we actually just check everything."
+"What you see here is the computer saying, 'I have a bunch of different hands to defend. I'm always calling my Aces. And then, when I look at the rest of my hands, of course I'm going to fold my King Jack high. I'd rather have a pair of Sevens than a pocket pair, so I'll fold the pocket pair and my pair of Sevens will mix. It'll be the indifferent hand'."
 
-### Understanding Range Disadvantage
+### Practical Approach
 
-"The idea behind this is if the ranges are not symmetrical. Most of the boards we're going to have the advantage and we're going to bet even if our broadway region miss, but here our opponent made so many good hands, our Aces are even not that strong."
+"This is what the computer is saying. But in practice for you, from your perspective, you could treat this spot a bit simpler and say, 'well, a pair of Aces has to call and everything else that beats a bluff can play call or fold'. And it's not a big deal which one you choose, right?"
 
-"So now he has the advantage and we basically hand the ball over to him. It's his move since he has a stronger range."
+"So, maybe you call twice with a pair of Eights or a pair of Fives. That wouldn't be a big disaster. It would be a slight theoretical mistake if your opponent were very balanced."
 
-### Playing Strong Hands Defensively
+"But the main thing is that we realize our hand is now a bluff-catcher. We're no longer forced to call and we now have a decision. That's the key point, to understand when your hand goes from 'they have to call', so Fives on the flop has to call a small bet, to 'I have a decision'."
 
-"It's a very important concept. There's a lot of guys will not be sure what to do with a King here. The answer is, if you have Ace King here, just check. If you have King Queen just check."
+"Then you can look at your opponent or you can look at is it a good bluff-catcher or a bad bluff-catcher, like we said, Ace Seven is better than pocket Eights. Pocket Eights is better than King Jack high, et cetera."
 
-"Just recognize that it's a bad board for you. So you start out with checking and you play everything defensively. Aces, Kings, Ace King, everything."
+### River Play (A♥7♠2♣ 6♠ J♥)
 
-"And then when your opponent bets, you'll have a close decision with Ace King. But you'll also have an easy decision with Aces sometimes."
+"Now, say we call and the river comes a Jack, and this is where a lot of beginners might make a mistake."
 
-"So you won't feel like when you check you're always weak or something like that, you actually check your strong hands as well."
+"We check and our opponent fires the big river bet here. It's going to be a small overbet. We're like, 'well, which hands are going to have to call here?' And pause and ask yourselves, 'which hands do I have to call? And which hands have a bluff-catching decision?'"
+
+"The answer is going to be, you kind of have to call when you have two pair, but the rest of your hands have a bluff-catching decision. And even your very weak two pairs like Six Seven and Jack Seven and Jack Deuce might have a bluff-catching decision."
+
+"If you have something like Ace Ten, you can call and try to catch a bluff, but by no means are you obligated to call."
+
+### The Inflection Point
+
+"And this is extremely important to recognize this inflection point of, yes, Ace Ten was a great hand on the flop, but enough money went in, our range got narrow enough, we now only beat the bluff, so we now get to start folding this hand." (In reality ATo actually mostly fold/infrequently call)
+
+"So yeah, I feel like this is a really key point. I hope this illustration is clear."
+
+### General Order of Operations
+
+"You can imagine this for a different board. Usually the order of operations is, facing the first bet... Again, this depends into how many people it is and how big it is, but let's say, generally speaking, most boards facing the first bet, you're going to continue everything that connects to the board and then depending on the size of the bet, some backdoor stuff."
+
+"Against the second bet we narrow to always continuing top pairs and mixing in with the rest of our bluff-catchers."
+
+"And against the third bet, depending on the size, we do start folding some top pairs and mainly continue two pair plus as a pure easy decision where, say you have a Six, you're like, 'okay, I have to call, put the money in. There's nothing to think about.' Because maybe your opponent is betting a worse hand and not bluffing."
+
+"But if you have even something like Ace Queen here, you do have a real decision on your hands."
+
+### Alternative River: A♠ Creates Flush
+
+"So just to maybe drive this point home, let's say that the river is the Ace of spades. What's special about the Ace of spades? An Ace is now trips for us, but the flush came in."
+
+"And if we check the river and our opponent fires a big bet, we're not obligated to call trips by any means, right? Just because it's trips. Because a big bet will be centered around flushes."
+
+"So we are obligated to call flushes. You guys will see that flushes of course, are not folding. Boats are not folding. Some boats are going to be raising."
+
+"But if we have just trips, just because it's trips, there's always a context of the board and you don't have to call."
 
 ## Key Takeaways
 
-### Summary of Board Categories
+### When to Make Bluff-Catching Decisions
 
-"And if the board looks good for our range, we're going to bluff very aggressively even holding nothing."
+"And that's... In my eyes, the key to bluff-catching is realizing when is it a bluff-catching decision and when isn't it."
 
-"Whereas if the board looks not great for our range, again, not saying terrible, but not great, we would be in a more medium spot where we selectively choose our bluffs and we play more defense trying to show down our weak pairs and our Ace highs."
+"And when it is, you can start thinking of a host of factors. Who's my opponent? What's the action? Do I think he's bluffing or not? What are the properties of my hand?"
+
+"And you're going to be faced with tough, close decisions, but you want to not be locked into, 'I have to call'."
