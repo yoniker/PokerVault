@@ -12,7 +12,7 @@
 
 ### Flop Blockers
 
-"There's actually a blockers tab in this program, so it's fairly easy to see that if I, for example, go ahead and make a half-pot bet on the flop and click the blockers tab, you'll see that if I have an Ace, I get three point nine percent extra folds because I'm blocking an Ace."
+"There's actually a blockers tab in this program(GTOW), so it's fairly easy to see that if I, for example, go ahead and make a half-pot bet on the flop and click the blockers tab, you'll see that if I have an Ace, I get three point nine percent extra folds because I'm blocking an Ace."
 
 "But the same is true for a card like the King of diamonds. Not by virtue of the King of diamonds necessarily having a lot of equity, just that the continuing range has many King high flush draws or hands like King Queen or King Jack or King Ten."
 
@@ -73,7 +73,3 @@
 "Even on the flop, when I'm thinking, do I c-bet, don't I c-bet? And I look at a hand like Ten Eight of hearts, I would immediately think, 'oh, this has poor blockers'."
 
 "And maybe not and then I'd be, I'd think, 'oh, but the board is so good, I get to get away with it.' But if the board were worse, I wouldn't c-bet a hand like that."
-
-## Key Takeaways
-
-"So yeah, hope you guys found this helpful and I'll see you in the next video."
