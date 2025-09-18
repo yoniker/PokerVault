@@ -64,13 +64,13 @@
 
 "Or like, 'wow, that's a whole lot of bluffs. Not a whole lot of value bets, he's going to need to limit his bluffs. He's going to need to actually give up some Queen highs, maybe even some Ten highs.' And you think about your opponent, you're like, 'is this guy ever giving those hands up?' And if the answer is no, he's bluffing too many Deuces in the original Aces-Deuces toy game and you make lots of hero calls."
 
-### Example 2: Three-Bet Pot on High Board
+### Example 2: Three-Bet Pot on A High Board
 
 "The opposite spot would be, let's say the guy three bets you and it comes Ace King Ten."
 
 - **Flop (A♦K♣T♠):** "He starts betting"
 
-"He starts betting and you're like, 'it's actually kind of hard to find bluffs here. The three betting range is high card. So what's he bluffing with? Is he bluffing with Jacks? Is he bluffing with Five Six suited with no flush draw?' And then you might be like, 'oh, I think he's actually going to have too many of 'the Aces' hand here.'"
+"He starts betting and you're like, 'it's actually kind of hard to find bluffs here. The three betting range is rich in high cards. So what's he bluffing with? Is he bluffing with Jacks? Is he bluffing with Five Six suited with no flush draw?' And then you might be like, 'oh, I think he's actually going to have too many of 'the Aces' hand here.'"
 
 "And a lot of poker is figuring out this balancing act of when does he bluff too much? When does he bluff too little?"
 
@@ -78,7 +78,7 @@
 
 ### Using HUD Stats
 
-"This is a large part of the reason that people use hard stats. Hard stats are something I don't use too much these days because in the games I play people have gotten a lot better, so it's actually more noise than it is data since people are generally fine at most things."
+"This is a large part of the reason that people use HUD stats. HUD stats are something I don't use too much these days because in the games I play people have gotten a lot better, so it's actually more noise than it is data since people are generally fine at most things."
 
 "It used to be, however, people were very imbalanced with their HUD stats, which means there were a lot of places where they were folding too much, where they were too strong."
 
@@ -86,7 +86,7 @@
 
 "And the nice thing about poker is these things kind of go together. So, a leak that a lot of players used to have and still have is that when they checked, their range would be too weak and when they bet, their range would be too strong."
 
-"I just knew that when they checked, their range was too weak. How did I know this? Because I noticed that the statistic was when they checked and I bet they were folding too much, right? Just like the river game, if they checked to me and I bet half pot, they only got to fold so often and they were clearly folding a lot more than."
+"I just knew that when they checked, their range was too weak. How did I know this? Because I noticed that the statistic was when they checked and I bet they were folding too much, right? Just like the river game, if they checked to me and I bet half pot, they only got to fold so often and they were clearly folding a lot more than they should (MDF)."
 
 "So I was like, 'okay, I'm going to attack here.' But for every place where there's a weakness, there's a place where there's a strength. They're not just weak all over. If they check, too weak. They bet, too strong. This is just general deduction. So if they bet, maybe get out of the way a bit more."
 
@@ -96,7 +96,7 @@
 
 "And there are a lot of places in poker where you split your range. If you think back to the range-bet versus big-bet-flop decision, if you big-bet flop, you're already splitting your range on the flop."
 
-"And you ask the question, 'are you actually checking back strong enough?' And the answer for most professional players in two thousand twenty-five is no. They're checking two weak and after they check you can attack, which means that they are betting too strong. So these things go together."
+"And you ask the question, 'are you actually checking back strong enough?' And the answer for most professional players in two thousand twenty-five is no. They're checking too weak and after they check you can attack, which means that they are betting too strong. So these things go together."
 
 "If they range bet, then the split happens on the turn and very often it happens in the same way, where the betting range is a bit too strong and the checking range is a bit too weak."
 
