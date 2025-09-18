@@ -58,7 +58,7 @@
 
 ### Opening Ranges
 
-"This would be a button opening range. So offsuit hands, Nine and higher, offsuit Aces, pocket pairs and a bunch of suited stuff."
+"This would be a button opening range. So offsuit hands Nine and higher(he meant K9o/Q9o/J9o/T9o etc are opening almost pure,8x versions except A8o are not), offsuit Aces, pocket pairs and a bunch of suited stuff."
 
 "In the big blind defending range, he re-raises the top of his range here. There are some mixed bluffs everywhere else. Again, nice suited stuff, Nine offsuit and higher and offsuit Aces. And this has to do with the sizing, just like every spot in poker. But yet not getting into that too much."
 
@@ -82,7 +82,7 @@
 
 "And the reason is that a pair of Sevens does better. A board pair does better than something like a pair of Eights or a pair of Fives when your opponent's betting big because it's easier to improve."
 
-"Nine Seven suited improves to trips on a Seven or to two pair on a Nine. That's five outs to improve. Whereas something like Eights only improves on an Eight. Only two outs to improve. So we tend to prefer, I say 'tend' because there are exceptions, we tend to prefer the board pairs."
+"Nine Seven suited improves to trips on a Seven or to two pair on a Nine. That's five outs to improve. Whereas something like Eights only improves on an Eight. Only two outs to improve. So we tend to prefer, I say 'tend' because there are exceptions, we tend to prefer the board pairs (eg when we have a pair by connecting with the board rather than a pocket pair)"
 
 ### Computer's Defense Strategy
 
