@@ -106,7 +106,7 @@
 
 "So a lot of poker is very intangible. Because at the very basic level, you're learning how to play your hand and how to navigate to the correct pot size and how to narrow your range, how to play this Aces-and-Deuces game in a reasonable enough manner, right?"
 
-"I'd want you guys playing it in a reasonable enough manner where it's not super face up that you're in it, or you're a calling station, or you're a spazzy bluffer. We want them to have some doubt and feel like when they play against you, they're not really sure what's going on. They're not sure if you're bluffing too much or too little, right? You want your opponents to kind of be on their toes and not have easy decisions, so we practice it playing this balancing game."
+"I'd want you guys playing it in a reasonable enough manner where it's not super face up that you're a nit, or you're a calling station, or you're a spazzy bluffer. We want them to have some doubt and feel like when they play against you, they're not really sure what's going on. They're not sure if you're bluffing too much or too little, right? You want your opponents to kind of be on their toes and not have easy decisions, so we practice it playing this balancing game."
 
 ### Finding and Attacking Imbalances
 
@@ -118,7 +118,7 @@
 
 ### Learning from Professional Play
 
-"And as we get better at it, we spot the mistakes our opponents are making and then kind of comfortably, like a professional athlete, we're like, 'oh, I'm actually going to on purpose bluff too much or bluff too little in a spot, or fold too much or fold too little.' In the live place, pay very close attention to this."
+"And as we get better at it, we spot the mistakes our opponents are making and then kind of comfortably, like a professional athlete, we're like, 'oh, I'm actually going to on purpose bluff too much or bluff too little in a spot, or fold too much or fold too little.' In the live plays, pay very close attention to this."
 
 "Whenever you see a coach make a decision, a lot of the times they're randomizing. And whenever they're randomizing, treat that as an exercise in balance. So watch it and ask yourself, 'does this make sense?' This is kind of mixed, this is my basic fighting stance."
 
@@ -126,4 +126,4 @@
 
 "And a lot of the guys you're watching are very successful poker players, so all of them are going to be reasonable at the dance of balance and they're going to make some errors, but the errors are not important. They're dancing... balancing in a way where it's not clear to an outside observer."
 
-"And what I'd like you to pay attention to a students, as well as the balancing act, which you need to get reasonable at, is where and why they're doing something else and what thought process they're using to do it."
+"And what I'd like you to pay attention to as students, as well as the balancing act, which you need to get reasonable at, is where and why they're doing something else and what thought process they're using to do it."
