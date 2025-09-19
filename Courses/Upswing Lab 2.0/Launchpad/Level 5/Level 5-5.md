@@ -40,4 +40,4 @@
 
 ### Choosing Your Focus Based on Games
 
-"I will say that generally speaking, in softer player pools, recognizing mistakes and
+"I will say that generally speaking, in softer player pools, recognizing mistakes and taking advantage of them is going to lead you to a higher win rate than focusing your energy on playing theoretically optimal. But they're both going to lead to fairly high win rates if you do them well. And the main question is, do you do them well? And where does your heart lie? Because there have been successful poker players with both, so don't feel forced into one camp or the other. I highly recommend you just kind of study and improve with both. And I think they're both fascinating and they compliment each other very well.
