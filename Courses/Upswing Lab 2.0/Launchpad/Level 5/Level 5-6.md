@@ -1,3 +1,6 @@
+
+My summary: add river overbets as part of my strategy. If i don't think they call then at least bluff with it. But I need to add it, either way (either they call too much and i get value or they almost never call and i can bluff a ton)
+
 # Overbetting and River All-Ins
 
 ## Core Concepts
