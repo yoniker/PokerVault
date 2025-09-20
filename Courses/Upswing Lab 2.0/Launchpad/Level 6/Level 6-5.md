@@ -1,5 +1,5 @@
 
-My summary: vs large open sizes/3-bet sizes, villian will lose more money vs my good hands.
+My summary: vs large open sizes/3-bet sizes in relation to theory, villian will lose more money vs my good hands.
 # Reacting to Oversized Raises and Three-Bets
 
 ## Core Concepts
