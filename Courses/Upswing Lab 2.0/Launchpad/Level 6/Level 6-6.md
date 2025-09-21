@@ -1,3 +1,6 @@
+
+My summary:
+The adjustment I should make - if they are just a bit looser then i should open a bit tighter, if they are very very loose (ATC) then i can widen up my range, regardless play a linear range, there's no point in opening Q4s if I have less fold equity.
 # Adjusting to Very Splashy-Loose Tables
 
 ## Core Concepts
