@@ -1,3 +1,6 @@
+My summary: When SPR is low, then hands like over-pair/top top are strong, when SPR is huge, then top-top becomse a bluffcatcher.
+
+Deepstacked I can put a lot of pressure on people, especially when I have a strong read (maybe based on bet sizes) that they have one pair type of hand, and they will fold to a lot of pressure
 # Deepstacked Play Strategy
 
 ## Core Concepts
