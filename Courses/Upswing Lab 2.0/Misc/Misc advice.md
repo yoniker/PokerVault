@@ -12,3 +12,5 @@ If I want to work on the raising range, work on the ENTIRE raising range. For ex
 When I watch a poker coach, and something that he says doesn't make sense (for example, he's saying that a T on the turn is a brick when i feel that it's not), I can test this with the solver.
 
 I want to get to a board and know not only what to do with my specific hand but every single hand in my range on that board
+
+Take a note when villian does something not ordinary, like limp, slowplay KK preflop, slowplay top two in position multiway
