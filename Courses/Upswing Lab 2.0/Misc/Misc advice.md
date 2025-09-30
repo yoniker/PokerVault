@@ -10,3 +10,5 @@ Mark hands and study spots where I wasn't sure how the spot plays
 If I want to work on the raising range, work on the ENTIRE raising range. For example, on a monotone board, knowing that flushes raise 15% of the time is useless as flushes are such a low percentage of my overall range! It's not fine to focus on a small percentage of my raising range. Take my time and study all of it.
 
 When I watch a poker coach, and something that he says doesn't make sense (for example, he's saying that a T on the turn is a brick when i feel that it's not), I can test this with the solver.
+
+I want to get to a board and know not only what to do with my specific hand but every single hand in my range on that board
