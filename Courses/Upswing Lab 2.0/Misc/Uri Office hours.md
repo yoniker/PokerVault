@@ -27,6 +27,36 @@ Your current skill development should be:
 
 **Bottom line:** Don't study GTO for GTO's sake. Study solutions, identify where your player pool deviates (they almost always call less vs big bets), then practice exploiting those tendencies relentlessly. That's how you crush these stakes.
 
+## Thinking about range - big picture
+Instead of complex frequencies and EV buckets, just describe **hand types**: "I have overpairs, overcards, and air - I should be aggressive."
+
+**Example process for A♠T♦4♣ rainbow overbet range:**
+
+1. **Start with core value:** Two pair+ (this is what the range is built around)
+2. **Add some good top pairs:** Small frequency of strong aces
+3. **Define the bluffs:** All gutshots, bunch of backdoor draws
+4. **Ignore tiny frequencies:** Few 9x or 4x hands? Don't bother including them
+
+**Final range description:** "Two pair+, some good top pairs, all gutshots, backdoor draws."
+
+That's it. You don't need more detail than this for practical play. Focus on the main components that drive the strategy, ignore the noise.
+
+
+## Being an end boss
+**What separates end bosses from average 500NL regs:**
+
+**Core skill:** They can perfectly visualize both players' ranges through every street, like playing 3D chess where they can see the invisible board.
+
+**Example:** After multiple betting actions narrow ranges - raise/call, bet/call flop, check turn, high card river - end bosses know exactly what both ranges look like while average regs get lost.
+
+**In practice:**
+
+- Facing a $13K river shove with ace-high, they're counting exact combos ("15 bluff combos, I have to call") while others freeze
+- They instantly spot when actions don't match possible holdings
+- They track specific card removal ("KQ with king good suit, queen bad suit") while playing
+
+**The difference:** When ranges get complex and narrow through multiple streets, average regs lose track and guess. End bosses maintain perfect clarity and exploit precisely. They know exactly how big to value bet, when to bluff catch, and how much to bluff because they never lose sight of the invisible ranges.
+
 
 
 # Full Poker Coaching Q&A Transcript
