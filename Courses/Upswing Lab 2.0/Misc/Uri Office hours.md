@@ -8,6 +8,21 @@ Frequency of those hand types?
 Other guy- will have raises? Weakest hand he calls?
 Is this over called or over-folded?
 
+### Thinking about range - big picture
+Instead of complex frequencies and EV buckets, just describe **hand types**: "I have overpairs, overcards, and air - I should be aggressive."
+
+**Example process for A♠T♦4♣ rainbow overbet range:**
+
+1. **Start with core value:** Two pair+ (this is what the range is built around)
+2. **Add some good top pairs:** Small frequency of strong aces
+3. **Define the bluffs:** All gutshots, bunch of backdoor draws
+4. **Ignore tiny frequencies:** Few 9x or 4x hands? Don't bother including them
+
+**Final range description:** "Two pair+, some good top pairs, all gutshots, backdoor draws."
+
+That's it. You don't need more detail than this for practical play. Focus on the main components that drive the strategy, ignore the noise.
+
+
 ## To avoid perfectionism
 **Practice more than you study to integrate what you learn.** Without playing, your knowledge stays theoretical and you'll struggle under real game pressure.
 
@@ -27,19 +42,6 @@ Your current skill development should be:
 
 **Bottom line:** Don't study GTO for GTO's sake. Study solutions, identify where your player pool deviates (they almost always call less vs big bets), then practice exploiting those tendencies relentlessly. That's how you crush these stakes.
 
-## Thinking about range - big picture
-Instead of complex frequencies and EV buckets, just describe **hand types**: "I have overpairs, overcards, and air - I should be aggressive."
-
-**Example process for A♠T♦4♣ rainbow overbet range:**
-
-1. **Start with core value:** Two pair+ (this is what the range is built around)
-2. **Add some good top pairs:** Small frequency of strong aces
-3. **Define the bluffs:** All gutshots, bunch of backdoor draws
-4. **Ignore tiny frequencies:** Few 9x or 4x hands? Don't bother including them
-
-**Final range description:** "Two pair+, some good top pairs, all gutshots, backdoor draws."
-
-That's it. You don't need more detail than this for practical play. Focus on the main components that drive the strategy, ignore the noise.
 
 
 ## Being an end boss
@@ -56,6 +58,8 @@ That's it. You don't need more detail than this for practical play. Focus on the
 - They track specific card removal ("KQ with king good suit, queen bad suit") while playing
 
 **The difference:** When ranges get complex and narrow through multiple streets, average regs lose track and guess. End bosses maintain perfect clarity and exploit precisely. They know exactly how big to value bet, when to bluff catch, and how much to bluff because they never lose sight of the invisible ranges.
+
+
 
 
 
