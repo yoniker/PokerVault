@@ -1,4 +1,22 @@
-# Poker Coaching Q&A Transcript
+# my takeaways:
+## Questions I want to ask when studying:
+-Weakest value hand?
+-Sizing?
+-Slowplays?
+-Which bluffs?
+Frequency of those hand types?
+Other guy- will have raises? Weakest hand he calls?
+Is this over called or over-folded?
+
+## To avoid perfectionism
+**Practice more than you study to integrate what you learn.** Without playing, your knowledge stays theoretical and you'll struggle under real game pressure.
+
+**The rule:** For every hour you study, play for at least an hour (most players should do 5:1 play-to-study). Don't allow yourself to study more until you've met your playing quota. This constant practice is how concepts actually stick when the timer's ticking and situations get complex.
+
+
+
+
+# Full Poker Coaching Q&A Transcript
 
 ## Note-Taking and Hand Analysis
 
