@@ -12,7 +12,13 @@
 
 ## Hand Examples
 
-### Hand 1: 6♦4♦ in Big Blind vs Button
+### Hand 1: 6♠4♠ in Big Blind vs Button
+
+- **Preflop:** Button opens 2.5x, Hero calls from BB with 6♠4♠
+- **Flop (T♣A♠4♥):** Hero checks, Button bets 33% pot, Hero calls
+- **Turn (2♠):** Check/check
+- **River (T♥):** Hero checks, Button bets 75% pot, Hero calls
+- **Showdown:** Button shows T♦7♦
 
 "So this first hand I have Six Four suited in the big blind and the first action we face is this 2.5x from the button. Now, as soon as we face the next street we want to think about which range of hands make sense for this. Now, when they open the button, they're generally going to open a range which is roughly forty-five percent or so. So we can already narrow the range to the top sort of forty-five percent of hands."
 
@@ -38,6 +44,12 @@
 
 ### Hand 2: Pocket Nines from Hijack
 
+- **Preflop:** Hero opens from HJ with 9♦9♠, BB calls
+- **Flop (5♥5♠3♠):** BB checks, Hero bets 33% pot, BB calls
+- **Turn (Q♥):** BB checks, Hero bets 75% pot, BB calls
+- **River (4♣):** Check/check
+- **Showdown:** BB shows A♦Q♠
+
 "In this next one I have pocket Nines in the hijack and I open. And we get defended by the big blind. Again, this will have a similar dynamic where I have the top sort of twenty to twenty-five percent of hands, and the big blind has this sort of more middling range where they don't have their very best hands. And they have a bit of a wider range because they get odds preflop."
 
 "On the Five Five Three flop, this favors out of position a decent amount, they have more Five x than we do. That being said, my range has more equity in general because I'm opening a tighter range and I have all the best over pairs still. So I don't get to bet all my hands here, but I can build a decent c-betting range, and pocket Nines will get in there a lot."
@@ -56,4 +68,30 @@
 
 ## Solver Analysis
 
-"Given this is a little bit of a complicated one to evaluate how much of their range has this Queen x, I'm actually going to have a quick look in the solver to get a nice visualization of this. So we see here the big blind defend range. Again, they don't have any of the top hands and they've go
+"Given this is a little bit of a complicated one to evaluate how much of their range has this Queen x, I'm actually going to have a quick look in the solver to get a nice visualization of this. So we see here the big blind defend range. Again, they don't have any of the top hands and they've got a slightly wider range than us because they get good odds preflop. And my range looks something like this."
+
+"As I mentioned, hands like King Queen really don't like c-betting... Ace Nine, Ace Eight. So they tend to check back more often. But every hand of the range kind of can c-bet. So we can't narrow the range a lot on the flop. When we c-bet, out of position calls pretty wide with Ace highs and high card hands, and they're check-raising a lot with their pairs and their Fives."
+
+"Now on the turn we see the top pair now makes up fifteen percent of the ranges. So based on these twelve combos of King Queen and these twelve combos of Ace Queen, this actually now makes up a major part of the in position range. So this is going to slow us down a lot as in position with our marginal value bets. We see here a hand like pocket Nines does really like to barrel, but it's almost too thin. We see a hand like pocket Sixes is too thin here."
+
+"Now if we weren't as aware of the ranges and how the other player can have King Queen and Ace Queen here, it would be really easy to bet too thin. For example, on something like a Nine turn, I think it's actually quite reasonable to bet down to pocket Sixes, just because the Nine hits far less of the out of position flop check calls. We see here on the Nine turn, we can bet down to pocket Fours even for value. That's because we're aware of how the ranges interact and the Nine doesn't make out of position too many top pairs. We see here top pair is just nine percent of the range now, compared with the fifteen percent on the Queen."
+
+"So immediately we see here the value of ranging and being aware of how the Queen interacts with the ranges and how that should drive our strategy. So we c-bet our Nines on the turn and get called. We see this as a good play, but it's more marginal than if the turn was lower."
+
+"And on the river Four we need to think again, how does this interact with the ranges? Well, it brings in straights, but straights are very, very, very uncommon here. So much of the ranges is made up of pocket pairs and Queen X that this is almost just like a brick. Now, given lots of the range is a Queen X, we probably need a good Queen or better to value bet the river here. So a hand like pocket Kings can clearly barrel. I think Ace Queen can still bet for value, but once you get away from there I think it's going to be pretty marginal to value bet. So I have a check behind on the river and we run into Ace Queen."
+
+## Key Takeaways
+
+"I hope these examples made it a bit clearer of how I like to range. Everyone does this a little bit differently, but personally I think by thinking in cores of ranges it really simplifies the ranging process. I think it's pretty easy to get lost in the weeds if you try... range very, very explicitly. But if you are thinking more about hand classes and roughly which cards hit and which don't, it's much easier to get a clear picture of the strategies we should be playing."
+
+"What's really important also is to narrow the ranges after each action. So for example, if we go to this paired board, the difference in the check back range on say a Nine, where our check back range is almost exclusively Ace highs compared with the Queen, where our check back range has lots of pocket pairs involved as well as the Ace highs, and even some top pairs, being aware of how the strategies play is really important."
+
+"So yeah, it's important to be very aware of how the ranges narrow after each action, and the only way to do this is be very, very conscious of how the ranges look and what the cores of the ranges want to be doing."
+
+## Exploitative Adjustments
+
+"Now, we can also add some exploitative thoughts to these processes. A good example would be facing three bets. In theory there's a set three bet range that the solver likes to use, but in practice we face all sorts of different opponents. Some players are three betting only Ace King and Aces and Kings pre. Versus these players our strategy is going to look a lot different both preflop and postflop, and we just have to designate them a fairly reasonable range."
+
+"It's also important to be flexible postflop. Say we're against someone who really likes to overplay their hands, maybe they like to bet all their pairs. That means you need to treat both, the betting range as having a core of lots of pairs, but also the checking range as missing lots of pairs because they're putting them into a different action. So again, it's really important to narrow the ranges according to how our opponents are playing."
+
+"I hope this was interesting and I'll go more in depth in this when I talk about how we want to evaluate how much our hands are worth. Thanks."
