@@ -14,6 +14,19 @@ Is this over called or over-folded?
 **The rule:** For every hour you study, play for at least an hour (most players should do 5:1 play-to-study). Don't allow yourself to study more until you've met your playing quota. This constant practice is how concepts actually stick when the timer's ticking and situations get complex.
 
 
+## To beat live 2-5 and study vs 2-5 live players
+**For 2-5 live stakes: Focus on crushing soft games, not GTO theory.**
+
+Your current skill development should be:
+
+- **Categorizing player types** and exploiting them, not playing solver-optimal
+- **Thinking about your specific opponent's actual range**, not what the solver says they should have
+- Using practical tools like Equilab for range work rather than pure solver study
+
+**Key exploit for 2-5:** When solvers recommend overbetting, recognize that live players massively overfold to overbets. This means you should overbet bluff way more than theory suggests. Practice executing this and observe how it affects your image.
+
+**Bottom line:** Don't study GTO for GTO's sake. Study solutions, identify where your player pool deviates (they almost always call less vs big bets), then practice exploiting those tendencies relentlessly. That's how you crush these stakes.
+
 
 
 # Full Poker Coaching Q&A Transcript
