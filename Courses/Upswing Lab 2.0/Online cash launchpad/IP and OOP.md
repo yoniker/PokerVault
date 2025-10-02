@@ -6,8 +6,12 @@ As IP player, on boards where the turn will improve my range (for example on Q83
 On board where I won't improve often, for example monotone boards, I need to slowplay sometimes in order for the OOP not to run me down on the turn/river where I can't have nutted hands if I always bet the flop.
 
 Draws on the turn:
-OOP tends to play his draws aggressively as X/F or X/C (where we lose to bluffs) are not good options, so we either bet or x/r a lot.
+OOP tends to play his no sdv draws aggressively as X/F or X/C (where we lose to bluffs) are not good options, so we either bet or x/r a lot.
 IP we get to realize our equity, so we tend to play the high-ev draws more passively, and this creates more 'room' for low-equity bluffs on the turn
+
+River value:
+OOP can bet thinly, because when he checks it doesn't go immediately to showdown.
+IP should only bet stronger value hands (when betting for values) so B50 and up (usually).
 
 # In Position vs Out of Position Play - Coaching Transcript
 
