@@ -1,3 +1,7 @@
+My summary:
+As OOP player I need to trap sometimes because if I don't then IP will be able to always navigate his hand to the pot size that he wants.
+As IP player, on boards where the turn will improve my range (for example on Q83, some 9/T/J will give me a straight sometimes when I infrequently check the gutshots) or a 7/6/5 will give me a set sometimes, so I don't need to slowplay top of my range.
+On board where I won't improve often, for example monotone boards, I need to slowplay sometimes in order for the OOP not to run me down on the turn/river where I can't have nutted hands if I always bet the flop.
 
 # In Position vs Out of Position Play - Coaching Transcript
 
