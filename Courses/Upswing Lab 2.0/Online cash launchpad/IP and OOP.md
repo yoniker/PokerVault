@@ -118,6 +118,7 @@ IP we get to realize our equity, so we tend to play the high-ev draws more passi
 "Now, for the out of position player, we're seeing it used every size pretty much, we're seeing it bet one big blind with some very weak hands. We then see a quarter pot sizing, a half pot sizing. Lots of small sizing because there's no cost to re-opening the pot. When they check we can bet ourselves. So there's not this added cost."
 
 "Now, if out of position checks, we see the in position player clearly doesn't like using these very small sizes. The reason for this is, if say we bet one big blind here, we're allowing out of position to shove with their pockets, which is insane, but we're just giving the out of position an opportunity to make the pot the size they want. And best case is that we get one extra big blind versus an Ace."
+(Board is KT348 checked to the river)
 
 "So a hand like pocket Sevens, which would be the hand strength that wants to bet that sizing, simply prefers to just take showdown. We even see some pretty strong hands like pocket Nines or a Ten checking back sometimes because re-opening the action and getting check-raised by hands like these Eight x, simply isn't worth it and instead they prefer to take showdown."
 
