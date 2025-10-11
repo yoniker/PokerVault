@@ -12,7 +12,8 @@ All suited broadways
 ### Offsuit broadways
 AKo/AQo/AJo/ATo pure
 KQo pure
-KJo/KTo sometimes
+KJo frequently
+KTo never
 QJo/QTo infrequently
 JTo never (pure folds)
 
