@@ -37,11 +37,18 @@ The best pocker pair BU can have is 99.
 ### Suited broadway
 Kx continue pure, any two spades continue pure
 
-QJ/QT with no bd flush has only bd straight- not good enough QJ with 
+QJ/QT continue only with spades (the backdoor hearts can do either call or fold)
 JT is a nutshot and should continue pure
 
 ### Suited Ax
-AQ continues with or without bd flash (strong pair draw plus bd broadway)
-AT has many good turns (6/9/J) so i suspect it continues more than AJ
+AQs/AJs/ATs continues with frontdoor or bd flush, with no backdoor flush those hands are indifferent(sometimes call sometimes fold)
 
 Suited wheel Ax fold with no bd flushdraw
+
+### Suited connectors
+All those hands had equity (at least a gutshot to the nuts) and continue pure
+
+### Offsuit broadways
+Only AQo is there, continues with any spade pure (Aspades/Qspades) folds otherwise
+
+Overall button strategy vs a c-bet: Since BU has only very few hands with a lot of equity (88/77/JsTs and infrequently 87s) BU can only continue by calling and almost never raising.
