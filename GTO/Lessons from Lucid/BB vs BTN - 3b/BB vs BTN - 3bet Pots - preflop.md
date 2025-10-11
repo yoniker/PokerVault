@@ -5,7 +5,7 @@
 BB 3-bet range vs BU open:
 ###  Pocket pairs:
 TT+ - pure
-99- sometimes 4-bet sometimes calls (that's the threshold hand for this region)
+99- sometimes 3bet sometimes calls (that's the threshold hand for this region)
 ### Suited connectors:
 54s,65s,76s,87s,98s,T9s - infrequently
 
