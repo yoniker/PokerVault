@@ -52,3 +52,4 @@ All those hands had equity (at least a gutshot to the nuts) and continue pure
 Only AQo is there, continues with any spade pure (Aspades/Qspades) folds otherwise
 
 Overall button strategy vs a c-bet: Since BU has only very few hands with a lot of equity (88/77/JsTs and infrequently 87s) BU can only continue by calling and almost never raising.
+
