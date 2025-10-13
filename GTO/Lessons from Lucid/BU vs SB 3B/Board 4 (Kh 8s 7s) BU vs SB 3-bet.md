@@ -1,4 +1,4 @@
-
+# Flop
 ## SB's strategy:
 
 SB has both unique hands that BU cannot have like AA/AK/KK, as well as more Kx (KJo,KQo) so sb has a big range advantage on this board and c-bets often (70%).
@@ -52,4 +52,38 @@ All those hands had equity (at least a gutshot to the nuts) and continue pure
 Only AQo is there, continues with any spade pure (Aspades/Qspades) folds otherwise
 
 Overall button strategy vs a c-bet: Since BU has only very few hands with a lot of equity (88/77/JsTs and infrequently 87s) BU can only continue by calling and almost never raising.
+
+
+# Turn
+
+On the turn the pot is about 40BBs, and the player have 80BBs so SPR is 2.
+
+## Blank low
+2,3,4,5
+
+SB will B63, bulk part of value range is going to be KT+ (KT is the threshold hand-bets sometimes)
+Slowplays- KK can check sometimes, and AA infrequently?
+Bluffs- Flush draws, a wheeled A-x bets more often than QJhh as it has an overcard out.
+Underpairs infrequently bet
+
+## Blank Broadway:
+A/Q not of spades
+
+
+
+
+
+
+
+## Straight completers
+J,9,6,T
+5?
+
+## Flush completers
+As,Qs,2s/3s
+
+## Board pairing
+K,8,7
+
+
 
