@@ -17,3 +17,10 @@ On 9c7d5c:
 	4. KJo/KQo bet frequently with a club and never without a club (it gives me more equity and future bluffs on further streets as well as blocking BU's continuation range)
 	5. 66/88 bet only infrequently(with club infrequently, without even less).
 
+On Ad3d2c:
+Overall betting frequency of sb is very low (80% check)! TODO check why
+The hand that bets the most is AK (infrequently to sometimes)
+Hand that bluff the most is KQo/KJo with one diamond (infrequently). 
+Overall the spot is being played very passively.
+
+
