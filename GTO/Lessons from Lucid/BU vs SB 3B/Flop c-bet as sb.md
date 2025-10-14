@@ -9,5 +9,11 @@ On Qd8d2h:
 KK with Kd splits between betting big and betting medium - it doesn't downgrade as much on many runouts.
 
 2. KJo without a diamond bets sometimes on this board anyways (for a smaller sizing-B25), same idea for ATo/AJo - I don't want to play vs stronger ranges without the equity or blockers to it
-3. 
+
+On 9c7d5c:
+	1. Bet frequency is about 40%
+	2. Vulenrable overpairs like TT-QQ bet frequently for a large sizing
+	3. KK/AA bet a bit less (KK with clubs sometimes without clubs frequently, AA with club bet infrequently and without clubs frequently)
+	4. KJo/KQo bet frequently with a club and never without a club (it gives me more equity and future bluffs on further streets as well as blocking BU's continuation range)
+	5. 66/88 bet only infrequently(with club infrequently, without even less).
 
