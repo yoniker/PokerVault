@@ -15,3 +15,14 @@ Another hand that bothers me: I had QTs, flop was ATK, checked around, turn blan
 I played tired today, and couldn't think clearly. I need to develop a systematic way of thinking that I believe in, so that I will always play as some basic good level.
 
 I want to always ask "What do I think is the baseline play" eg GTO, then think how I want to deviate. Also when they bet I want to think about how much fold equity I have vs different bet sizes vs their likely range.
+
+
+11-Oct-2025
+
+I have QQ from CO, I bet 15, get raised by a tight fish BB  to 80$, I call.
+Flop comes KQ2, he bet 5$. Why did I only flat? nutsophobia.
+Turn blank he checks, why did I bet 5$? Because it was "funny", sheer money-torching stupidity.
+I should know he has AKo, especially after I asked preflop if we can hit the bbj and he said no.
+
+Another hand, I have KhJh and I opened and got 3-bet to $45, I decided to 4-bet him since he 3-bets enough. He tanked and looked genuinely uncomfortable and called.
+Flop came QTx, 320$ in the pot. I checked almost instantly, as I was worried about QQ/TT. However, I don't think that QQ will feel this uncomfortable preflop, so I'm losing only to TT maybe, his hand looks a lot like JJ/AQ/TT/99 type oh hand, and while he could connect with this board, I think that he would almost always fold to a shove, maybe even AQ, and if i'm behind then I have OESD.
