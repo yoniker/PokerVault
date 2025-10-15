@@ -39,3 +39,5 @@ On AsQs3s SB frequently checks his range (80%) as he's lacking flushes (the As i
 
 On Ac8d2c, SB bets very frequently(90%), so even a hand like KK which c-bet the least, bets frequently(78%).
 
+On TsTd5c sb bets range! for 50% pot (TODO check why)
+
