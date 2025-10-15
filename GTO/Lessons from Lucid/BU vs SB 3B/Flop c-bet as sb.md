@@ -26,5 +26,15 @@ Overall the spot is being played very passively.
 On 2s3s4s:
 SB checks range (sb lacks the nut advantage and has many unmade hands so his range need extra protection which is given by checking)
 
+On 9d7d5d:
+SB still bets sometimes(!) in general. The ideas are that:
+1. Overpairs are in a good shape now but will lose a ton of value later on
+2. SB has a lot of overcard with a diamond, so has a lot of equity in his range.
+
+
+ATC can bet actually(even As4s), all for a small size, making two overcards like KhQh indifferent.
+JcJh bet frequently
+
+On AsQs3s SB frequently checks his range (80%) as he's lacking flushes (the As in particular is blocking a lot of sb suited hands, and the Qs blocks a bit more), so even hands as strong as AQo bet infrequently (just a bit more than global frequency)
 
 
