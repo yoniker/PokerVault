@@ -24,3 +24,4 @@ Hand that bluff the most is KQo/KJo with one diamond (infrequently).
 Overall the spot is being played very passively.
 
 
+
