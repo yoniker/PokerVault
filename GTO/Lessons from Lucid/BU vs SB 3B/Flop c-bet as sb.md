@@ -23,5 +23,8 @@ The hand that bets the most is AK (infrequently to sometimes)
 Hand that bluff the most is KQo/KJo with one diamond (infrequently). 
 Overall the spot is being played very passively.
 
+On 2s3s4s:
+SB checks range (sb lacks the nut advantage and has many unmade hands so his range need extra protection which is given by checking)
+
 
 
