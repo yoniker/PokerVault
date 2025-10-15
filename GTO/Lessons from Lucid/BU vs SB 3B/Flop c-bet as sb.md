@@ -37,4 +37,5 @@ JcJh bet frequently
 
 On AsQs3s SB frequently checks his range (80%) as he's lacking flushes (the As in particular is blocking a lot of sb suited hands, and the Qs blocks a bit more), so even hands as strong as AQo bet infrequently (just a bit more than global frequency)
 
+On Ac8d2c, SB bets very frequently(90%), so even a hand like KK which c-bet the least, bets frequently(78%).
 
