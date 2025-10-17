@@ -43,5 +43,11 @@ On TsTd5c sb bets range! for 50% pot (TODO check why)
 
 On AcTd7s the flop is so good for SB that even the hand which bet the least here(99) bets sometimes (in general, global frequency is 85%)
 
+On Kc8d2s, sb bets range
+
+Also on JsJd5c, sb range bets for B50 (TODO check why)
+
+
+
 
 
