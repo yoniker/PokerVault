@@ -41,3 +41,7 @@ On Ac8d2c, SB bets very frequently(90%), so even a hand like KK which c-bet the 
 
 On TsTd5c sb bets range! for 50% pot (TODO check why)
 
+On AcTd7s the flop is so good for SB that even the hand which bet the least here(99) bets sometimes (in general, global frequency is 85%)
+
+
+
