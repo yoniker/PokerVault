@@ -49,7 +49,7 @@ Also on JsJd5c, sb range bets for B50 (TODO check why)
 
 Ah8d2c sb c-bets close to range (88% of the time),so even KK/QQ bet frequently
 
-
+On 9c7d5c, sb's global c-bet frequency is 40%, but handsl like TT/JJ bet frequently to pure (AA/KK bet sometimes or infrequently)
 
 
 
