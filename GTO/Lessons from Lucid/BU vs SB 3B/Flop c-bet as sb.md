@@ -47,6 +47,8 @@ On Kc8d2s, sb bets range
 
 Also on JsJd5c, sb range bets for B50 (TODO check why)
 
+Ah8d2c sb c-bets close to range (88% of the time),so even KK/QQ bet frequently
+
 
 
 
