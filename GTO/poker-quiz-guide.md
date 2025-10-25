@@ -971,13 +971,13 @@ Done 5. **Do you know the optimal Big Blind defense ranges?** - February 12, 202
 
 ## **Facing 3-bets**
 
-6. **Calling 3-bets Preflop Quiz** - June 19, 2024
+Done 6. **Calling 3-bets Preflop Quiz** - June 19, 2024
 
-7. **Facing a 3-bet at 200bb deep** - June 26, 2024
+Done 7. **Facing a 3-bet at 200bb deep** - June 26, 2024
 
-8. **Defending Against 3-Bets** - December 4, 2024
+Done 8. **Defending Against 3-Bets** - December 4, 2024
 
-9. **Defending vs 3-bets** - August 1, 2025
+Done 9. **Defending vs 3-bets** - August 1, 2025
 
 ---
 
