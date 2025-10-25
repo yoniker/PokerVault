@@ -965,7 +965,7 @@ Done 3. **Vs. Open-Raise Drill** - August 18, 2024
 
 Done 4. **Should You Defend This Weak Hand from the Big Blind?** - November 14, 2024
 
-5. **Do you know the optimal Big Blind defense ranges?** - February 12, 2025
+Done 5. **Do you know the optimal Big Blind defense ranges?** - February 12, 2025
 
 ---
 
