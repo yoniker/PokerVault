@@ -949,7 +949,7 @@
 ---
 ---
 
-# **PREFLOP ONLY (10 quizzes)**
+# DONE **PREFLOP ONLY (10 quizzes)**
 
 ## **Opening Ranges**
 
@@ -983,7 +983,7 @@ Done 9. **Defending vs 3-bets** - August 1, 2025
 
 ## **Squeezing**
 
-10. **The First Squeeze Quiz** - August 29, 2024
+Done 10. **The First Squeeze Quiz** - August 29, 2024
 
 ---
 ---
