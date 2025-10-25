@@ -569,47 +569,47 @@
 
 ### **FLOP - SB C-betting as 3-bettor**
 
-1. **3-bet Pots (Small Blind vs Button)** - July 13, 2024
+Done 1. **3-bet Pots (Small Blind vs Button)** - July 13, 2024
 
-2. **3-bet Pots OOP as PFR** - July 15, 2024
+Done2. **3-bet Pots OOP as PFR** - July 15, 2024
 
-3. **C-betting SB vs. Button on Paired Boards** - July 20, 2024
+Done 3. **C-betting SB vs. Button on Paired Boards** - July 20, 2024
 
-4. **3-betting Quiz Week - AJ3 Two-Tone Flop** - August 5, 2024
+Done 4. **3-betting Quiz Week - AJ3 Two-Tone Flop** - August 5, 2024
 
-5. **3-betting Quiz Week - A82 Rainbow Flop** - August 6, 2024
+Done 5. **3-betting Quiz Week - A82 Rainbow Flop** - August 6, 2024
 
-6. **3-betting Quiz Week - K63 Rainbow Flop** - August 7, 2024
+Done 6. **3-betting Quiz Week - K63 Rainbow Flop** - August 7, 2024
 
-7. **3-betting Quiz Week - TT5 Rainbow Flop** - August 8, 2024
+Done 7. **3-betting Quiz Week - TT5 Rainbow Flop** - August 8, 2024
 
-8. **3-betting Quiz Week - Q82 Two-Tone** - August 9, 2024
+Done 8. **3-betting Quiz Week - Q82 Two-Tone** - August 9, 2024
 
-9. **3-betting Quiz Week - 975 Two-Tone** - August 10, 2024
+Done 9. **3-betting Quiz Week - 975 Two-Tone** - August 10, 2024
 
-10. **3-betting Quiz Week - A32 Two-Tone** - August 11, 2024
+Done 10. **3-betting Quiz Week - A32 Two-Tone** - August 11, 2024
 
-11. **C-betting in 3-Bet Pots Out Of Position (Day 1)** - February 22, 2025
+Done 11. **C-betting in 3-Bet Pots Out Of Position (Day 1)** - February 22, 2025
 
-12. **C-betting in 3-Bet Pots Out Of Position (Day 2)** - February 25, 2025
+Done 12. **C-betting in 3-Bet Pots Out Of Position (Day 2)** - February 25, 2025
 
-13. **C-betting in 3-Bet Pots Out Of Position (Day 3)** - February 26, 2025
+Done 13. **C-betting in 3-Bet Pots Out Of Position (Day 3)** - February 26, 2025
 
-14. **C-betting in 3-Bet Pots Out Of Position (Day 4)** - February 27, 2025
+Done 14. **C-betting in 3-Bet Pots Out Of Position (Day 4)** - February 27, 2025
 
-15. **C-betting in 3-Bet Pots Out Of Position (Day 5)** - February 28, 2025
+Done 15. **C-betting in 3-Bet Pots Out Of Position (Day 5)** - February 28, 2025
 
-16. **C-betting in 3-Bet Pots Out Of Position (Day 6)** - March 1, 2025
+Done 16. **C-betting in 3-Bet Pots Out Of Position (Day 6)** - March 1, 2025
 
-17. **C-Betting from the SB against the BTN (Day 1)** - August 20, 2025
+Done 17. **C-Betting from the SB against the BTN (Day 1)** - August 20, 2025
 
-18. **C-Betting from the SB against the BTN (Day 2)** - August 21, 2025
+Done 18. **C-Betting from the SB against the BTN (Day 2)** - August 21, 2025
 
-19. **C-Betting from the SB against the BTN (Day 3)** - August 22, 2025
+Done 19. **C-Betting from the SB against the BTN (Day 3)** - August 22, 2025
 
-20. **C-Betting from the SB against the BTN (Day 4)** - August 23, 2025
+Done 20. **C-Betting from the SB against the BTN (Day 4)** - August 23, 2025
 
-21. **C-Betting from the SB against the BTN (Day 5)** - August 26, 2025
+Done 21. **C-Betting from the SB against the BTN (Day 5)** - August 26, 2025
 
 22. **C-Betting from the SB against the BTN (Day 6)** - August 27, 2025
 
