@@ -567,7 +567,7 @@
 ## **1. SB vs BTN 3-bet (34 quizzes)**
 *SB 3-bets BTN open*
 
-### **FLOP - SB C-betting as 3-bettor**
+### ** Done FLOP - SB C-betting as 3-bettor**
 
 Done 1. **3-bet Pots (Small Blind vs Button)** - July 13, 2024
 
@@ -611,27 +611,27 @@ Done 20. **C-Betting from the SB against the BTN (Day 4)** - August 23, 2025
 
 Done 21. **C-Betting from the SB against the BTN (Day 5)** - August 26, 2025
 
-22. **C-Betting from the SB against the BTN (Day 6)** - August 27, 2025
+Done 22. **C-Betting from the SB against the BTN (Day 6)** - August 27, 2025
 
 ---
 
-### **FLOP - BTN Defending vs SB C-bet**
+### Done **FLOP - BTN Defending vs SB C-bet**
 
-23. **Facing a 3-bet and a C-bet (IP)** - July 5, 2024
+Done 23. **Facing a 3-bet and a C-bet (IP)** - July 5, 2024
 
-24. **Facing Flop C-bets in 3BP (IP as PFC)** - July 18, 2024
+Done 24. **Facing Flop C-bets in 3BP (IP as PFC)** - July 18, 2024
 
-25. **Defending Against C-bets in 3-Bet Pots (Day 1)** - December 21, 2024
+Done 25. **Defending Against C-bets in 3-Bet Pots (Day 1)** - December 21, 2024
 
-26. **Defending Against C-bets in 3-Bet Pots (Day 2)** - December 24, 2024
+Done 26. **Defending Against C-bets in 3-Bet Pots (Day 2)** - December 24, 2024
 
-27. **Defending Against C-bets in 3-Bet Pots (Day 3)** - December 25, 2024
+Done 27. **Defending Against C-bets in 3-Bet Pots (Day 3)** - December 25, 2024
 
-28. **Defending Against C-bets in 3-Bet Pots (Day 4)** - December 26, 2024
+Done 28. **Defending Against C-bets in 3-Bet Pots (Day 4)** - December 26, 2024
 
-29. **Defending Against C-bets in 3-Bet Pots (Day 5)** - December 27, 2024
+Done 29. **Defending Against C-bets in 3-Bet Pots (Day 5)** - December 27, 2024
 
-30. **Defending Against C-bets in 3-Bet Pots (Day 6)** - December 28, 2024
+Done 30. **Defending Against C-bets in 3-Bet Pots (Day 6)** - December 28, 2024
 
 ---
 
