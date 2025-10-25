@@ -564,7 +564,7 @@
 
 # **3-BET POTS**
 
-## **1. SB vs BTN 3-bet (34 quizzes)**
+## Done **1. SB vs BTN 3-bet (34 quizzes)**
 *SB 3-bets BTN open*
 
 ### ** Done FLOP - SB C-betting as 3-bettor**
@@ -650,7 +650,7 @@ Done 35. **Three-Bet Pots In Position (Day 5)** - May 14, 2025
 ---
 ---
 
-## **2. BTN vs CO 3-bet (1 quiz)**
+## Done **2. BTN vs CO 3-bet (1 quiz)**
 *BTN 3-bets CO open*
 
 ### **FLOP - BTN C-betting as 3-bettor (IP)**
