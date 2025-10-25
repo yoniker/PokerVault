@@ -637,15 +637,15 @@ Done 30. **Defending Against C-bets in 3-Bet Pots (Day 6)** - December 28, 2024
 
 ### **MULTI-STREET PLAY**
 
-31. **Three Bet Pots In Position (Day 1)** - May 8, 2025
+Done 31. **Three Bet Pots In Position (Day 1)** - May 8, 2025
 
-32. **Three Bet Pots In Position (Day 2)** - May 9, 2025
+Done 32. **Three Bet Pots In Position (Day 2)** - May 9, 2025
 
-33. **Three Bet Pots In Position (Day 3)** - May 10, 2025
+Done 33. **Three Bet Pots In Position (Day 3)** - May 10, 2025
 
-34. **Three-Bet Pots In Position (Day 4)** - May 13, 2025
+Done 34. **Three-Bet Pots In Position (Day 4)** - May 13, 2025
 
-35. **Three-Bet Pots In Position (Day 5)** - May 14, 2025
+Done 35. **Three-Bet Pots In Position (Day 5)** - May 14, 2025
 
 ---
 ---
