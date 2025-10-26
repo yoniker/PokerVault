@@ -305,17 +305,17 @@ Done 1. **C-betting Blind vs. Blind** - June 27, 2024
 
 Done 2. **Continuation Betting BvB Quiz (Day 1)** - September 24, 2024
 
-3. **Continuation Betting BvB Quiz (Day 2)** - September 25, 2024
+Done 3. **Continuation Betting BvB Quiz (Day 2)** - September 25, 2024
 
-4. **Continuation Betting BvB Quiz (Day 3)** - September 26, 2024
+Done 4. **Continuation Betting BvB Quiz (Day 3)** - September 26, 2024
 
-5. **Continuation Betting BvB Quiz (Day 4)** - September 27, 2024
+Done 5. **Continuation Betting BvB Quiz (Day 4)** - September 27, 2024
 
-6. **Continuation Betting BvB Quiz (Day 5)** - September 28, 2024
+Done 6. **Continuation Betting BvB Quiz (Day 5)** - September 28, 2024
 
-7. **Continuation Betting BvB Quiz (Day 6)** - October 1, 2024
+Done 7. **Continuation Betting BvB Quiz (Day 6)** - October 1, 2024
 
-8. **Continuation Betting BvB Quiz (Day 7)** - October 2, 2024
+Done 8. **Continuation Betting BvB Quiz (Day 7)** - October 2, 2024
 
 9. **C-betting Blind vs Blind (Day 1)** - February 4, 2025
 
