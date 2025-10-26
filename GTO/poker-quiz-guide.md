@@ -301,9 +301,9 @@
 ### **FLOP - SB C-betting**
 *BB checks, SB decides to c-bet*
 
-1. **C-betting Blind vs. Blind** - June 27, 2024
+Done 1. **C-betting Blind vs. Blind** - June 27, 2024
 
-2. **Continuation Betting BvB Quiz (Day 1)** - September 24, 2024
+Done 2. **Continuation Betting BvB Quiz (Day 1)** - September 24, 2024
 
 3. **Continuation Betting BvB Quiz (Day 2)** - September 25, 2024
 
