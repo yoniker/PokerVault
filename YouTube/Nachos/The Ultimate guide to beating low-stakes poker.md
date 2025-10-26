@@ -3,6 +3,9 @@
 -Short-term results are not something I control. Whether or not i study every day and improve-is.
 When shit will hit the fan, and I will be in a 40BI downswing, it will be tougher to be in a growth mindset if I know that I'm not doing everything in my power to improve.
 
+-Create mindset flashcards: When i feel strong emotions, it's my opportunity to learn the most. Write down my negative thoughts, then relax. Later on address them as if I'm coaching someone who's going through what im going (I'd never say to a client, you're an idiot, if you keep doing this mistakes you will never be a winning player, right?), and make flashcards out of those.
+On top of that in general, write down mindset stuff I've learnt (books,videos etc)
+
 
 
 [00:00:02] [Music] hey guys what's up my name is Patrick and I'm going to tell you guys some strategies on how to become a low stakes
