@@ -1,5 +1,8 @@
 -Study a very specific spot, like defending vs a c-bet in a 3-bet pot in position. Then look at my EV mistakes in that spot and make flushcards out of those mistakes, what made me make those mistakes (I thought this type of hand always defends here but this is an exception etc)
 
+-Short-term results are not something I control. Whether or not i study every day and improve-is.
+When shit will hit the fan, and I will be in a 40BI downswing, it will be tougher to be in a growth mindset if I know that I'm not doing everything in my power to improve.
+
 
 
 [00:00:02] [Music] hey guys what's up my name is Patrick and I'm going to tell you guys some strategies on how to become a low stakes
