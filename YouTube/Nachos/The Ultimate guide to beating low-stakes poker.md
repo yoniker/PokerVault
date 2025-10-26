@@ -1,3 +1,6 @@
+-Study a very specific spot, like defending vs a c-bet in a 3-bet pot in position. Then look at my EV mistakes in that spot and make flushcards out of those mistakes, what made me make those mistakes (I thought this type of hand always defends here but this is an exception etc)
+
+
 
 [00:00:02] [Music] hey guys what's up my name is Patrick and I'm going to tell you guys some strategies on how to become a low stakes
 [00:00:09] Crusher today which should be pretty exciting um as you can see I'm in an Airbnb right now so the setup that I'm
