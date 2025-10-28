@@ -9,3 +9,9 @@ SB vs BB SRP, on 8c7d4c sb checks at a very high frequency on the flop (even set
 
 SB vs BB SRP, 773 is checked a lot by SB while TT2 is almost a range bet, TODO figure out why.
 
+SB vs BB SRP, AsKc9s, SB is checking a lot - wtf and why
+
+SB vs BB SR flop As3s2d, it was claimed that the nut advantage is because BB calls 54o and sb folds, TODO check to what extent this is true
+
+
+
