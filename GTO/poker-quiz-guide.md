@@ -296,7 +296,7 @@
 ---
 ---
 
-## **2. SB vs BB SRP (34 quizzes)**
+## **Done 2. SB vs BB SRP (34 quizzes)**
 
 ### **FLOP - SB C-betting**
 *BB checks, SB decides to c-bet*
@@ -317,17 +317,17 @@ Done 7. **Continuation Betting BvB Quiz (Day 6)** - October 1, 2024
 
 Done 8. **Continuation Betting BvB Quiz (Day 7)** - October 2, 2024
 
-9. **C-betting Blind vs Blind (Day 1)** - February 4, 2025
+Done 9. **C-betting Blind vs Blind (Day 1)** - February 4, 2025
 
-10. **C-betting Blind vs Blind (Day 2)** - February 5, 2025
+Done 10. **C-betting Blind vs Blind (Day 2)** - February 5, 2025
 
-11. **C-betting Blind vs Blind (Day 3)** - February 6, 2025
+Done 11. **C-betting Blind vs Blind (Day 3)** - February 6, 2025
 
-12. **C-betting Blind vs Blind (Day 4)** - February 7, 2025
+Done 12. **C-betting Blind vs Blind (Day 4)** - February 7, 2025
 
-13. **C-betting Blind vs Blind (Day 5)** - February 8, 2025
+Done 13. **C-betting Blind vs Blind (Day 5)** - February 8, 2025
 
-14. **C-betting Blind vs Blind (Day 6)** - February 11, 2025
+Done 14. **C-betting Blind vs Blind (Day 6)** - February 11, 2025
 
 ---
 

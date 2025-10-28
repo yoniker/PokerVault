@@ -13,5 +13,3 @@ SB vs BB SRP, AsKc9s, SB is checking a lot - wtf and why
 
 SB vs BB SR flop As3s2d, it was claimed that the nut advantage is because BB calls 54o and sb folds, TODO check to what extent this is true
 
-
-
