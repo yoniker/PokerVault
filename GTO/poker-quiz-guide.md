@@ -17,7 +17,7 @@ Done 3. **C-betting Quiz Week - A95r Flop** - July 23, 2024
 
 Done 4. **C-betting Quiz Week - AT6 Two-Tone Flop** - July 24, 2024
 
-5. **C-betting Quiz Week - KJ8r Flop** - July 25, 2024
+Done 5. **C-betting Quiz Week - KJ8r Flop** - July 25, 2024
 
 6. **C-betting Quiz Week - 873 Two-Tone Flop** - July 26, 2024
 
