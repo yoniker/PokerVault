@@ -18,6 +18,8 @@ LJ vs BB SRP, flop comes 8c6d3c, LJ bets KhTh frequently because of "lack of nat
 BU vs BB SRP, Flop AdTd6c, BU bets a polorized 133% pot bet.
 TODO what happens if BU bets small vs polorised, in terms of how easy or hard it is to play against it?
 
-CO vs BU - in a 3Bet pot as BU on 722r, ask, what hands a small bet targets and what hands a bigger bet targets
+CO vs BU - in a 3Bet pot as BU on 722r, ask, what hands a small bet targets and what hands a bigger bet targets. On a T42 monotone, BU bets very often - TODO why?
+
+
 
 
