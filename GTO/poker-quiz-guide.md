@@ -19,11 +19,11 @@ Done 4. **C-betting Quiz Week - AT6 Two-Tone Flop** - July 24, 2024
 
 Done 5. **C-betting Quiz Week - KJ8r Flop** - July 25, 2024
 
-6. **C-betting Quiz Week - 873 Two-Tone Flop** - July 26, 2024
+Done 6. **C-betting Quiz Week - 873 Two-Tone Flop** - July 26, 2024
 
-7. **C-betting Quiz Week - AKJ Two-Tone Flop** - July 27, 2024
+Done 7. **C-betting Quiz Week - AKJ Two-Tone Flop** - July 27, 2024
 
-8. **C-betting Quiz Week - 773 Two-Tone Flop** - July 28, 2024
+Done 8. **C-betting Quiz Week - 773 Two-Tone Flop** - July 28, 2024
 
 9. **Flop C-Bet from the BTN Day 1** - March 18, 2025
 
