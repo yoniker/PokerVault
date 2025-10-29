@@ -15,7 +15,7 @@ Done 2. **C-betting Quiz Week (BTN vs. BB) T92r** - July 22, 2024
 
 Done 3. **C-betting Quiz Week - A95r Flop** - July 23, 2024
 
-4. **C-betting Quiz Week - AT6 Two-Tone Flop** - July 24, 2024
+Done 4. **C-betting Quiz Week - AT6 Two-Tone Flop** - July 24, 2024
 
 5. **C-betting Quiz Week - KJ8r Flop** - July 25, 2024
 

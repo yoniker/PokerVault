@@ -15,3 +15,5 @@ SB vs BB SR flop As3s2d, it was claimed that the nut advantage is because BB cal
 
 LJ vs BB SRP, flop comes 8c6d3c, LJ bets KhTh frequently because of "lack of natural draws" and backdoor straight draw plus two overcards
 
+BU vs BB SRP, Flop AdTd6c, BU bets a polorized 133% pot bet.
+TODO what happens if BU bets small vs polorised, in terms of how easy or hard it is to play against it?
