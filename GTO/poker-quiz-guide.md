@@ -665,7 +665,7 @@ Done 35. **Three-Bet Pots In Position (Day 5)** - May 14, 2025
 
 ### **FLOP - BTN C-betting as 3-bettor**
 
-1. **C-Betting in 3-Bet Pots as PFR – BU vs. CO (Day 1)** - September 17, 2025
+Done 1. **C-Betting in 3-Bet Pots as PFR – BU vs. CO (Day 1)** - September 17, 2025
 
 2. **C-Betting in 3-Bet Pots as PFR – BU vs CO (Day 2)** - September 18, 2025
 
