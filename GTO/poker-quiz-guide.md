@@ -667,21 +667,21 @@ Done 35. **Three-Bet Pots In Position (Day 5)** - May 14, 2025
 
 Done 1. **C-Betting in 3-Bet Pots as PFR – BU vs. CO (Day 1)** - September 17, 2025
 
-2. **C-Betting in 3-Bet Pots as PFR – BU vs CO (Day 2)** - September 18, 2025
+Done 2. **C-Betting in 3-Bet Pots as PFR – BU vs CO (Day 2)** - September 18, 2025
 
-3. **C-betting in 3-Bet Pots as PFR - BU vs CO (Day 3)** - September 19, 2025
+Done 3. **C-betting in 3-Bet Pots as PFR - BU vs CO (Day 3)** - September 19, 2025
 
-4. **C-Betting in 3-Bet Pots as PFR - BU vs CO (Day 4)** - September 20, 2025
+Done 4. **C-Betting in 3-Bet Pots as PFR - BU vs CO (Day 4)** - September 20, 2025
 
-5. **Continuation Betting in 3-Bet Pots as PFR - BU vs CO (Day 5)** - September 23, 2025
+Done 5. **Continuation Betting in 3-Bet Pots as PFR - BU vs CO (Day 5)** - September 23, 2025
 
 ---
 
 ### **FLOP - CO Defending vs BTN C-bet**
 
-6. **Call a 3-bet, Face a C-bet (In Position)** - June 14, 2024
+Done 6. **Call a 3-bet, Face a C-bet (In Position)** - June 14, 2024
 
-7. **Call a 3-bet, Face a C-bet (Cutoff vs. Button)** - June 21, 2024
+Done 7. **Call a 3-bet, Face a C-bet (Cutoff vs. Button)** - June 21, 2024
 
 8. **Call the Flop in a 3-bet Pot OOP? (Day 1)** - September 10, 2024
 

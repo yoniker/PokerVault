@@ -20,6 +20,13 @@ TODO what happens if BU bets small vs polorised, in terms of how easy or hard it
 
 CO vs BU - in a 3Bet pot as BU on 722r, ask, what hands a small bet targets and what hands a bigger bet targets. On a T42 monotone, BU bets very often - TODO why?
 
+BU vs SB in a 3B pot, flop Ah6d3c, sb c-bets small, 98cc calls(!) - TODO check assumptions, why etc.
+
+CO vs BU on a 3B pot,flop Ad9c6c, BU c-bets 20%, CO still folds KdQd(!) TODO wtf?
+On Qc9c6c, when BU c-bets small, 7d6d X/R sometimes(!).
+
+CO vs BU flop Ah6d3c 3Bet pot, KcJc is a threshold hand even when BU goes small (B20).
+
 
 
 
