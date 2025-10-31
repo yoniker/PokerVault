@@ -27,6 +27,8 @@ On Qc9c6c, when BU c-bets small, 7d6d X/R sometimes(!).
 
 CO vs BU flop Ah6d3c 3Bet pot, KcJc is a threshold hand even when BU goes small (B20).
 
+BB vs BU in a 3bet pot, Kh8d5c TODO BB bets range(90% of range) for a 50% pot bet size, TODO see what happens if BB chooses a smaller bet size with his range, what extra hands BU can call, and where will humans make more mistakes to my estimation
+
 
 
 

@@ -660,7 +660,7 @@ Done 35. **Three-Bet Pots In Position (Day 5)** - May 14, 2025
 ---
 ---
 
-## **3. CO vs BTN 3-bet (14 quizzes)**
+## Done **3. CO vs BTN 3-bet (14 quizzes)**
 *BTN 3-bets CO open*
 
 ### **FLOP - BTN C-betting as 3-bettor**
@@ -683,19 +683,19 @@ Done 6. **Call a 3-bet, Face a C-bet (In Position)** - June 14, 2024
 
 Done 7. **Call a 3-bet, Face a C-bet (Cutoff vs. Button)** - June 21, 2024
 
-8. **Call the Flop in a 3-bet Pot OOP? (Day 1)** - September 10, 2024
+Done 8. **Call the Flop in a 3-bet Pot OOP? (Day 1)** - September 10, 2024
 
-9. **Call the Flop in a 3-bet Pot OOP? (Day 2)** - September 11, 2024
+Done 9. **Call the Flop in a 3-bet Pot OOP? (Day 2)** - September 11, 2024
 
-10. **Call the Flop in a 3-bet Pot OOP? (Day 3)** - September 12, 2024
+Done 10. **Call the Flop in a 3-bet Pot OOP? (Day 3)** - September 12, 2024
 
-11. **Call the Flop in a 3-bet Pot OOP? (Day 4)** - September 13, 2024
+Done 11. **Call the Flop in a 3-bet Pot OOP? (Day 4)** - September 13, 2024
 
-12. **Call the Flop in a 3-bet Pot OOP? (Day 5)** - September 14, 2024
+Done 12. **Call the Flop in a 3-bet Pot OOP? (Day 5)** - September 14, 2024
 
-13. **Call the Flop in a 3-bet Pot OOP? (Day 6)** - September 15, 2024
+Done 13. **Call the Flop in a 3-bet Pot OOP? (Day 6)** - September 15, 2024
 
-14. **Call the Flop in a 3-bet Pot OOP? (Day 7)** - September 16, 2024
+Done 14. **Call the Flop in a 3-bet Pot OOP? (Day 7)** - September 16, 2024
 
 ---
 ---
