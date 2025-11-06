@@ -15,15 +15,15 @@ Done 2. **C-betting Quiz Week (BTN vs. BB) T92r** - July 22, 2024
 
 Done 3. **C-betting Quiz Week - A95r Flop** - July 23, 2024
 
-Done 4. **C-betting Quiz Week - AT6 Two-Tone Flop** - July 24, 2024
+4. **C-betting Quiz Week - AT6 Two-Tone Flop** - July 24, 2024
 
-Done 5. **C-betting Quiz Week - KJ8r Flop** - July 25, 2024
+5. **C-betting Quiz Week - KJ8r Flop** - July 25, 2024
 
-Done 6. **C-betting Quiz Week - 873 Two-Tone Flop** - July 26, 2024
+6. **C-betting Quiz Week - 873 Two-Tone Flop** - July 26, 2024
 
-Done 7. **C-betting Quiz Week - AKJ Two-Tone Flop** - July 27, 2024
+7. **C-betting Quiz Week - AKJ Two-Tone Flop** - July 27, 2024
 
-Done 8. **C-betting Quiz Week - 773 Two-Tone Flop** - July 28, 2024
+8. **C-betting Quiz Week - 773 Two-Tone Flop** - July 28, 2024
 
 9. **Flop C-Bet from the BTN Day 1** - March 18, 2025
 
@@ -660,42 +660,42 @@ Done 35. **Three-Bet Pots In Position (Day 5)** - May 14, 2025
 ---
 ---
 
-## Done **3. CO vs BTN 3-bet (14 quizzes)**
+## **3. CO vs BTN 3-bet (14 quizzes)**
 *BTN 3-bets CO open*
 
 ### **FLOP - BTN C-betting as 3-bettor**
 
-Done 1. **C-Betting in 3-Bet Pots as PFR – BU vs. CO (Day 1)** - September 17, 2025
+1. **C-Betting in 3-Bet Pots as PFR – BU vs. CO (Day 1)** - September 17, 2025
 
-Done 2. **C-Betting in 3-Bet Pots as PFR – BU vs CO (Day 2)** - September 18, 2025
+2. **C-Betting in 3-Bet Pots as PFR – BU vs CO (Day 2)** - September 18, 2025
 
-Done 3. **C-betting in 3-Bet Pots as PFR - BU vs CO (Day 3)** - September 19, 2025
+3. **C-betting in 3-Bet Pots as PFR - BU vs CO (Day 3)** - September 19, 2025
 
-Done 4. **C-Betting in 3-Bet Pots as PFR - BU vs CO (Day 4)** - September 20, 2025
+4. **C-Betting in 3-Bet Pots as PFR - BU vs CO (Day 4)** - September 20, 2025
 
-Done 5. **Continuation Betting in 3-Bet Pots as PFR - BU vs CO (Day 5)** - September 23, 2025
+5. **Continuation Betting in 3-Bet Pots as PFR - BU vs CO (Day 5)** - September 23, 2025
 
 ---
 
 ### **FLOP - CO Defending vs BTN C-bet**
 
-Done 6. **Call a 3-bet, Face a C-bet (In Position)** - June 14, 2024
+6. **Call a 3-bet, Face a C-bet (In Position)** - June 14, 2024
 
-Done 7. **Call a 3-bet, Face a C-bet (Cutoff vs. Button)** - June 21, 2024
+7. **Call a 3-bet, Face a C-bet (Cutoff vs. Button)** - June 21, 2024
 
-Done 8. **Call the Flop in a 3-bet Pot OOP? (Day 1)** - September 10, 2024
+8. **Call the Flop in a 3-bet Pot OOP? (Day 1)** - September 10, 2024
 
-Done 9. **Call the Flop in a 3-bet Pot OOP? (Day 2)** - September 11, 2024
+9. **Call the Flop in a 3-bet Pot OOP? (Day 2)** - September 11, 2024
 
-Done 10. **Call the Flop in a 3-bet Pot OOP? (Day 3)** - September 12, 2024
+10. **Call the Flop in a 3-bet Pot OOP? (Day 3)** - September 12, 2024
 
-Done 11. **Call the Flop in a 3-bet Pot OOP? (Day 4)** - September 13, 2024
+11. **Call the Flop in a 3-bet Pot OOP? (Day 4)** - September 13, 2024
 
-Done 12. **Call the Flop in a 3-bet Pot OOP? (Day 5)** - September 14, 2024
+12. **Call the Flop in a 3-bet Pot OOP? (Day 5)** - September 14, 2024
 
-Done 13. **Call the Flop in a 3-bet Pot OOP? (Day 6)** - September 15, 2024
+13. **Call the Flop in a 3-bet Pot OOP? (Day 6)** - September 15, 2024
 
-Done 14. **Call the Flop in a 3-bet Pot OOP? (Day 7)** - September 16, 2024
+14. **Call the Flop in a 3-bet Pot OOP? (Day 7)** - September 16, 2024
 
 ---
 ---
