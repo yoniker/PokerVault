@@ -28,7 +28,7 @@ Monotone/Paired/Connected/High Disconnected/Low Disconnected
 
 I even wrote a computer program to estimate the frequency of their appearance in "nature" (on the actual board)- (this is only a good estimation as this doesn't take into account the hole card ranges of the players which block/unblock textures):
 
-#### Natural Flop Type Frequencies (Out of 22,100 Flops)
+#### Natural Flop Type Frequencie s (Out of 22,100 Flops)
 
 | Flop Type         | Count  | Frequency | Percentage |
 | ----------------- | ------ | --------- | ---------- |
